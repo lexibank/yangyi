@@ -1,94 +1,77 @@
-Number	Subbranch	Cluster	Name	Source	Source type	Type abbreviation	Province	Prefecture	County	Township	Village	Latitude	Longitude	Location source
-1	Central	Laloid	E-Diaocao	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Dali	Shijiao qu	Diaocao	25.538453	100.2553080000	same as reference
-2	Central	Laloid	W-Yilu	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Yongping	Changjie	Yilu	25.2908485657698	99.6396402988	same as reference
-3	Central	Laloid	W-Shuizhuping	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Yangbi	Longtan	Shuizhuping	25.3844630607726	99.8436533280	same as reference
-4	Central	Laloid	W-Dutian	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Yangbi	Taiping	Dutian	25.5134482500214	99.8301212214	same as reference
-5	Central	Laloid	C-Qingyun	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Weishan	Ma'anshan	Qingyun	25.28985136	100.0455762600	same as reference
-6	Central	Laloid	Eka	Yang 2015	wordlist + analysis	AB	Yunnan	Lincang	Shuangjiang	Heliu	Yijiacun	23.4771337655327	99.9422299604	same as reference
-7	Central	Laloid	Xuzhang	Yang 2015	wordlist + analysis	AB	Yunnan	Baoshan	Longyang	Wafang	Xuzhang	25.3277808889014	98.9970677185	same as reference
-8	Central	Laloid	Yangliu	Yang 2015	wordlist + analysis	AB	Yunnan	Baoshan	Longyang	Yangliu	Yangliu	25.1877608455694	98.9957997747	same as reference
-9	Central	Laloid	SE-Gaoping	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Midu 	Micheng	Gaoping	25.2861883382065	100.4230602638	same as reference
-10	Central	Laloid	CE-Yong'an	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Weishan	Yongjian	Yong'an	25.4702511877754	100.2688649899	same as reference
-11	Central	Laloid	C-Longjie	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Weishan	Wuyin	Longjie	25.2061973057332	100.0334557739	same as reference
-12	Central	Laloid	C-Wachang	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Yangbi	Wachang	Wachang	25.4166405930704	99.9661329659	same as reference
-13	Central	Laloid	C-Leba	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Yongping	Shuixie	Leba	25.0689002786344	99.7199450062	same as reference
-14	Central	Laloid	C-Chajiang	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Nanjian	Xiaowandong	Chajiang	24.7221309210054	100.1408171056	same as reference
-15	Central	Laloid	C-Qingsheng	Yang 2015	wordlist + analysis	AB	Yunnan	Pu'er	Jingdong	Anding	Qingsheng	24.7626241790066	100.6381824686	same as reference
-16	Central	Laloid	E-Houshan	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Dali	Fengyi	Houshan	25.3751828004878	100.4392542886	same as reference
-17	Central	Laloid	E-Taoshu	Yang 2015	wordlist + analysis	AB	Yunnan	Dali	Dali	Taiyi	Taoshu	25.5683875777243	100.0581570205	same as reference
-18	Central	Laloid	W-Shanglizhuo	Yang 2015	wordlist + analysis	AB	Yunnan	Baoshan	Longyang	Wama	Shanglizhuo	25.5235701095129	98.9783729985	same as reference
-19	Central	Laloid	S-Mangdi	Yang 2015	wordlist + analysis	AB	Yunnan	Lincang	Gengma	Hepai	Mangdi	23.4690251759836	99.3155123394	same as reference
-20	Central	Taloid	Taliu	Zhou 2004	wordlist	A	Yunnan	Lijiang	Yongsheng	Liude	Liude	26.55219217	100.8467043	same as reference
-21	Central	Taloid	Kuansi	Castro, Crook, Flaming 2010	wordlist	A	Yunnan	Dali	Heqing	Liuhe	Hedong	26.33305556	100.25	same as reference
-22	Central	Taloid	Lavu	Chen 2010	wordlist	A	Yunnan	Lijiang	Yongsheng	Liang'e	Liang'e 	26.67867748	100.7497253	same as reference
-23	Central	Taloid	Ghomozo	Yang 2008 fieldnotes	wordlist	A	Yunnan	Dali	Eryuan	Cibi	Dasongdian	26.07588114	99.91832807	same as reference
-24	Central	Lisoid	Limi	Yang 2017	wordlist + analysis	AB	Yunnan	Lincang	Yongde	Wumulong	Wumulong	24.2046473	99.70780531	same as reference
-25	Central	Lisoid	Jinggu Limi	Zhao 2019	wordlist + analysis	AB	Yunnan	Pu'er	Jinggu	Yongping	Mengga	23.41161589	100.3939263	same as reference
-26	Central	Lisoid	C Lolo	Yang 2012 fieldnotes; Bradley 2003	wordlist	AB	Yunnan	Chuxiong	Nanhua	Wujie	Qincaitang	25.22012656	100.9674095	same as reference
-27	Central	Lisoid	E Lolo	Yang 2012 fieldnotes	wordlist	AB	Yunnan	Chuxiong	Shuangbai	Fapiao	Damaidi	24.70512501	101.92075	same as reference
-28	Central	Lisoid	Lipo	Yang 2012 fieldnotes; Bradley 2003	wordlist	AB	Yunnan	Chuxiong	Yongren	Yijiu	Aduosuo	25.967744	101.469582	same as reference
-29	Central	Lisoid	Lisu	Huang & Dai 1992; Bradley 1979b	wordlist	AB	Yunnan	Nujiang	Fugong	Jiakedi	Liwudi	26.75196842	98.88478072	same as reference
-30	Central	Lahoid	Shehleh	Bradley 1979a: 140	analysis	AB	Thailand: Wiang Pa Pao, Chiang Rai					 19°21'36.75"N	 99°30'14.77"E	same as reference
-31	Central	Lahoid	Black Lahu	Bradley 1979a: 140	analysis	AB	Yunnan	Pu'er	Lancang	Nuofu		22.21900429	99.70134153	same as reference
-32	Central	Lahoid	Red Lahu	Bradley 1979a: 140	analysis	AB	Thailand: Fang town, Chiang Mai					 19°54'22.60"N	 99°13'34.58"E	same as reference
-33	Central	Lahoid	Kulao	Bradley 1979a: 140	analysis	AB	Thailand: Chiang Kong and Toeng districts, Chiang Rai					 20°14'35.96"N	100°24'11.09"E	same as reference
-34	Central	Lahoid	Bakeo (Yellow)	Bradley 1979a: 140	analysis	AB	Thailand: Mae Chan and Mae Suai, Chiang Rai					 20°11'28.18"N	 99°56'47.43"E	same as reference
-35	Central	Lahoid	Banlan (Yellow)	Bradley 1979a: 140	analysis	AB	Thailand: Chiang Mai and Chiang Rai					 19°54'37.73"N	 99°50'26.07"E	same as reference
-36	Northern	Nosoid	Nosu (Senza)	Chen 2010; Bradley 1979a	wordlist	AB	Sichuan	Liangshan	Xide			28.30672651	102.4125175	county seat listed in Chen 2010
-37	Northern	Nosoid	Yino	Chen 2010	wordlist	A	Sichuan	Liangshan	Meigu			28.32864	103.1321792	county seat listed in Chen 2010
-38	Northern	Nosoid	Lidim (Tianba)	Chen 2010	wordlist	A	Sichuan	Liangshan	Ganluo			28.96606783	102.7717472	county seat listed in Chen 2010
-39	Northern	Nosoid	Sodi	Chen 2010	wordlist	A	Sichuan	Liangshan	Huili			26.65502606	102.2446829	county seat listed in Chen 2010
-40	Northern	Nasoid	Nasu	Chen 2010; Bradley 1979a	wordlist	AB	Yunnan	Kunming	Wuding			25.52497193	102.4030928	county seat listed in Chen 2010
-41	Northern	Nasoid	Alo	Chen 2010	wordlist	A	Yunnan	Chuxiong	Wuding	Dongpo	Yichidan	25.937203	102.1064952	datapoint listed in YYFC 1983 
-42	Northern	Nasoid	Nise	Chen 2010	wordlist	A	Yunnan	Kunming	Shilin	Muzhuqing		24.68802092	103.6001565	datapoint listed in YYFC 1984
-43	Northern	Nasoid	Naso	Chen 2010	wordlist	A	Yunnan	Zhaotong	Qiaojia			26.89835528	102.9271427	county seat listed in Chen 2010
-44	Northern	Nasoid	Laowu Nisu	W. Yang (2018); Yang & Yang 2018	wordlist + analysis	AB	Yunnan	Dali	Yunlong	Tuanjie		25.74329166	99.57814539	same as reference
-45	Northern	Nasoid	Luowu Nisu 	Shen (forthcoming)	wordlist + analysis	AB	Yunnan	Chuxiong	Shuangbai	Fapiao	Lifangcun	24.55990379	101.7955965	same as reference
-46	Northern	Nasoid	Nersu	Chen 2010	wordlist	A	Guizhou	Bijie	Weining	Longjie	Shejigu	27.141233	104.020331	datapoint listed in YYFC 1984
-47	Northern	Nasoid	Nipu	Chen 2010	wordlist	A	Guizhou	Bijie	Qianxi			27.00771251	106.033544	county seat listed in Chen 2010
-48	Northern	Nasoid	Noso	Chen 2010	wordlist	A	Guizhou	Anshun	Panxian			25.71000184	104.4715351	county seat listed in Chen 2010
-49	Northern	Nasoid	Kopo (Gepo)	Chen 2010	wordlist	A	Yunnan	Kunming	Luquan			25.51563431	102.4630191	county seat listed in Chen 2010
-50	Northern	Nasoid	Sanni (Sanie)	Chen 2010	wordlist	A	Yunnan	Kunming	Xishan	Zhaozong		25.04887917	102.6362707	datapoint listed in YYFC 1984
-51	Central	Sanoid	Sani	Chen 2010	wordlist	AB	Yunnan	Kunming	Shilin			24.77179693	103.290785	county seat listed in Chen 2010
-52	Central	Sanoid	Axi	YYFC 1983	wordlist	AB	Yunnan	Honghe	Mile	Xiyi	Dapingdi	24.441446	103.268645	datapoint listed in YYFC 1984
-53	Central	Sanoid	Azhe	YYFC 1983	wordlist	AB	Yunnan	Honghe	Mile	Wushan	Zhongzhai	24.32964102	103.119097	datapoint listed in YYFC 1984
-54	Central	Sanoid	Azha	Pelkey 2011	wordlist + analysis	AB	Yunnan	Wenshan	Wenshan 	Binglie 	Luojiayi	23.54166649	104.1861823	same as reference
-55	Central	Unaffiliated	Katso	Huang & Dai 1992	wordlist	A	Yunnan	Yuxi	Tonghai	Xingmeng	Baige	24.15171	102.664589	same as reference
-56	Central	Unaffiliated	Lawu	Yang 2012	wordlist + analysis	AB	Yunnan	Yuxi	Xinping	Shuitang	Jiuha	24.1338571	101.4986393	same as reference
-57	Northern	Nisoid	N Nisu 	Yang 2009	wordlist + analysis	AB	Yunnan	Yuxi	Xinping	Laochang	Zhuyuan	24.13820926	101.6461907	same as reference
-58	Northern	Nisoid	S Nisu 	Yang 2009	wordlist + analysis	AB	Yunnan	Honghe	Honghe	Leyu		23.32715901	102.326438	same as reference
-59	Northern	Nisoid	Narsu (NW Nisu)	Yang 2009; Chen 2010	wordlist	A	Yunnan	Yuxi	Eshan	Fuliangpeng	Dieshemo	24.25746171	102.0476517	same as reference
-60	Northern	Unaffiliated	Toloza	Chen 2010	wordlist	A	Yunnan	Lijiang	Yulong	Tai'an	Hongmai	26.62042438	100.0342986	datapoint listed in YYFC 1984
-61	Northern	Unaffiliated	Lope (Awu)	Chen 2010	wordlist	A	Yunnan	Honghe	Mile	Dongshan	Shemu	24.25668563	103.6428899	datapoint listed in YYFC 1984
-62	Northern	Unaffiliated	Lope (Awu)2	YYFC 1983	wordlist	A	Yunnan	Honghe	Mile	Dongshan	Shemu	24.25668563	103.6428899	datapoint listed in YYFC 1984
-63	Southeastern	Muji	N. Muji	Pelkey 2011	analysis	B	Yunnan	LSD (Muji, Northern): Pingbian County, Xinxian, Luoshuidong 屏边县新现镇落水洞	Pingbian	Xinxian	Luoshuidong	23.158118	103.553092	same as reference
-64	Southeastern	Muji	S. Muji	Pelkey 2011	wordlist + analysis	AB	Yunnan	PJZ (Muji, Southern): Jinping County, Adebo, Pujiazhai 金平县阿得博乡普家寨	Jinping	Adebo	Pujiazhai	22.895906	103.222074	same as reference
-65	Southeastern	Muji	Muzi	Pelkey 2011	analysis	B	Yunnan	MLT (Muzi): Gejiu County (Shi), Laochang, Malutang 个旧市老厂镇马鹿唐	Gejiu	Laochang	Malutang	23.28894114	103.2637142	same as reference
-66	Southeastern	Muji	Bokha	Pelkey 2011	analysis	B	Yunnan	DXB (Bokha, Bokho): Jinping County, Ma’andi, Dixibei 金平县马鞍底地西北	Jinping	Ma'andi	Dixibei	22.767881	103.519526	same as reference
-67	Southeastern	Muji	Phuma	Pelkey 2011	analysis	B	Yunnan	YZT (Phuma): Pingbian County, Beihe, Yanzitou 屏边县白河乡岩子头	Pingbian	Beihe	Yanzitou	23.050172	103.81562	same as reference
-68	Southeastern	Muji	Muji-Qila	Pelkey 2011	analysis	B	Yunnan	QLC (Muji, Qila): Jinping County, Jinshuihe, Qila 金平县金水河镇期腊	Jinping	Jinshuihe	Qila	22.58953698	103.1150342	same as reference
-69	Southeastern	Muji	Thopho	Pelkey 2011	analysis	B	Yunnan	XZC (Thopho): Guangnan County, Zhetu, Xinzhai 广南县者兔乡新寨	Guangnan	Zhetu	Xinzhai	24.09911695	104.7437693	same as reference
-70	Southeastern	Muji	Laghuu	Pelkey 2011	analysis	B	Vietnam	not located						same as reference
-71	Southeastern	Muji	Moji	Pelkey 2011	analysis	B	Yunnan	LCC (Moji): Xichou County, Lianhuatang, Luchaichong 西畴县莲花塘芦差冲	Xichou	Lianhuatong	Luchaichong	23.173881	104.58547	same as reference
-72	Southeastern	Phowa	Phowa: Ani	Pelkey 2011	analysis	B	Yunnan	DHN (Phowa, Ani): Mengzi County, Xibeile, Daheineng 蒙自县西北勒乡大黑能	Mengzi	Xibeile	Daheineng	23.54908228	103.4382523	same as reference
-73	Southeastern	Phowa	Labo	Pelkey 2011	analysis	B	Yunnan	JJC (Phowa, Labo): Kaiyuan County (Shi), Beige, Jiaji 开远市碑格乡架吉	Kaiyuan	Beige	Jiaji	23.64545269	103.5329348	same as reference
-74	Southeastern	Phowa	Hlepho	Pelkey 2011	wordlist + analysis	AB	Yunnan	FZK (Phowa, Hlepho): Pingbian County, Xinhua, Feizuke	Pingbian	Xinhua	Feizuke	23.33390151	103.7217585	same as reference
-75	Southeastern	Phowa	Phukha	Pelkey 2011	analysis	B	Vietnam	LPC	Lào Cai Province	Bảo Yên 		22.154456	104.26148	same as reference
-76	Southeastern	Phowa	Khlula	Pelkey 2011	analysis	B	Yunnan	LZC (Khlula): Wenshan County, Liujin, Laozhai 文山县柳井乡老寨	Wenshan	Liujin	Laozhai	23.39830017	103.7891214	same as reference
-77	Southeastern	Phowa	Zokhuo	Pelkey 2011	analysis	B	Yunnan	DXZ (Zokhuo): Wenshan County, Zhuiligai, Daxingzhai 文山县追栗街镇大兴寨	Wenshan	Zhuiligai	Daxingzhai	23.342516	104.368277	same as reference
-78	Southeastern	Riverine Phula	Up: Phola	Pelkey 2011	wordlist + analysis	AB	Yunnan	LDC (Phola): Yuanjiang County, Wadie, Luodie	Yuanjiang	Wadie	Luodie	23.456381	102.286862	same as reference
-79	Southeastern	Riverine Phula	Phala	Pelkey 2011	analysis	B	Yunnan	BSC (Phala): Honghe County, Baohua, Beishe 红河县宝华乡碑赊	Honghe	Baohua	Beishe	23.31066249	102.372137	same as reference
-80	Southeastern	Riverine Phula	Down: Alugu	Pelkey 2011	analysis	B	Yunnan	CTL (Alugu): Gejiu County (Shi), Manhao, Chongtianling 个旧市蔓耗镇冲天岭	Gejiu	Manhao	Chongtianling	23.1073512	103.1592003	same as reference
-81	Southeastern	Riverine Phula	Phupa	Pelkey 2011	analysis	B	Yunnan	GMD (Phupa): Mengzi County, Shuitian, Gamadi 蒙自县水田乡嘎马底	Mengzi	Shuitian	Gamadi	23.0479868	103.3990186	same as reference
-82	Southeastern	Riverine Phula	Phuza	Pelkey 2011	wordlist + analysis	AB	Yunnan	BJB (Phuza): Mengzi County, Lengquan, Bujibai 蒙自县冷泉镇补鸡白	Mengzi	Lengquan	Jibaidan	23.253698	103.332621	same as reference
-83	Southeastern	Riverine Phula	Phupha	Pelkey 2011	analysis	B	Yunnan	FKC (Phupha): Gejiu County (Shi), Jiasha, Fengkou 个旧市贾沙乡风口	Gejiu	Jiasha	Fengkou	23.21014187	102.940952	same as reference
-84	Southern	Akoid	Hani- Lvchun	Sun (1991)	wordlist	A	Yunnan	Honghe	Luchun			22.9971543	102.4112667	same as reference
-85	Southern	Akoid	Hani-Qiepu	Qu & Yang 2019	wordlist + analysis	AB	Yunnan	Honghe	Honghe	Luo'en	Qiepu	23.17492035	102.323801	same as reference
-86	Southern	Akoid	Hani-Longwei	Chang forthcoming	wordlist + analysis	AB	Yunnan	Honghe	Honghe	Leyu	Longwei	23.28989	102.258828	same as reference
-87	Southern	Akoid	Haoni	Sun (1991)	wordlist	A	Yunnan	Pu'er	Mojiang	Lianzhu	Guineng,shuigui	23.44336047	101.7461037	same as reference
-88	Southern	Akoid	Akha	Bradley 1979b	wordlist + analysis	AB	Thailand	not located						
-89	Southern	Bi-Ka	Mpi	Bradley 1979b	wordlist + analysis	AB	Thailand	not located						
-90	Southern	Bisoid	Phunoi	Bradley 1979b	wordlist + analysis	AB	Thailand	not located						
-91	Southern	Bisoid	Bisu	Bradley 1979b	wordlist + analysis	AB	Thailand	not located						
-92	Unknown	Mondzoid	Maang	Hsiu 2014	wordlist	A	Yunnan	Wenshan	Funing	Banlun	Longmai	23.51355699	106.0052758	same as reference
-93	Unknown	Mondzoid	Mondzi	Hsiu 2014	wordlist	A	Yunnan	Wenshan	Malipo	Dong'gan	Yongli	23.39918383	105.2343413	same as reference
+ID	Number	Name	NameInData	Source	Latitude	Longitude	Location
+HaniLongwei	86	Hani-Longwei	Hani-Longwei	Changfieldnotes	23.28989	102.258828	Yunnan Honghe Honghe
+HaniQiepu	85	Hani-Qiepu	Hani-Qiepu	Qu2020	23.17492035	102.323801	Yunnan Honghe Honghe
+HaniLuchun	84	Hani- Lvchun	Hani-Luchun	Sun1991	22.9971543	102.4112667	Yunnan Honghe Luchun
+Haoni	87	Haoni	Haoni	Sun1991	23.44336047	101.7461037	Yunnan Pu'er Mojiang
+LahuNa			Lahu Na	Sun1991			
+Ghomozo	23	Ghomozo	Ghomozo	Yangfieldnotes2008	26.07588114	99.91832807	Yunnan Dali Eryuan
+Kuansi	21	Kuansi	Kuansi	Castroetal2010	26.33305556	100.25	Yunnan Dali Heqing
+Lavu	22	Lavu	Lavu	Chen2010	26.67867748	100.7497253	Yunnan Lijiang Yongsheng
+Talu			Talu	Chen2010			
+Xuzhang	7	Xuzhang	Xuzhang	Yang2015	25.3277808889014	98.9970677185	Yunnan Baoshan Longyang
+WShanglizhuo	18	W-Shanglizhuo	W-Shanglizhuo	Yang2015	25.5235701095129	98.9783729985	Yunnan Baoshan Longyang
+Yangliu	8	Yangliu	Yangliu	Yang2015	25.1877608455694	98.9957997747	Yunnan Baoshan Longyang
+CLeba	13	C-Leba	C-Leba	Yang2015	25.0689002786344	99.7199450062	Yunnan Dali Yongping
+CEYongan	10	CE-Yong'an	CE-Yong'an	Yang2015	25.4702511877754	100.2688649899	Yunnan Dali Weishan
+EDiaocao	1	E-Diaocao	E-Diaocao	Yang2015	25.538453	100.2553080000	Yunnan Dali Dali
+EHoushan	16	E-Houshan	E-Houshan	Yang2015	25.3751828004878	100.4392542886	Yunnan Dali Dali
+ETaoshu	17	E-Taoshu	E-Taoshu	Yang2015	25.5683875777243	100.0581570205	Yunnan Dali Dali
+Eka	6	Eka	Eka	Yang2015	23.4771337655327	99.9422299604	Yunnan Lincang Shuangjiang
+SMangdi	19	S-Mangdi	S-Mangdi	Yang2015	23.4690251759836	99.3155123394	Yunnan Lincang Gengma
+CQingsheng	15	C-Qingsheng	C-Qingsheng	Yang2015	24.7626241790066	100.6381824686	Yunnan Pu'er Jingdong
+SEGaoping	9	SE-Gaoping	SE- Gaoping	Yang2015	25.2861883382065	100.4230602638	Yunnan Dali Midu
+CChajiang	14	C-Chajiang	C-Chajiang	Yang2015	24.7221309210054	100.1408171056	Yunnan Dali Nanjian
+CQingyun	5	C-Qingyun	C-Qingyun	Yang2015	25.28985136	100.0455762600	Yunnan Dali Weishan
+CLongjie	11	C-Longjie	C-Longjie	Yang2015	25.2061973057332	100.0334557739	Yunnan Dali Weishan
+WYilu	2	W-Yilu	W- Yilu	Yang2015	25.2908485657698	99.6396402988	Yunnan Dali Yongping
+WShuizhuping	3	W-Shuizhuping	W-Shuizhuping	Yang2015	25.3844630607726	99.8436533280	Yunnan Dali Yangbi
+WDutian	4	W-Dutian	W-Dutian	Yang2015	25.5134482500214	99.8301212214	Yunnan Dali Yangbi
+CWachang	12	C-Wachang	C-Wachang	Yang2015	25.4166405930704	99.9661329659	Yunnan Dali Yangbi
+Lisu	29	Lisu	Lisu	Sun1991	26.75196842	98.88478072	Yunnan Nujiang Fugong
+LuquanLisu			Luquan Lisu	MuSun2012			
+TengchongLisu			Tengchong Lisu	MuSun2013			
+WeixiLisu			Weixi Lisu	MuSun2014			
+YongshengLisu			Yongsheng Lisu	MuSun2015			
+CLolo	26	C Lolo	C-Lolo	YangFlaming2012fieldnotes	25.22012656	100.9674095	Yunnan Chuxiong Nanhua
+ELolo	27	E Lolo	E-Lolo	YangFlaming2012fieldnotes	24.70512501	101.92075	Yunnan Chuxiong Shuangbai
+JingguLimi	25	Jinggu Limi	Jinggu Limi	Zhao2019	23.41161589	100.3939263	Yunnan Pu'er Jinggu
+Limi	24	Limi	Limi	Yang2017	24.2046473	99.70780531	Yunnan Lincang Yongde
+Lipo	28	Lipo	Lipo	YangFlaming2012fieldnotes	25.967744	101.469582	Yunnan Chuxiong Yongren
+Maang	92	Maang	Maang	YYFC1983	23.51355699	106.0052758	Yunnan Wenshan Funing
+Mondzi	93	Mondzi	Mondzi	YYFC1983	23.39918383	105.2343413	Yunnan Wenshan Malipo
+Mongi			Mongi	Chen2010			
+Alo	41	Alo	Alo	Chen2010	25.937203	102.1064952	Yunnan Chuxiong Wuding
+KopoGepo	49	Kopo (Gepo)	Kopo (Gepo)	Chen2010	25.51563431	102.4630191	Yunnan Kunming Luquan
+Naso	43	Naso	Naso	Chen2010	26.89835528	102.9271427	Yunnan Zhaotong Qiaojia
+Nasu	40	Nasu	Nasu	Chen2010	25.52497193	102.4030928	Yunnan Kunming Wuding
+LuowuNisu	45	Luowu Nisu	Luowu Nisu	Sheninprogress	24.55990379	101.7955965	Yunnan Chuxiong Shuangbai
+Nipu	47	Nipu	Nipu	Chen2010	27.00771251	106.033544	Guizhou Bijie Qianxi
+Nersu	46	Nersu	Nersu	Chen2010	27.141233	104.020331	Guizhou Bijie Weining
+Nise	42	Nise	Nise	Chen2010	24.68802092	103.6001565	Yunnan Kunming Shilin
+LaowuNisu	44	Laowu Nisu	Laowu Nisu	YangWenjing2018	25.74329166	99.57814539	Yunnan Dali Yunlong
+Noso	48	Noso	Noso	Chen2010	25.71000184	104.4715351	Guizhou Anshun Panxian
+Narsu	59	Narsu (NW Nisu)	Narsu	Chen2010	24.25746171	102.0476517	Yunnan Yuxi Eshan
+Neshu			Neshu	Chen2010			
+Nesu			Nesu	Chen2010			
+LopeAwuChen2010	61	Lope (Awu)	Lope (Awu) (Chen 2010)	Chen2010	24.25668563	103.6428899	Yunnan Honghe Mile
+LopeAwuYYFC1983	62	Lope (Awu)2	Lope (Awu) (YYFC 1983)	YYFC1983	24.25668563	103.6428899	Yunnan Honghe Mile
+NNisu	57	N Nisu	N. Nisu	Yang2009	24.13820926	101.6461907	Yunnan Yuxi Xinping
+SNisu	58	S Nisu	S. Nisu	Yang2009	23.32715901	102.326438	Yunnan Honghe Honghe
+Lidim	38	Lidim (Tianba)	Lidim	Chen2010	28.96606783	102.7717472	Sichuan Liangshan Ganluo
+NuosuHuangDai1992			Nuosu (Huang & Dai 1992)	HuangDai1992			
+NosuXide	36	Nosu (Senza)	Nosu (Xide)	YYFC1983	28.30672651	102.4125175	Sichuan Liangshan Xide
+Sodi	39	Sodi	Sodi	Chen2010	26.65502606	102.2446829	Sichuan Liangshan Huili
+Senza			Senza	Chen2010			
+Yino	37	Yino	Yino	Chen2010	28.32864	103.1321792	Sichuan Liangshan Meigu
+Axi	52	Axi	Axi	YYFC1983	24.441446	103.268645	Yunnan Honghe Mile
+Azhe	53	Azhe	Azhe	YYFC1983	24.32964102	103.119097	Yunnan Honghe Mile
+Sani	51	Sani	Sani	Chen2010	24.77179693	103.290785	Yunnan Kunming Shilin
+AzhaazaPelkey2011	54	Azha	Azha [aza] Pelkey 2011	Pelkey2011	23.54166649	104.1861823	Yunnan Wenshan Wenshan
+SanniSanie	50	Sanni (Sanie)	Sanni (Sanie)	Chen2010	25.04887917	102.6362707	Yunnan Kunming Xishan
+Pholaypg	78	Up: Phola	Phola [ypg]	Pelkey2011	23.456381	102.286862	Yunnan LDC (Phola): Yuanjiang County, Wadie, Luodie Yuanjiang
+Phuzaypz	82	Phuza	Phuza [ypz]	Pelkey2012	23.253698	103.332621	Yunnan BJB (Phuza): Mengzi County, Lengquan, Bujibai 蒙自县冷泉镇补鸡白 Mengzi
+SouthernMujiymc	64	S. Muji	Southern Muji [ymc]	Pelkey2013	22.895906	103.222074	Yunnan PJZ (Muji, Southern): Jinping County, Adebo, Pujiazhai 金平县阿得博乡普家寨 Jinping
+HlephoPhowayhl	74	Hlepho	Hlepho Phowa [yhl]	Pelkey2014	23.33390151	103.7217585	Yunnan FZK (Phowa, Hlepho): Pingbian County, Xinhua, Feizuke Pingbian
+Kazhuo			Kazhuo	HuangDai1992			
+LawuXinpingShuitangJiuha	56	Lawu	Lawu-Xinping Shuitang Jiuha	Yang2012	24.1338571	101.4986393	Yunnan Yuxi Xinping
+Toloza	60	Toloza	Toloza	Chen2010	26.62042438	100.0342986	Yunnan Lijiang Yulong

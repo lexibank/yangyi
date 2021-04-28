@@ -1,0 +1,40 @@
+{
+    "title": "CLDF dataset accompanying Yang's \"\" from 2021",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Cathryn Yang"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Cathryn Yang",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Steve Pepper",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
