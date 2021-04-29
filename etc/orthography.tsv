@@ -1,952 +1,929 @@
-Grapheme	IPA	Examples	Languages	Frequence	Codepoints
-^	NULL				
-$	NULL				
-³³$	³³	mu³³, mɯ³³	LahuNa, Xuzhang, NuosuHuangDai1992, CEYongan, Limi, SMangdi, JingguLimi, Senza, WShanglizhuo, Talu, Haoni, EDiaocao, LaowuNisu, HaniLuchun, Nise, Eka, CQingyun, SEGaoping, Axi, LuquanLisu, Kazhuo, LuowuNisu, Kuansi, Yangliu, Lidim, Lavu, WDutian, EHoushan, LopeAwuChen2010, LawuXinpingShuitangJiuha, NNisu, ELolo, ETaoshu, Mongi, YongshengLisu, KopoGepo, Sani, LopeAwuYYFC1983, Nipu, Ghomozo, Phuzaypz, Nesu, WeixiLisu, Pholaypg, WYilu, HlephoPhowayhl, SanniSanie, Narsu, CLolo, Toloza, Lisu, Neshu, NosuXide, Sodi, HaniQiepu, Alo, AzhaazaPelkey2011, CLongjie, Naso, SNisu, Nasu, TengchongLisu, CQingsheng, Nersu, Noso	100	U+00b3 U+00b3 U+0024
-²¹$	²¹	xo²¹bo²¹mo²¹, ɬo²¹bo²¹	SNisu, NNisu, WShanglizhuo, Nesu, Narsu, Neshu, AzhaazaPelkey2011, SouthernMujiymc, Noso, LopeAwuChen2010, ELolo, CWachang, KopoGepo, Sani, LopeAwuYYFC1983, CChajiang, Nipu, Mondzi, CLeba, CEYongan, CLolo, Toloza, Nise, Eka, SMangdi, Alo, LuowuNisu, Lipo, Naso, WShuizhuping, Azhe, Nasu, CQingsheng, Nersu, Senza, EDiaocao, Mongi, NuosuHuangDai1992, Talu, LaowuNisu, Lavu, WYilu, HlephoPhowayhl, Limi, SanniSanie, NosuXide, Sodi, CQingyun, Axi, SEGaoping, JingguLimi, CLongjie, Kuansi, Yangliu, Lidim, WDutian	100	U+00b2 U+00b9 U+0024
-i	i	ȵi²¹dʑi²¹, ȵi²¹ndʑi²¹	Mongi, SMangdi, EDiaocao, Eka, Axi, Nersu, Noso, LopeAwuChen2010, Senza, Maang, KopoGepo, CLeba, CEYongan, WeixiLisu, Pholaypg, WYilu, HlephoPhowayhl, Sodi, CQingyun, SEGaoping, Alo, AzhaazaPelkey2011, Yino, LuowuNisu, SNisu, Nasu, Lidim, TengchongLisu, WDutian, LahuNa, Xuzhang, NNisu, ELolo, CWachang, ETaoshu, WShanglizhuo, Talu, NuosuHuangDai1992, LaowuNisu, Sani, LopeAwuYYFC1983, CChajiang, Nipu, Ghomozo, Mondzi, Nesu, Limi, CLolo, HaniLuchun, Toloza, Lisu, Nise, Neshu, NosuXide, JingguLimi, LuquanLisu, CLongjie, Yangliu, Azhe, CQingsheng, WShuizhuping, Lavu, EHoushan	100	U+0069
-²¹	²¹	xo²¹bo²¹mo²¹, ɑ⁵⁵n̩²¹tsʰɑ⁵⁵	Nesu, WYilu, Narsu, Neshu, CQingyun, NNisu, CWachang, WShanglizhuo, HlephoPhowayhl, Limi, Yangliu, ETaoshu, EDiaocao, Maang, LaowuNisu, CChajiang, Nipu, CLeba, CEYongan, SEGaoping, JingguLimi, Alo, SouthernMujiymc, CLongjie, LuowuNisu, SNisu, WShuizhuping, Nasu, Nersu, Noso, WDutian, EHoushan, LopeAwuChen2010, Xuzhang, LawuXinpingShuitangJiuha, ELolo, Mongi, Talu, Sani, LopeAwuYYFC1983, Mondzi, SanniSanie, CLolo, Lisu, Nise, Axi, AzhaazaPelkey2011, Kuansi, Naso, CQingsheng, Azhe, Lavu	100	U+00b2 U+00b9
-a	a	la³³ba³³, ma³³ha³³	HaniLuchun, Kazhuo, HaniQiepu, CQingyun, CEYongan, CLongjie, Yangliu, WShanglizhuo, WYilu, HlephoPhowayhl, HaniLongwei, SouthernMujiymc, WShuizhuping, LawuXinpingShuitangJiuha, Maang, Phuzaypz, SanniSanie, Kuansi, Toloza, NosuXide, SEGaoping, Lidim, Xuzhang, Senza, EDiaocao, Talu, Ghomozo, Mondzi, Eka, Axi, Lipo, Lavu, WDutian, EHoushan	100	U+0061
-³³	³³	xɑ³³bɑ³³kʰɨ⁵⁵, xa³³ba³³kʰɨ⁵⁵	ELolo, WShanglizhuo, YongshengLisu, Sani, Pholaypg, Limi, JingguLimi, Yangliu, Lidim, LahuNa, Senza, ETaoshu, CWachang, EDiaocao, Talu, CLeba, CEYongan, WeixiLisu, WYilu, HlephoPhowayhl, HaniLuchun, Toloza, Nise, NosuXide, Eka, CQingyun, SMangdi, SEGaoping, AzhaazaPelkey2011, Kazhuo, LuowuNisu, CLongjie, WShuizhuping, Lavu, EHoushan, LopeAwuChen2010, Xuzhang, LawuXinpingShuitangJiuha, NNisu, NuosuHuangDai1992, Haoni, Maang, KopoGepo, CChajiang, Ghomozo, Phuzaypz, SanniSanie, CLolo, Lisu, Sodi, Axi, LuquanLisu, SouthernMujiymc, Kuansi, CQingsheng, TengchongLisu	100	U+00b3 U+00b3
-⁵⁵$	⁵⁵	ɑ⁵⁵n̩²¹tsʰɑ⁵⁵, kɨ⁵⁵	CWachang, ETaoshu, CLeba, WYilu, CQingyun, CLongjie, EDiaocao, Talu, CChajiang, HaniLongwei, Kuansi, Lavu, EHoushan, Haoni, Ghomozo, CEYongan, Pholaypg, HaniLuchun, SMangdi, CQingsheng, LawuXinpingShuitangJiuha, NNisu, Phuzaypz, Maang, Nesu, HlephoPhowayhl, Limi, SanniSanie, Narsu, Toloza, Lisu, Neshu, NosuXide, Sodi, JingguLimi, LuquanLisu, SouthernMujiymc, Yangliu	100	U+2075 U+2075 U+0024
-⁵⁵	⁵⁵	ɑ⁵⁵n̩²¹tsʰɑ⁵⁵, a⁵⁵n̩²¹tsʰa⁵⁵	SMangdi, CEYongan, Kuansi, CChajiang, HaniLuchun, CQingyun, CLongjie, EHoushan, ETaoshu, CWachang, EDiaocao, Limi, Eka, Lipo, Yangliu, WShanglizhuo, Talu, CLeba, Phuzaypz, Pholaypg, WYilu, HlephoPhowayhl, HaniLongwei, CQingsheng, SNisu, Lavu, WDutian, Xuzhang, LawuXinpingShuitangJiuha, ELolo, NNisu, Haoni, KopoGepo, Ghomozo, Nesu, WeixiLisu, Narsu, Neshu, Axi, JingguLimi, LuquanLisu, Naso	100	U+2075 U+2075
-u	u	mu³³, lu²¹bu²¹	Talu, NosuXide, Lavu, NuosuHuangDai1992, Limi, JingguLimi, LahuNa, LaowuNisu, CChajiang, Nise, Axi, Naso, LopeAwuChen2010, Haoni, Maang, LopeAwuYYFC1983, Nesu, Toloza, Lisu, Neshu, Alo, Kuansi, SNisu, TengchongLisu, Nasu, Azhe, Xuzhang, Senza, LawuXinpingShuitangJiuha, NNisu, ETaoshu, CWachang, YongshengLisu, KopoGepo, Nipu, Ghomozo, Mondzi, CEYongan, Narsu, SEGaoping, Yino, LuowuNisu, Lidim, WShuizhuping, Noso	100	U+0075
-o	o	xo²¹bo²¹mo²¹, ɬo²¹bo²¹	NNisu, Nesu, Limi, Senza, Narsu, Neshu, Eka, SMangdi, Yino, SNisu, Lidim, Xuzhang, ELolo, NuosuHuangDai1992, NosuXide, Sodi, JingguLimi, WDutian, Mongi, KopoGepo, Nipu, Mondzi, WeixiLisu, CLolo, SEGaoping, Alo, LuquanLisu, Lipo, Nasu, Nersu, WShanglizhuo, Sani, Lisu, Axi, LuowuNisu, Naso, Azhe, Noso	100	U+006f
-ɛ	ɛ	tɛ³³, mi⁴⁴nɛ⁴⁴	SouthernMujiymc, Haoni, SMangdi, WDutian, LopeAwuChen2010, Noso, LaowuNisu, HlephoPhowayhl, HaniQiepu, Phuzaypz, Narsu, Toloza, Kazhuo, WShuizhuping, WShanglizhuo, YongshengLisu, KopoGepo, CChajiang, Nesu, Pholaypg, Limi, Lisu, Nise, Eka, SNisu, Azhe, Xuzhang, ETaoshu, EDiaocao, LopeAwuYYFC1983, Ghomozo, CEYongan, WeixiLisu, WYilu, Axi, SEGaoping, LuowuNisu, CQingsheng, EHoushan	100	U+025b
-m	m	xo²¹bo²¹mo²¹, tsɛ⁵⁵mo²¹	Xuzhang, SMangdi, Limi, EDiaocao, Lipo, SNisu, ELolo, NNisu, CChajiang, Nesu, Narsu, HaniLuchun, Neshu, Eka, LuquanLisu, HaniLongwei, WShanglizhuo, Haoni, Sani, CEYongan, Pholaypg, HlephoPhowayhl, Lisu, HaniQiepu, CQingyun, JingguLimi, Kazhuo, Lavu, EHoushan, LahuNa, ETaoshu, Talu, Maang, Mondzi, Phuzaypz, WeixiLisu, WYilu, CLolo, SEGaoping, Kuansi, WShuizhuping, TengchongLisu, WDutian	100	U+006d
-^a	a	a⁵⁵n̩²¹ti⁵⁵, a⁵⁵n̩²¹tsʰa⁵⁵	Eka, SEGaoping, Xuzhang, ETaoshu, CQingyun, SMangdi, CLongjie, EHoushan, CEYongan, Limi, WDutian, EDiaocao, HaniLongwei, Lipo, Yangliu, ELolo, WShanglizhuo, WYilu, Talu, Nesu, CLolo, Narsu, HaniLuchun, Neshu, JingguLimi, Naso, WShuizhuping, Noso	100	U+005e U+0061
-ɯ	ɯ	mɯ³³, xɯ⁵⁵tɯ⁵⁵lɯ⁵⁵mɔ³³	LopeAwuChen2010, LuowuNisu, JingguLimi, CLolo, Phuzaypz, ELolo, Haoni, SouthernMujiymc, Lipo, Nise, HaniQiepu, Lavu, Noso, LaowuNisu, KopoGepo, Sani, LopeAwuYYFC1983, Nesu, Pholaypg, Narsu, Lisu, Alo, HaniLongwei, Nasu, NNisu, Talu, YongshengLisu, Maang, Nipu, HlephoPhowayhl, SanniSanie, HaniLuchun, Toloza, Neshu, Axi, Naso, TengchongLisu, EHoushan	100	U+026f
-ɔ	ɔ	ɣɔ²¹, xɔ⁵⁵gɔ³¹	Haoni, Pholaypg, AzhaazaPelkey2011, EDiaocao, HaniLuchun, EHoushan, LahuNa, Ghomozo, ETaoshu, Mongi, JingguLimi, Alo, Nipu, Mondzi, HaniQiepu, LuowuNisu, Naso, NuosuHuangDai1992, LaowuNisu, Phuzaypz, HlephoPhowayhl	100	U+0254
-^m	m	mu³³, mɯ³³	LahuNa, Maang, Mongi, Mondzi, Lisu, JingguLimi, LawuXinpingShuitangJiuha, NuosuHuangDai1992, WeixiLisu, CLolo, NosuXide, Noso, LopeAwuChen2010, EDiaocao, YongshengLisu, LaowuNisu, LopeAwuYYFC1983, Nipu, Pholaypg, Toloza, Nise, Neshu, Alo, LuowuNisu, Naso, SNisu, Yangliu, Nasu, Nersu, TengchongLisu, Senza, ELolo, NNisu, CWachang, Talu, WShanglizhuo, KopoGepo, Ghomozo, Nesu, Limi, Narsu, Eka, SMangdi, Axi, LuquanLisu, Yino, HaniLongwei, Kuansi, Azhe, Lidim, WDutian	100	U+005e U+006d
-^l	l	la³³, lu²¹bu²¹	HaniLuchun, HaniQiepu, Nesu, WShuizhuping, Mongi, Haoni, Phuzaypz, AzhaazaPelkey2011, NNisu, ETaoshu, CWachang, WShanglizhuo, Talu, Ghomozo, Mondzi, CLeba, CEYongan, Pholaypg, WYilu, SanniSanie, Narsu, Neshu, SMangdi, JingguLimi, HaniLongwei, CLongjie, Yangliu, Azhe, Lavu, Nersu, EHoushan, LahuNa, LopeAwuChen2010, Xuzhang, LawuXinpingShuitangJiuha, EDiaocao, Maang, LaowuNisu, Sani, KopoGepo, LopeAwuYYFC1983, Nipu, HlephoPhowayhl, Limi, Toloza, Nise, Eka, Axi, SEGaoping, Kazhuo, SouthernMujiymc, Kuansi, CQingsheng, Noso, WDutian	100	U+005e U+006c
-^n	n	ni³³, nɔ³³	Nise, KopoGepo, SanniSanie, HaniLuchun, Neshu, HaniLongwei, Kazhuo, NNisu, Mongi, Haoni, LaowuNisu, Sani, Nesu, HaniQiepu, AzhaazaPelkey2011, LahuNa, LawuXinpingShuitangJiuha, Maang, Phuzaypz, Pholaypg, WYilu, HlephoPhowayhl, Lisu, Eka, JingguLimi, WDutian, LopeAwuChen2010, ELolo, EDiaocao, WShanglizhuo, CChajiang, Mondzi, CEYongan, Limi, Narsu, CLolo, Sodi, SMangdi, SEGaoping, Axi, LuowuNisu, Naso, WShuizhuping, Azhe, Noso, EHoushan	100	U+005e U+006e
-ɿ	ɿ	i²¹tsʰɿ²¹, i⁵⁵tsʰɿ²¹	NuosuHuangDai1992, HlephoPhowayhl, NNisu, ETaoshu, Kuansi, Haoni, NosuXide, SEGaoping, Kazhuo, EHoushan, Xuzhang, WShanglizhuo, Ghomozo, CLeba, CEYongan, Lisu, WShuizhuping, WDutian, CWachang, LaowuNisu, CChajiang, CQingyun, Yangliu, LawuXinpingShuitangJiuha, ELolo, LopeAwuYYFC1983, WYilu, HaniLuchun, Eka, HaniQiepu, SMangdi, HaniLongwei, SouthernMujiymc, CLongjie, CQingsheng	100	U+027f
-e	e	ɕe²¹, vɤ³³ȵe³³	Mongi, Nersu, Nipu, WShanglizhuo, Narsu, HaniLongwei, LahuNa, Nesu, HaniLuchun, Lisu, Naso, LopeAwuChen2010, ELolo, Limi, WDutian, LawuXinpingShuitangJiuha, Talu, Sani, Alo, LuowuNisu, Nasu, Senza, NuosuHuangDai1992, Ghomozo, Mondzi, HlephoPhowayhl, CLolo, Nise, JingguLimi, Yino, SNisu, Yangliu, Lidim, Lavu, EHoushan	100	U+0065
-^s	s	sɛ⁵⁵, sɛ³³	ETaoshu, Ghomozo, LahuNa, EDiaocao, Kazhuo, LawuXinpingShuitangJiuha, LaowuNisu, CEYongan, Eka, HaniQiepu, SEGaoping, Yangliu, EHoushan, HaniLuchun, HaniLongwei, CQingsheng, ELolo, CChajiang, HlephoPhowayhl, Sodi, Kuansi, Noso, LopeAwuChen2010, Senza, NuosuHuangDai1992, Haoni, KopoGepo, Sani, Nipu, Nesu, Narsu, CLolo, Toloza, Nise, CQingyun, SMangdi, Yino, LuowuNisu, Lipo, SNisu, Lidim, Nersu	100	U+005e U+0073
-l	l	ʔlo³³ha⁵⁵, ɣɯ³³pu⁵⁵lu⁵⁵	Limi, JingguLimi, HaniQiepu, HaniLuchun, CQingsheng, Haoni, Nipu, CEYongan, Eka, SMangdi, Yangliu, CWachang, EDiaocao, Maang, LaowuNisu, CChajiang, Ghomozo, WYilu, SanniSanie, CQingyun, Sodi, SEGaoping, Kazhuo, HaniLongwei, CLongjie, Nasu, EHoushan, LahuNa, LopeAwuChen2010, Xuzhang, LawuXinpingShuitangJiuha, NNisu, Mongi, NuosuHuangDai1992, KopoGepo, CLeba, Nesu, WeixiLisu, Pholaypg, Toloza, Lisu, Axi, Alo, SouthernMujiymc, LuowuNisu, Kuansi, Lipo, Naso, Azhe, Lavu, Nersu	100	U+006c
-n	n	in³³, zɔ³¹nv̩³³	LahuNa, Kuansi, KopoGepo, Sani, Ghomozo, HaniLuchun, SMangdi, SEGaoping, SNisu, Nersu, LawuXinpingShuitangJiuha, NNisu, WShanglizhuo, Haoni, Maang, LaowuNisu, CChajiang, Nipu, Nesu, WYilu, SanniSanie, Narsu, Neshu, HaniQiepu, AzhaazaPelkey2011, HaniLongwei, LuowuNisu, Noso, WDutian, EHoushan, LopeAwuChen2010, Senza, ELolo, ETaoshu, Mongi, NuosuHuangDai1992, EDiaocao, YongshengLisu, CLeba, Phuzaypz, CEYongan, Pholaypg, HlephoPhowayhl, CLolo, Toloza, Lisu, Nise, Eka, JingguLimi, LuquanLisu, Yino, CLongjie, Lipo, WShuizhuping, Nasu, CQingsheng, Lidim	100	U+006e
-ɨ	ɨ	mu⁵⁵ɣɨ³³, ɣɨ⁵⁵	EHoushan, SMangdi, SEGaoping, Xuzhang, WShanglizhuo, CLeba, WYilu, CQingyun, CLongjie, CWachang, Yangliu, WDutian, ETaoshu, CChajiang, CEYongan, Eka, Pholaypg, CQingsheng, Limi, WShuizhuping, CLolo	100	U+0268
-z	z	dzɪ³³, ŋ̩²¹dzi̱²¹ba̱²¹	Xuzhang, Sodi, LahuNa, ETaoshu, HlephoPhowayhl, SEGaoping, CQingsheng, Talu, CChajiang, Phuzaypz, CEYongan, AzhaazaPelkey2011, Kazhuo, Yangliu, Lavu, Noso, EDiaocao, WShanglizhuo, Limi, SanniSanie, HaniLuchun, Lisu, HaniQiepu, LuowuNisu, Kuansi, WShuizhuping, EHoushan, LopeAwuChen2010, Senza, NNisu, ELolo, NuosuHuangDai1992, YongshengLisu, LaowuNisu, Sani, LopeAwuYYFC1983, Nipu, WeixiLisu, WYilu, Nise, SMangdi, Axi, Yino, HaniLongwei, CLongjie, Azhe, Lidim, TengchongLisu, WDutian	100	U+007a
-^d	d	dzɪ³³, do²¹tɕi⁵⁵	WDutian, Toloza, CLeba, LahuNa, Xuzhang, EDiaocao, Talu, CEYongan, Phuzaypz, Nesu, Limi, Neshu, Lavu, Noso, NNisu, ETaoshu, CWachang, WShanglizhuo, CChajiang, Nipu, WYilu, HlephoPhowayhl, SanniSanie, Narsu, Eka, SEGaoping, SouthernMujiymc, CLongjie, Kuansi, WShuizhuping, Yangliu, EHoushan, Senza, NuosuHuangDai1992, Sani, KopoGepo, Lisu, Nise, Sodi, CQingyun, Yino, LuowuNisu, Naso, SNisu, Nasu, Lidim, CQingsheng, Azhe	100	U+005e U+0064
-³¹$	³¹	tʃhɤ⁵⁵xa³¹, mi⁵⁵kʰɔ̪³¹	Haoni, HaniLongwei, HaniLuchun, HaniQiepu, Pholaypg, Kazhuo, LahuNa, Lisu, Lipo, Yangliu, Phuzaypz, WeixiLisu, YongshengLisu, Eka, TengchongLisu, WDutian	100	U+00b3 U+00b9 U+0024
-d	d	ʑi²¹du³³, ɑ⁵⁵n̩²¹di²¹	Xuzhang, CEYongan, WShanglizhuo, Talu, SEGaoping, Lavu, EDiaocao, KopoGepo, CChajiang, SMangdi, SouthernMujiymc, WShuizhuping, CQingsheng, Nersu, EHoushan, LopeAwuChen2010, CLeba, Phuzaypz, Lisu, CQingyun, Axi, Alo, HaniLongwei, LahuNa, Senza, CWachang, ETaoshu, NuosuHuangDai1992, YongshengLisu, Sani, LopeAwuYYFC1983, Nipu, Pholaypg, WYilu, Limi, SanniSanie, Narsu, HaniLuchun, Nise, Neshu, NosuXide, Sodi, Yino, LuowuNisu, Kuansi, Naso, Nasu, Lidim, Noso, WDutian	100	U+0064
-p	p	ɣɯ³³pu⁵⁵lu⁵⁵, a⁵⁵vi̠²¹pɔ̠²¹	JingguLimi, Limi, CChajiang, Ghomozo, LahuNa, AzhaazaPelkey2011, EHoushan, Mongi, CEYongan, HaniQiepu, EDiaocao, NuosuHuangDai1992, Maang, Mondzi, Toloza, SMangdi, Kazhuo, HaniLongwei, SouthernMujiymc, WShuizhuping, CQingsheng, Yangliu, WDutian, Xuzhang, LawuXinpingShuitangJiuha, NNisu, ETaoshu, CWachang, Haoni, Talu, WShanglizhuo, KopoGepo, Nipu, CLeba, WeixiLisu, Pholaypg, WYilu, Nise, Eka, CQingyun, SEGaoping, CLongjie, LuowuNisu	100	U+0070
-ɑ	ɑ	hɑ³³bɑ³³, vɑ²¹	Sani, CChajiang, CQingsheng, Pholaypg, CLeba, WeixiLisu, Lisu, NuosuHuangDai1992, YongshengLisu, TengchongLisu, CWachang, WShanglizhuo, Lavu, Toloza, Maang, Mondzi, WShuizhuping	100	U+0251
-t	t	a⁵⁵to̠²¹, a⁵⁵n̩²¹ti⁵⁵	JingguLimi, HaniQiepu, Yangliu, EDiaocao, CChajiang, Limi, Nise, CLongjie, EHoushan, Xuzhang, ELolo, Mongi, Haoni, Nipu, Ghomozo, CEYongan, Nesu, Pholaypg, HlephoPhowayhl, Narsu, Eka, CQingyun, SEGaoping, AzhaazaPelkey2011, Nersu, WDutian, LahuNa, Senza, NNisu, ETaoshu, CWachang, NuosuHuangDai1992, Talu, WShanglizhuo, YongshengLisu, LaowuNisu, Sani, KopoGepo, CLeba, WeixiLisu, WYilu, CLolo, Lisu, Neshu, NosuXide, SMangdi, Alo, Yino, Kazhuo, LuquanLisu, SouthernMujiymc, LuowuNisu, Kuansi, Lipo, Naso, CQingsheng, WShuizhuping, Lidim, Nasu, Lavu, TengchongLisu	100	U+0074
-⁴⁴$	⁴⁴	mi⁴⁴nɛ⁴⁴, ɛ²¹xɛ⁵⁵ni⁴⁴	HaniQiepu, SEGaoping, Lisu, WShuizhuping, AzhaazaPelkey2011, Sani, LopeAwuYYFC1983, Mongi, Mondzi, WDutian, YongshengLisu, Maang, WYilu, Ghomozo, TengchongLisu, WeixiLisu, Narsu, WShanglizhuo	100	U+2074 U+2074 U+0024
-⁴⁴	⁴⁴	mu⁴⁴ȵe¹³, ko⁴⁴mɑ⁴⁴zɑ³¹	HaniQiepu, SEGaoping, Lisu, Mongi, AzhaazaPelkey2011, LopeAwuYYFC1983, WShuizhuping, Xuzhang, WeixiLisu, Sani, WYilu, Ghomozo, TengchongLisu, WDutian, YongshengLisu, Mondzi, NosuXide, WShanglizhuo	100	U+2074 U+2074
-^b	b	bɤ²¹, bo³³	NNisu, NuosuHuangDai1992, LaowuNisu, Nipu, Limi, Sodi, Lidim, Senza, HaniLuchun, Neshu, Eka, Alo, Yino, HaniLongwei, Kuansi, Naso, Nasu, Nersu, Noso, EDiaocao, Talu, Phuzaypz, Narsu, Toloza, Nise, SMangdi, LuowuNisu, WDutian, LopeAwuChen2010, Xuzhang, ELolo, ETaoshu, Mongi, Sani, KopoGepo, CEYongan, Nesu, WYilu, HlephoPhowayhl, SanniSanie, CLolo, NosuXide, SouthernMujiymc, SNisu, Lavu, EHoushan	100	U+005e U+0062
-ə	ə	kʰə⁵⁵də³³, mə²¹	EDiaocao, LaowuNisu, LawuXinpingShuitangJiuha, CEYongan, CQingyun, HlephoPhowayhl, SouthernMujiymc, LahuNa, Eka, SMangdi, Yangliu, LopeAwuYYFC1983, WYilu, JingguLimi, LuquanLisu, WShanglizhuo, YongshengLisu, Maang, Phuzaypz, CLolo, WShuizhuping, WDutian, EHoushan	100	U+0259
-^t	t	tɛ³³, ti⁵⁵	AzhaazaPelkey2011, Ghomozo, LopeAwuChen2010, Sani, Pholaypg, Nise, LaowuNisu, KopoGepo, CEYongan, Kazhuo, Yangliu, LahuNa, NNisu, EDiaocao, Mongi, Phuzaypz, Nesu, WYilu, HlephoPhowayhl, SanniSanie, Narsu, Neshu, Eka, JingguLimi, SouthernMujiymc, LuowuNisu, Naso, WShuizhuping, Lavu, Noso, Xuzhang, WShanglizhuo, Talu, Haoni, Maang, LopeAwuYYFC1983, Nipu, CLeba, Toloza, Lisu, Sodi, HaniQiepu, Axi, Alo, SNisu, CQingsheng, Nasu, Azhe, Nersu	100	U+005e U+0074
-^kʰ	kʰ	kʰo̠²¹, kʰu̱²¹	CEYongan, EHoushan, CWachang, EDiaocao, CChajiang, CQingyun, CLongjie, WShuizhuping, CQingsheng, LawuXinpingShuitangJiuha, ETaoshu, CLeba, WYilu, SMangdi, SEGaoping, Xuzhang, Talu, CLolo, Toloza, Eka, Lavu, LopeAwuChen2010, Senza, ELolo, WShanglizhuo, Mongi, Sani, KopoGepo, Ghomozo, Nipu, Phuzaypz, Nesu, HlephoPhowayhl, Limi, SanniSanie, Narsu, Nise, Neshu, Sodi, Alo, JingguLimi, Yino, AzhaazaPelkey2011, HaniLongwei, SouthernMujiymc, Kuansi, Naso, SNisu, Yangliu, Nasu, Lidim, Noso, WDutian	100	U+005e U+006b U+02b0
-²⁴$	²⁴	ɣɨ²⁴, mei²⁴	Eka, WShuizhuping, WDutian, WShanglizhuo, EHoushan, Xuzhang, Kazhuo, Limi, ETaoshu, WYilu, EDiaocao, Ghomozo, CEYongan, Yangliu, SEGaoping	100	U+00b2 U+2074 U+0024
-³¹	³¹	ʊ³¹tʃɿ³¹ȵi⁵⁵ma³¹khɛ³³, mɯ³¹hɑ³³	Haoni, HaniLongwei, HaniLuchun, Phuzaypz, Pholaypg, Kazhuo, Lisu, LahuNa, LuquanLisu, TengchongLisu, YongshengLisu, Yangliu, WeixiLisu, Ghomozo	100	U+00b3 U+00b9
-^k	k	kɨ⁵⁵, kv̩⁵⁵	Xuzhang, CChajiang, Ghomozo, CLeba, CQingyun, SEGaoping, Kazhuo, CLongjie, CWachang, ETaoshu, EDiaocao, CEYongan, SanniSanie, Lisu, JingguLimi, EHoushan, LawuXinpingShuitangJiuha, Talu, LaowuNisu, KopoGepo, WYilu, SMangdi, Kuansi, WShuizhuping, Yangliu, CQingsheng, Lavu, WDutian, LopeAwuChen2010, ELolo, WShanglizhuo, Haoni, YongshengLisu, Sani, Mondzi, Phuzaypz, WeixiLisu, CLolo, Narsu, Nise, Eka, HaniQiepu, LuquanLisu, AzhaazaPelkey2011, Lipo, Azhe, TengchongLisu	100	U+005e U+006b
-k	k	mu³³ku³³, pʰi⁴⁴nɛ²²kʰu²¹u²²tɛ³³kɯ³³ti²²kʰɯ²¹	LawuXinpingShuitangJiuha, Ghomozo, SMangdi, AzhaazaPelkey2011, EDiaocao, Toloza, Yangliu, LahuNa, CEYongan, Pholaypg, Lisu, Eka, JingguLimi, LuowuNisu, EHoushan, ETaoshu, Mongi, Haoni, LaowuNisu, NosuXide, SEGaoping, Kazhuo, WShuizhuping, Noso, LopeAwuChen2010, Xuzhang, CWachang, Talu, Sani, CLeba, Phuzaypz, Limi, CLolo, Narsu, Nise, Neshu, HaniQiepu, Alo, LuquanLisu, SouthernMujiymc, Kuansi, Naso, Nasu, CQingsheng, TengchongLisu	100	U+006b
-s	s	tsa³³sɪ³³, sɪ³⁴sɪ³³	EDiaocao, HlephoPhowayhl, SMangdi, LahuNa, NNisu, HaniQiepu, Kazhuo, NuosuHuangDai1992, HaniLuchun, Yangliu, WDutian, LopeAwuChen2010, LawuXinpingShuitangJiuha, Senza, Talu, Sani, Limi, Eka, CQingyun, JingguLimi, Yino, AzhaazaPelkey2011, SouthernMujiymc, SNisu, WShuizhuping, Lidim, Nersu, EHoushan, Xuzhang, ELolo, WShanglizhuo, YongshengLisu, KopoGepo, CLeba, Phuzaypz, CEYongan, SanniSanie, Narsu, Sodi, SEGaoping, Alo, HaniLongwei, Kuansi, Lipo, Nasu, CQingsheng, Lavu	100	U+0073
-b	b	xo²¹bo²¹mo²¹, ɬo²¹bo²¹	EDiaocao, Xuzhang, ETaoshu, CEYongan, Kuansi, Yangliu, EHoushan, Senza, CWachang, NuosuHuangDai1992, WShanglizhuo, Talu, CChajiang, CLeba, WYilu, HlephoPhowayhl, Toloza, Lisu, NosuXide, Eka, CQingyun, SMangdi, SEGaoping, Yino, CLongjie, Lipo, CQingsheng, Lidim, Lavu, Nersu, WDutian, Noso, LopeAwuChen2010, ELolo, NNisu, YongshengLisu, LaowuNisu, KopoGepo, Sani, LopeAwuYYFC1983, Nipu, Phuzaypz, Nesu, WeixiLisu, Limi, SanniSanie, CLolo, Narsu, Nise, Neshu, Sodi, Alo, Axi, LuquanLisu, LuowuNisu, Naso, WShuizhuping, Nasu, SNisu, Azhe, TengchongLisu	100	U+0062
-y	y	tɕy²¹, y²¹ɕy⁵⁵ny⁵⁵	CLeba, CQingyun, CLongjie, CChajiang, ETaoshu, WShanglizhuo, CEYongan, Talu, SEGaoping, WShuizhuping, CQingsheng, WDutian, Xuzhang, WYilu, AzhaazaPelkey2011, CWachang, Sodi, Nersu, Nipu	100	U+0079
-^x	x	xɯ³³, xo²¹bo²¹mo²¹	HaniLuchun, HaniQiepu, HaniLongwei, CWachang, WShanglizhuo, Haoni, CEYongan, JingguLimi, Kazhuo, Yangliu, LahuNa, Xuzhang, NNisu, EDiaocao, Mongi, Talu, Ghomozo, Mondzi, Nesu, Limi, Neshu, Eka, SMangdi, Kuansi, CQingsheng, Naso, EHoushan, ETaoshu, KopoGepo, Sani, CChajiang, Nipu, CLeba, Pholaypg, WYilu, SanniSanie, Narsu, Lisu, CQingyun, Sodi, SEGaoping, Axi, Alo, CLongjie, LuowuNisu, Lipo, SNisu, WShuizhuping, Azhe, Nasu, Lavu, Nersu, Noso, WDutian	100	U+005e U+0078
-^tsʰ	tsʰ	tsʰɿ⁵⁵, tsʰi²¹	Ghomozo, LaowuNisu, CChajiang, Nipu, Sodi, Alo, Yangliu, ETaoshu, CEYongan, Toloza, Kuansi, Nasu, CQingsheng, EHoushan, Xuzhang, Senza, EDiaocao, Talu, Nesu, WYilu, Limi, Narsu, Neshu, HaniQiepu, SEGaoping, Yino, WShuizhuping, Lidim, Nersu, Noso, LopeAwuChen2010, ELolo, CWachang, Mongi, WShanglizhuo, CLeba, Nise, Eka, CQingyun, SMangdi, JingguLimi, CLongjie, Naso, Lavu, WDutian	100	U+005e U+0074 U+0073 U+02b0
-^ɣ	ɣ	ɣɨ⁵⁵, ɣɨ²⁴	Xuzhang, ETaoshu, CChajiang, CLeba, CEYongan, SMangdi, SEGaoping, EHoushan, WShanglizhuo, WYilu, WDutian, CWachang, Eka, CQingyun, CLongjie, Yangliu, CQingsheng, WShuizhuping, LahuNa, Maang, JingguLimi, Lavu, Nersu, LawuXinpingShuitangJiuha, NNisu, EDiaocao, Talu, YongshengLisu, KopoGepo, Ghomozo, Nesu, Narsu, Toloza, Nise, Neshu, Axi, LuowuNisu, Azhe, Noso	100	U+005e U+0263
-v̩	v̩	kʰv̩⁵⁵dv̩⁵⁵, kʰv̩⁵⁵dʐv̩²¹	WShuizhuping, Xuzhang, CWachang, WShanglizhuo, CChajiang, HaniQiepu, CQingsheng, WDutian, CLongjie, Haoni, CLeba, WYilu, Eka, Yangliu, CQingyun, Kazhuo, ETaoshu, HaniLongwei, LuowuNisu, EHoushan	100	U+0076 U+0329
-ɤ	ɤ	bɤ²¹, lu̱³³bɤ²¹	Toloza, Narsu, LopeAwuChen2010, NNisu, JingguLimi, LuowuNisu, SNisu, Nesu, Kazhuo, Neshu, Alo, Kuansi, Nasu, Nersu, Haoni, Sani, Nise, Sodi, HaniLongwei, Lipo, KopoGepo, Nipu, HaniQiepu, Noso	100	U+0264
-⁵³$	⁵³	an⁵³, kʰoʔ⁵³	Yangliu, Mongi, WShanglizhuo, Eka, WYilu, HaniQiepu, WDutian, Kazhuo, LahuNa, SMangdi, Mondzi, Xuzhang, CQingsheng, CWachang, CLeba	100	U+2075 U+00b3 U+0024
-^p	p	pu³³, pu²¹	LawuXinpingShuitangJiuha, Ghomozo, LahuNa, Haoni, Toloza, Mongi, HaniQiepu, Sani, Kuansi, LopeAwuChen2010, Senza, NuosuHuangDai1992, KopoGepo, Nipu, Mondzi, Nesu, Pholaypg, HlephoPhowayhl, SanniSanie, Narsu, Nise, JingguLimi, Yino, SouthernMujiymc, Yangliu, Lidim, NNisu, CWachang, ETaoshu, WShanglizhuo, Talu, EDiaocao, Maang, LaowuNisu, Phuzaypz, Neshu, Sodi, SMangdi, SEGaoping, Alo, Kazhuo, AzhaazaPelkey2011, LuowuNisu, CLongjie, Naso, Nasu, WShuizhuping, Lavu, Nersu, Noso	100	U+005e U+0070
-²⁴	²⁴	ɣɨ²⁴by³³, ɣɨ²⁴kʰa²¹	Eka, EHoushan, WShuizhuping, Ghomozo, WShanglizhuo, Limi, CEYongan, WDutian, ETaoshu, EDiaocao, WYilu, Kazhuo, Xuzhang, CChajiang	100	U+00b2 U+2074
-pʰ	pʰ	mi⁵⁵pʰu⁵⁵, sa³³pʰi³³	SMangdi, Yangliu, Limi, HaniQiepu, Eka, WYilu, JingguLimi, WDutian, WShanglizhuo, CLeba, WShuizhuping, Noso, EHoushan, Xuzhang, ELolo, ETaoshu, CWachang, EDiaocao, CChajiang, Ghomozo, CLolo, HaniLuchun, Toloza, CQingyun, SEGaoping, AzhaazaPelkey2011, CLongjie, CQingsheng, Mongi, Talu, LaowuNisu, KopoGepo, Nipu, CEYongan, HlephoPhowayhl, Nise, LuowuNisu, Naso, Lipo, Lavu	100	U+0070 U+02b0
-^pʰ	pʰ	pʰa̱⁵⁵, pʰiɛ̠²¹	HlephoPhowayhl, LawuXinpingShuitangJiuha, Talu, Ghomozo, Phuzaypz, SMangdi, EHoushan, CLeba, Limi, Eka, AzhaazaPelkey2011, SouthernMujiymc, Lavu, Mongi, WShanglizhuo, LaowuNisu, Nipu, CEYongan, Pholaypg, SanniSanie, HaniQiepu, SEGaoping, SNisu, CQingsheng, Noso, WDutian, LopeAwuChen2010, Xuzhang, Senza, CWachang, ETaoshu, EDiaocao, KopoGepo, Sani, Nesu, Narsu, Toloza, Nise, Neshu, CQingyun, Alo, Yino, LuowuNisu, CLongjie, Kuansi, Lipo, Naso, Nasu, Lidim, WShuizhuping, Nersu	100	U+005e U+0070 U+02b0
-^v	v	va²¹, vo³³	CChajiang, SanniSanie, Eka, LahuNa, Sodi, Alo, WShuizhuping, Yangliu, CQingsheng, Nasu, Xuzhang, Senza, CWachang, NuosuHuangDai1992, WShanglizhuo, Talu, Maang, Nipu, CLeba, Phuzaypz, CEYongan, Pholaypg, WYilu, HlephoPhowayhl, NosuXide, CQingyun, Yino, AzhaazaPelkey2011, SouthernMujiymc, CLongjie, Naso, Lidim, Lavu, EHoushan, LopeAwuChen2010, LawuXinpingShuitangJiuha, NNisu, Mongi, EDiaocao, Sani, KopoGepo, LopeAwuYYFC1983, Ghomozo, Mondzi, Narsu, Toloza, Nise, Neshu, SMangdi, SEGaoping, Axi, Azhe, WDutian	100	U+005e U+0076
-kʰ	kʰ	mi⁵⁵kʰɔ̪³¹, ɣɨ²⁴kʰa²¹	Limi, SMangdi, JingguLimi, Yangliu, WYilu, Eka, ETaoshu, CLeba, CQingyun, SEGaoping, CLongjie, Xuzhang, CWachang, Ghomozo, LuowuNisu, WShuizhuping, CQingsheng, WDutian, LawuXinpingShuitangJiuha, EDiaocao, WShanglizhuo, LaowuNisu, CChajiang, Toloza, SouthernMujiymc, Lavu, ELolo, CEYongan, Pholaypg, Kuansi, Naso, Lipo, SNisu, Noso, EHoushan	100	U+006b U+02b0
-ts	ts	m̩³³tsi̱³³, va̠²¹tsɿ̠²¹	Ghomozo, HaniQiepu, ETaoshu, EDiaocao, Kazhuo, CQingsheng, EHoushan, LahuNa, NNisu, Haoni, CChajiang, CEYongan, HaniLuchun, CQingyun, SEGaoping, HaniLongwei, Yangliu, LopeAwuChen2010, Senza, NuosuHuangDai1992, WShanglizhuo, LaowuNisu, Nesu, WYilu, Narsu, Eka, Sodi, Yino, LuowuNisu, Lidim, Noso, CWachang, Talu, KopoGepo, Nipu, CLeba, Limi, SanniSanie, Lisu, JingguLimi, CLongjie, Lavu, WDutian	100	U+0074 U+0073
-^tɕʰ	tɕʰ	tɕʰi³³, tɕʰɯ²¹	LuowuNisu, LopeAwuChen2010, Nise, Nersu, Narsu, Lavu, Senza, LawuXinpingShuitangJiuha, KopoGepo, Nipu, Nesu, Yino, Yangliu, Lidim, Noso, CWachang, ETaoshu, LaowuNisu, Neshu, Sodi, SMangdi, SEGaoping, Alo, Naso, SNisu, Nasu, EHoushan, ELolo, Mongi, WShanglizhuo, EDiaocao, Talu, Sani, CChajiang, Ghomozo, CLeba, Limi, CLolo, Toloza, Eka, JingguLimi, Kuansi	100	U+005e U+0074 U+0255 U+02b0
-ŋ	ŋ	ʔɲiŋ³³, ji³¹ŋ³²³	Kazhuo, LawuXinpingShuitangJiuha, SEGaoping, CLongjie, CQingyun, Eka, SMangdi, CWachang, Xuzhang, WYilu, CChajiang, CEYongan, Limi, WShuizhuping, CQingsheng, LahuNa, WShanglizhuo, Pholaypg, HaniQiepu, HaniLongwei, Naso, TengchongLisu	100	U+014b
-^z	z	zɿ³³, zi̱⁵⁵	NNisu, LahuNa, LawuXinpingShuitangJiuha, Haoni, Talu, CLeba, HlephoPhowayhl, Kuansi, EHoushan, Xuzhang, ETaoshu, Mongi, WShanglizhuo, NuosuHuangDai1992, CChajiang, Ghomozo, Limi, SanniSanie, SEGaoping, Yangliu, CQingsheng, Lavu, WDutian, LopeAwuChen2010, Senza, CWachang, EDiaocao, KopoGepo, Sani, Nipu, Phuzaypz, CEYongan, Pholaypg, Narsu, HaniLuchun, Toloza, Nise, Sodi, CQingyun, Alo, Yino, AzhaazaPelkey2011, Kazhuo, CLongjie, LuowuNisu, Lipo, Naso, Nasu, Lidim, WShuizhuping, Nersu, Noso	100	U+005e U+007a
-^ɕ	ɕ	ɕe²¹, ɕi⁵⁵	LaowuNisu, CChajiang, SMangdi, WDutian, Xuzhang, EDiaocao, Ghomozo, Pholaypg, CQingyun, Alo, SouthernMujiymc, SNisu, Yangliu, Nasu, LopeAwuChen2010, ETaoshu, KopoGepo, CLeba, Phuzaypz, WYilu, Limi, Nise, Eka, HaniQiepu, Kazhuo, HaniLongwei, CLongjie, LuowuNisu, CQingsheng, EHoushan, LawuXinpingShuitangJiuha, ELolo, NNisu, CWachang, NuosuHuangDai1992, Mongi, Haoni, Talu, WShanglizhuo, LopeAwuYYFC1983, Nipu, CEYongan, Nesu, CLolo, Narsu, Neshu, Axi, SEGaoping, LuquanLisu, WShuizhuping, Lavu, Nersu	100	U+005e U+0255
-^g	g	go²¹, go³³	Xuzhang, ETaoshu, SEGaoping, CLeba, Limi, Eka, Yangliu, EDiaocao, CChajiang, CEYongan, SMangdi, CLongjie, WShuizhuping, ELolo, WShanglizhuo, Talu, KopoGepo, Nipu, Nesu, WYilu, Narsu, CLolo, Lisu, Nise, CQingyun, Lipo, CQingsheng, Lavu, WDutian, EHoushan, LopeAwuChen2010, NNisu, CWachang, Mongi, LopeAwuYYFC1983, SanniSanie, Toloza, Neshu, Sodi, Axi, JingguLimi, Alo, HaniLongwei, Naso, Azhe, Nasu, Nersu	100	U+005e U+0067
-^tʰ	tʰ	tʰu⁵⁵, tʰu²¹	CQingsheng, Talu, LaowuNisu, Nesu, WYilu, Narsu, Neshu, Sodi, LuowuNisu, Lavu, LopeAwuChen2010, Xuzhang, Senza, ELolo, ETaoshu, Mongi, EDiaocao, KopoGepo, CChajiang, Ghomozo, CLeba, CEYongan, Limi, SanniSanie, Toloza, HaniQiepu, SEGaoping, JingguLimi, Yino, Naso, WShuizhuping, Lidim, Nersu, Noso, EHoushan, CWachang, WShanglizhuo, Sani, Nipu, Phuzaypz, Pholaypg, CLolo, HaniLuchun, Nise, Eka, CQingyun, Alo, AzhaazaPelkey2011, CLongjie, Kuansi, TengchongLisu, Nasu, Yangliu, WDutian	100	U+005e U+0074 U+02b0
-¹³$	¹³	va¹³, ʑɛ³³n̩¹³	Mongi, Nersu, Nipu, SouthernMujiymc, Phuzaypz, Mondzi, LaowuNisu, HlephoPhowayhl, WYilu	100	U+00b9 U+00b3 U+0024
-tʰ	tʰ	i³¹tʰa³³, ʑi²¹tʰo³³	SouthernMujiymc, Phuzaypz, HlephoPhowayhl, Limi, Nesu, Pholaypg, HaniQiepu, SEGaoping, SNisu, Lavu, Xuzhang, ETaoshu, CWachang, Mongi, EDiaocao, Talu, LaowuNisu, CChajiang, Neshu, Eka, CQingyun, CQingsheng, LopeAwuChen2010, Senza, WShanglizhuo, Nipu, CLeba, CEYongan, SanniSanie, Narsu, Nise, Sodi, Alo, JingguLimi, Yino, CLongjie, Kuansi, Yangliu, WShuizhuping, Lidim, Nasu, Nersu, Noso, WDutian, EHoushan	100	U+0074 U+02b0
-ɪ	ɪ	sɪ³⁴sɪ³³, ʔɪ⁵⁵ȵi³³	JingguLimi, Neshu, Noso, Yino, Senza, Lidim, Sani, LopeAwuYYFC1983, Nersu, Sodi, Nise, KopoGepo, Azhe, Narsu	100	U+026a
-i̱	i̠	zi̱⁵⁵, tʂʰi̱⁵⁵	SanniSanie, Nise, Alo, Nasu, KopoGepo, LopeAwuChen2010, Talu, Sodi, Lavu, Naso, Lidim, Senza, Narsu, Neshu, Yino, Lipo, Nesu, Toloza, Mongi	100	U+0069 U+0331
-^ts	ts	tsi⁵⁵, tsa³³	Ghomozo, Kazhuo, CEYongan, Yangliu, EDiaocao, Narsu, Eka, Senza, Nesu, SMangdi, HaniQiepu, Yino, LuowuNisu, Lidim, EHoushan, LahuNa, ELolo, ETaoshu, NuosuHuangDai1992, Mongi, Sani, Sodi, CQingyun, Naso, Nasu, Noso, LopeAwuChen2010, LawuXinpingShuitangJiuha, NNisu, Talu, LaowuNisu, KopoGepo, Nipu, SanniSanie, HaniLuchun, Nise, Neshu, Alo, HaniLongwei, Kuansi, Lipo	100	U+005e U+0074 U+0073
-a̱	a̠	va̱⁵⁵, va̱²¹	Naso, Yino, Senza, Nise, Nasu, Talu, Lavu, Alo, Narsu, LopeAwuChen2010, Lidim, HaniLuchun, Nesu, KopoGepo, SanniSanie, Sodi, Azhe, Mongi	100	U+0061 U+0331
-^ʑ	ʑ	ʑi²¹, ʑi³³	LopeAwuChen2010, AzhaazaPelkey2011, Senza, NuosuHuangDai1992, LaowuNisu, KopoGepo, Narsu, Nise, Alo, Yino, SouthernMujiymc, Naso, Nasu, Lidim, Nersu, Noso, Mongi, Nipu, Nesu, Toloza, Sodi, SNisu, Lavu, Talu, Neshu, ELolo, YongshengLisu, LopeAwuYYFC1983, Mondzi, Pholaypg, CLolo, NosuXide, Axi, TengchongLisu	100	U+005e U+0291
-^h	h	hɛ̠²¹, hɑ³³bɑ³³	Naso, Noso, ETaoshu, HlephoPhowayhl, CLongjie, Nipu, WYilu, Lisu, Nise, CQingyun, WShuizhuping, WDutian, Xuzhang, Senza, CWachang, NuosuHuangDai1992, Talu, Sani, CChajiang, Ghomozo, CLeba, CEYongan, WeixiLisu, Alo, Yino, LuowuNisu, CQingsheng, Nasu, Lidim, Lavu, Nersu, TengchongLisu, LopeAwuChen2010, ELolo, WShanglizhuo, Mongi, YongshengLisu, Maang, LopeAwuYYFC1983, Limi, Toloza, NosuXide, Sodi, SEGaoping, JingguLimi, Kuansi, Yangliu, EHoushan	100	U+005e U+0068
-^ʂ	ʂ	ʂa³³, ʂɛ³³	NuosuHuangDai1992, WShanglizhuo, WYilu, Xuzhang, NNisu, CWachang, CLeba, Limi, CQingyun, JingguLimi, CLongjie, LuowuNisu, WShuizhuping, WDutian, Pholaypg, SanniSanie, Toloza, LopeAwuChen2010, Senza, KopoGepo, CLolo, NosuXide, Sodi, Yino, Lidim, Mongi, Talu, Sani, LopeAwuYYFC1983, Neshu, SEGaoping, Alo, Axi, Naso, SNisu, Nasu, Azhe, CQingsheng, Lavu, Nersu, EHoushan	100	U+005e U+0282
-x	x	a⁵⁵xo⁵⁵, kʰo̠²¹xɨ²¹	Haoni, HaniQiepu, JingguLimi, HaniLongwei, HaniLuchun, Eka, NNisu, LaowuNisu, KopoGepo, Nipu, Phuzaypz, AzhaazaPelkey2011, SNisu, EDiaocao, WShanglizhuo, Nesu, Pholaypg, Limi, SanniSanie, Narsu, Toloza, Neshu, SMangdi, Naso, EHoushan, LahuNa, LopeAwuChen2010, ETaoshu, CWachang, Mongi, Sani, CChajiang, CLeba, CEYongan, WYilu, Lisu, Sodi, CQingyun, SEGaoping, Axi, CLongjie, Lipo, Yangliu, Azhe, WShuizhuping, Nersu, WDutian	100	U+0078
-^ȵ	ȵ	ȵi²¹, ȵi³³	Noso, Alo, LuowuNisu, Nasu, LopeAwuChen2010, Nipu, Mongi, Talu, Phuzaypz, Narsu, HaniQiepu, HaniLongwei, Toloza, Naso, Lavu, Nersu, Senza, NuosuHuangDai1992, KopoGepo, Nesu, HlephoPhowayhl, Sodi, JingguLimi, Yino, AzhaazaPelkey2011, SNisu, Lidim, Haoni, LopeAwuYYFC1983, Pholaypg, Nise, Neshu, NosuXide, SouthernMujiymc	100	U+005e U+0235
-o̱	o̠	lo̱²¹, lo̱⁵⁵	SanniSanie, Nasu, Sodi, Talu, Lavu, Toloza, Yino, Senza, Lidim, KopoGepo, Narsu, Naso, LopeAwuChen2010, LopeAwuYYFC1983, Nise, Nesu, Neshu, Lipo	100	U+006f U+0331
-²²$	²²	kʰɯ²², lɯ²²	Yino, AzhaazaPelkey2011, Azhe, SouthernMujiymc, WDutian	100	U+00b2 U+00b2 U+0024
-^ŋ	ŋ	ŋa̱³³, ŋo⁵⁵	Mongi, Nise, Nersu, Nasu, LopeAwuChen2010, Sani, Nipu, Alo, Kazhuo, SouthernMujiymc, Noso, LaowuNisu, KopoGepo, Lipo, LahuNa, ELolo, Talu, Maang, Mondzi, Pholaypg, Limi, Lisu, HaniQiepu, HaniLongwei, Naso, Lavu, Xuzhang, CWachang, ETaoshu, NuosuHuangDai1992, Haoni, LopeAwuYYFC1983, SanniSanie, CLolo, HaniLuchun, JingguLimi, LuquanLisu, LuowuNisu	100	U+005e U+014b
-tsʰ	tsʰ	ɑ⁵⁵n̩²¹tsʰɑ⁵⁵, a⁵⁵tsʰɿ̠²¹	HaniQiepu, ETaoshu, SEGaoping, CEYongan, Yangliu, WShuizhuping, WDutian, EHoushan, Xuzhang, CWachang, WShanglizhuo, CChajiang, CLeba, CQingsheng, EDiaocao, WYilu, Limi, CLongjie, Talu, CQingyun, Kuansi, LawuXinpingShuitangJiuha, ELolo, LaowuNisu, HaniLuchun, Eka, LuowuNisu, SNisu, Lavu	100	U+0074 U+0073 U+02b0
-i̠	i̠	a⁵⁵vi̠²¹pɔ̠²¹, ʔni̠²¹ ɲi³³	CQingsheng, Pholaypg, EHoushan, ELolo, Eka, ETaoshu, CEYongan, SMangdi, SEGaoping, Kuansi, Xuzhang, Haoni, CLolo, AzhaazaPelkey2011, HaniLuchun, LuowuNisu, CChajiang, SNisu, Azhe, NNisu, Axi, Lipo	100	U+0069 U+0320
-ɛ˞	ɛ˞	hɛ˞⁵⁵pɛ˞⁴¹pɛ˞³¹, tɕɛ˞²⁴tɕɛ˞³³	Yangliu, WShanglizhuo, Xuzhang, EHoushan, LuowuNisu, Ghomozo, WDutian, ELolo, WShuizhuping, CEYongan, EDiaocao	100	U+025b U+02de
-a̠	a̠	ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹, a⁵⁵vɛ̠²¹pa̠²¹	CQingyun, CQingsheng, CWachang, CLeba, Eka, CLongjie, LawuXinpingShuitangJiuha, ELolo, CChajiang, Ghomozo, HaniLuchun, SMangdi, ETaoshu, CEYongan, AzhaazaPelkey2011, Kuansi, EHoushan, Xuzhang, CLolo, Lipo	100	U+0061 U+0320
-v	v	a⁵⁵vɛ̠²¹, a⁵⁵vi̠²¹	SMangdi, Eka, WShanglizhuo, Xuzhang, CWachang, ETaoshu, CChajiang, CLeba, CEYongan, Limi, CQingyun, SEGaoping, Yangliu, CQingsheng, EHoushan, WYilu, JingguLimi, CLongjie, WShuizhuping, WDutian, Talu, Lavu, LahuNa, EDiaocao, NuosuHuangDai1992, YongshengLisu, LaowuNisu, HlephoPhowayhl, Toloza, Lisu, NosuXide, Sodi, HaniLongwei, SouthernMujiymc, LuowuNisu, SNisu, TengchongLisu	100	U+0076
-ɕ	ɕ	kʰu̱²¹ɕi̱²¹, mu³³ɕe⁵⁵	ETaoshu, SEGaoping, CEYongan, Nesu, AzhaazaPelkey2011, Ghomozo, Narsu, Eka, EHoushan, CChajiang, Phuzaypz, Limi, Neshu, SouthernMujiymc, CLongjie, LopeAwuChen2010, NNisu, EDiaocao, WShanglizhuo, Sani, KopoGepo, CLeba, CLolo, JingguLimi, LawuXinpingShuitangJiuha, ELolo, CWachang, Haoni, LaowuNisu, Pholaypg, WYilu, Toloza, Nise, Sodi, CQingyun, Alo, LuquanLisu, LuowuNisu, SNisu, WShuizhuping, Yangliu, Nasu, CQingsheng, Lavu, Noso	100	U+0255
-ɣ	ɣ	mu⁵⁵ɣɨ³³, tɕy²¹ɣɨ²⁴	WShanglizhuo, HaniLuchun, Pholaypg, WYilu, JingguLimi, EHoushan, Ghomozo, Eka, SMangdi, Xuzhang, ETaoshu, CWachang, CQingyun, HaniLongwei, CLongjie, WShuizhuping, WDutian, CChajiang, CLeba, CEYongan, Lisu, HaniQiepu, SEGaoping, AzhaazaPelkey2011, SouthernMujiymc, CQingsheng, LahuNa, LawuXinpingShuitangJiuha, EDiaocao, Haoni, Maang, Sani, Phuzaypz, WeixiLisu, HlephoPhowayhl, Kazhuo, Lavu, Nersu, TengchongLisu	100	U+0263
-tɕ	tɕ	bɨ²¹tɕi²⁴tɕi²⁴, m̩³³tɕi³³	JingguLimi, Ghomozo, Eka, ETaoshu, LawuXinpingShuitangJiuha, Mongi, Haoni, WYilu, Limi, HaniLuchun, HaniQiepu, SEGaoping, NuosuHuangDai1992, LaowuNisu, CChajiang, Nipu, Nesu, Sodi, Kazhuo, CLongjie, LuowuNisu, WShuizhuping, EHoushan, Xuzhang, Senza, CWachang, EDiaocao, WShanglizhuo, KopoGepo, CLeba, CEYongan, Narsu, Neshu, SMangdi, Yino, HaniLongwei, Kuansi, Lipo, CQingsheng, Lidim, Nersu, Noso, WDutian	100	U+0074 U+0255
-j	j	a⁵⁵jɛ̠³³, mjɛ⁵⁵tjɛ³³	HaniLuchun, EDiaocao, Eka, EHoushan, CQingyun, SMangdi, SouthernMujiymc, CLongjie, LawuXinpingShuitangJiuha, CLeba, Phuzaypz, Limi, ETaoshu, LaowuNisu, CEYongan, HaniLongwei, Kuansi, Yangliu, CWachang, Haoni, CChajiang, Ghomozo, WYilu, HaniQiepu, CQingsheng, Xuzhang, WShanglizhuo, Pholaypg, HlephoPhowayhl, SEGaoping, Kazhuo, Lipo	100	U+006a
-^tɕ	tɕ	tɕi³³, tɕy²¹	Ghomozo, HaniQiepu, HaniLongwei, LopeAwuChen2010, LawuXinpingShuitangJiuha, EDiaocao, Nise, CChajiang, CLeba, Kazhuo, CLongjie, CQingsheng, Nersu, WDutian, ETaoshu, CWachang, LaowuNisu, Sani, Nipu, Nesu, WYilu, Narsu, Alo, LuowuNisu, Naso, WShuizhuping, Nasu, Yangliu, Xuzhang, Senza, WShanglizhuo, NuosuHuangDai1992, CEYongan, SanniSanie, Toloza, Neshu, Sodi, SMangdi, CQingyun, SEGaoping, JingguLimi, Yino, Lidim, EHoushan	100	U+005e U+0074 U+0255
-u̱	u̠	kʰu̱²¹, lu̱³³bɤ²¹	Alo, Yino, Senza, Lidim, Nesu, KopoGepo, LopeAwuChen2010, Narsu, Nise, Naso, Neshu, Axi, Lavu, Talu, NosuXide, Lipo, Azhe	100	U+0075 U+0331
-ʅ	ʅ	tʂʰʅ⁵⁵, ʂʅ³³ni³³	Limi, Xuzhang, NNisu, WShuizhuping, WShanglizhuo, WDutian, WYilu, LuowuNisu, CLeba, CQingyun, CLolo, CLongjie, SEGaoping, CWachang, JingguLimi, SNisu, CQingsheng, Lipo	100	U+0285
-⁴²$	⁴²	i⁴²ȵi⁴², ja³³ka⁴²	Yino, EDiaocao, HaniQiepu, Ghomozo, HaniLongwei, Yangliu, EHoushan, ETaoshu, YongshengLisu, Eka, TengchongLisu, WeixiLisu	100	U+2074 U+00b2 U+0024
-ȵ	ȵ	i²¹ȵi²¹, ʑi³³ȵi²¹	SouthernMujiymc, Naso, Pholaypg, Toloza, Sodi, Alo, JingguLimi, Nasu, NuosuHuangDai1992, Mongi, Talu, Narsu, Lavu, Nersu, LopeAwuChen2010, Senza, Nipu, Phuzaypz, Nesu, Neshu, Yino, LuowuNisu, Lidim, Noso, Haoni, HlephoPhowayhl, HaniQiepu, LuquanLisu	100	U+0235
-²²	²²	pʰi⁴⁴nɛ²²kʰu²¹u²²tɛ³³kɯ³³ti²²kʰɯ²¹, ȵa²²nɯ³³	Yino, AzhaazaPelkey2011, HaniQiepu, Ghomozo, Azhe, WDutian, Lipo, Eka, WShuizhuping, CQingyun, WShanglizhuo	100	U+00b2 U+00b2
-g	g	ngɯ³³, ʑi³³ga³³	ETaoshu, Xuzhang, Limi, Eka, SEGaoping, WDutian, CWachang, EDiaocao, Mongi, Sani, CLeba, HaniLuchun, Sodi, SMangdi, WShuizhuping, Lidim, EHoushan, Senza, ELolo, WShanglizhuo, Nipu, Nesu, SanniSanie, Lisu, Yino, HaniLongwei, CLongjie, Yangliu, CQingsheng, Noso, LopeAwuChen2010, Talu, Maang, CChajiang, Ghomozo, Mondzi, CEYongan, WYilu, CLolo, Nise, NosuXide, CQingyun, Naso, Lavu, Nersu	100	U+0067
-ɪ̱	ɪ̠	ȵɪ̱⁵⁵ha³³dɪ̱³³kʰu̱⁵⁵, bɪ̱⁵⁵	Sodi, Neshu, Yino, KopoGepo, Senza, Lidim, Nise, Narsu, Nesu, Nasu, Alo	100	U+026a U+0331
-^tʂʰ	ʈʂʰ	tʂʰi²¹, tʂʰu²¹	Lavu, Talu, Sani, SanniSanie, Nasu, Nersu, Mongi, WShanglizhuo, KopoGepo, CLeba, WYilu, Limi, Toloza, Neshu, CQingyun, Alo, JingguLimi, CLongjie, Naso, WShuizhuping, WDutian, LopeAwuChen2010, Xuzhang, Senza, CWachang, Nise, Sodi, Yino, LuowuNisu, SNisu, Lidim, CLolo, AzhaazaPelkey2011, CQingsheng	100	U+005e U+0074 U+0282 U+02b0
-^i	i	i²¹ȵi²¹, in³³	SEGaoping, WShanglizhuo, HlephoPhowayhl, Eka, AzhaazaPelkey2011, CLongjie, EHoushan, ETaoshu, EDiaocao, Phuzaypz, Limi, SMangdi, Senza, NuosuHuangDai1992, Talu, CChajiang, WYilu, Sodi, CQingyun, Yino, CQingsheng, Lidim, Lavu, WShuizhuping, Yangliu, LahuNa, CWachang, CLeba, CEYongan	100	U+005e U+0069
-o̠	o̠	kʰo̠²¹, a⁵⁵to̠²¹	CEYongan, CQingsheng, CChajiang, LuowuNisu, CWachang, CLongjie, CLeba, CQingyun, ELolo, HaniLuchun, NNisu, LawuXinpingShuitangJiuha, Kuansi, Eka, SNisu, SEGaoping, JingguLimi	100	U+006f U+0320
-^ɑ	ɑ	ɑ⁵⁵n̩²¹tsʰɑ⁵⁵, ɑ⁵⁵to⁵⁵	CQingsheng, CChajiang, CLeba, CWachang, Lisu, LuquanLisu, Lavu, Pholaypg, YongshengLisu, WeixiLisu, TengchongLisu, LuowuNisu, NuosuHuangDai1992, Kazhuo, Toloza, WShanglizhuo, Talu	100	U+005e U+0251
-^j	j	je³¹nɔ³³, ji³¹ŋ³²³	EDiaocao, SMangdi, Kazhuo, Haoni, Xuzhang, HaniLuchun, LuowuNisu, LawuXinpingShuitangJiuha, Limi, ETaoshu, ELolo, Ghomozo, HaniLongwei, Kuansi, Lipo, LaowuNisu, SEGaoping, Yangliu, CChajiang, CLeba, WYilu, CLolo, Eka, HaniQiepu, JingguLimi, WDutian	100	U+005e U+006a
-^tʂ	ʈʂ	tʂi³³, tʂa³³pu³³	JingguLimi, Neshu, Limi, SanniSanie, Talu, KopoGepo, Sani, NuosuHuangDai1992, Alo, Naso, Lavu, Mongi, Toloza, Sodi, Axi, Lipo, Nasu, Senza, NNisu, Mondzi, CLolo, Yino, AzhaazaPelkey2011, LuowuNisu, Lidim, Nersu, LopeAwuChen2010, CLeba, SEGaoping, SNisu, Azhe, WDutian	100	U+005e U+0074 U+0282
-ɛ̠	ɛ̠	hɛ̠²¹, a⁵⁵vɛ̠²¹pa̠²¹	CQingyun, CLongjie, CLeba, SMangdi, CWachang, Pholaypg, CChajiang, NNisu, CEYongan, AzhaazaPelkey2011, Ghomozo, ETaoshu, CLolo, LuowuNisu, CQingsheng, Eka, EHoushan	100	U+025b U+0320
-tɕʰ	tɕʰ	mu³³tɕʰi̱²¹, a⁵⁵tɕʰi̠²¹	LawuXinpingShuitangJiuha, EDiaocao, Eka, SMangdi, LuowuNisu, Limi, HaniQiepu, SEGaoping, Nersu, ELolo, Nesu, ETaoshu, LaowuNisu, KopoGepo, CChajiang, Nipu, CLeba, CEYongan, Narsu, Neshu, Alo, JingguLimi, CLongjie, WShuizhuping, Nasu, Lavu, LopeAwuChen2010, Senza, CWachang, WShanglizhuo, Talu, Sani, Ghomozo, WYilu, SanniSanie, CLolo, Yino, SNisu, CQingsheng, Lidim, Noso, WDutian	100	U+0074 U+0255 U+02b0
-ᴀ	ɑ̟	zᴀ²¹ni³³, pᴀ¹¹pᴀ¹¹ku³⁵ti³³ni³³	LahuNa, NNisu, SNisu	100	U+1d00
-^dʑ	dʑ	dʑi²¹, dʑu²¹	HaniLuchun, CChajiang, CLeba, Lidim, Mongi, Limi, CWachang, NuosuHuangDai1992, EDiaocao, CQingyun, SEGaoping, LuowuNisu, SNisu, WShuizhuping, CQingsheng, LopeAwuChen2010, Senza, WShanglizhuo, Nipu, Nesu, WYilu, CLolo, Toloza, Nise, Eka, SMangdi, Yino, CLongjie, Lavu, EHoushan, Xuzhang, ELolo, ETaoshu, Talu, KopoGepo, SanniSanie, Sodi, Alo, Kuansi, Lipo, Nasu, Noso	100	U+005e U+0064 U+0291
-³⁵$	³⁵	lɛ³¹pʰɛ³⁵, ʨʰɛ²¹py³⁵	Maang, Kazhuo, Lisu, LahuNa, CEYongan, TengchongLisu, Limi, AzhaazaPelkey2011, Ghomozo, SEGaoping, Haoni, YongshengLisu, WeixiLisu	100	U+00b3 U+2075 U+0024
-h	h	ma³³ha³³, ɑ⁵⁵ŋ̩²¹hɑ⁵⁵	Xuzhang, Senza, NuosuHuangDai1992, Talu, Yino, CLongjie, Lidim, LopeAwuChen2010, ETaoshu, CChajiang, CLeba, CEYongan, WeixiLisu, Toloza, Lisu, Nise, CQingyun, CQingsheng, Noso, CWachang, YongshengLisu, Sani, LopeAwuYYFC1983, Nipu, WYilu, Kuansi, Yangliu, Lavu, Nersu, WDutian, ELolo, Mongi, WShanglizhuo, Limi, NosuXide, SEGaoping, Alo, LuquanLisu, LuowuNisu, Naso, TengchongLisu, WShuizhuping, Nasu, EHoushan	100	U+0068
-_	_	ne³³tʂɔ³³ȵe⁵⁵ F3 6G, ʔa⁵⁵ ŋ̩²¹ ka⁵⁵ la⁵⁵ mu³³	Kuansi, JingguLimi, LaowuNisu, HaniLongwei, HaniLuchun, HaniQiepu	100	U+005f
-^f	f	fv̩³³, fu³³	HaniQiepu, HaniLongwei, Haoni, CLongjie, CQingsheng, EHoushan, ETaoshu, CWachang, EDiaocao, Narsu, CQingyun, Xuzhang, NNisu, WShanglizhuo, LaowuNisu, CChajiang, Nesu, Limi, SanniSanie, Neshu, SEGaoping, Kazhuo, Naso, WShuizhuping, LahuNa, LopeAwuChen2010, LawuXinpingShuitangJiuha, ELolo, Mongi, Talu, Sani, LopeAwuYYFC1983, Nipu, CLeba, Phuzaypz, WYilu, CLolo, Toloza, Lisu, Nise, Eka, Sodi, Alo, JingguLimi, LuowuNisu, Kuansi, Lipo, Nasu, Yangliu, Lavu, Nersu, Noso, WDutian	100	U+005e U+0066
-ʂ	ʂ	bu³³ʂɔ³³, a²¹m̩³³ʂu̱³³kʰu̱⁵⁵	Xuzhang, AzhaazaPelkey2011, Lidim, Senza, NuosuHuangDai1992, Yino, LuowuNisu, Limi, WDutian, EHoushan, CWachang, WShanglizhuo, SanniSanie, Neshu, CLongjie, WShuizhuping, Nasu, Lavu, NNisu, CLeba, Pholaypg, WYilu, Toloza, Nise, SEGaoping, Alo, JingguLimi, Naso, SNisu, Talu, CQingyun, Azhe, Nersu	100	U+0282
-¹³	¹³	li¹³e¹³pɔ²¹, ʑe¹³pi¹³u¹³	LaowuNisu, Mongi, Phuzaypz, SouthernMujiymc, Nersu, Nipu, Mondzi, HlephoPhowayhl, AzhaazaPelkey2011	100	U+00b9 U+00b3
-^ɬ	ɬ	ɬi³³, ɬo²¹bo²¹	Pholaypg, Sani, SouthernMujiymc, KopoGepo, HlephoPhowayhl, Alo, AzhaazaPelkey2011, SNisu, Azhe, Noso, LopeAwuChen2010, LopeAwuYYFC1983, LuowuNisu, Senza, NNisu, NuosuHuangDai1992, Mongi, Narsu, Nise, Neshu, Sodi, Yino, HaniLongwei, Naso, Nasu, Lidim, Nipu, Phuzaypz, Nesu, NosuXide, Axi, Nersu	100	U+005e U+026c
-dʑ	dʑ	a⁵⁵dʑy⁵⁵, a³³dʑɪ³³	NuosuHuangDai1992, CQingyun, Senza, CWachang, CLeba, WYilu, Nise, Eka, Yino, LuowuNisu, Lidim, Nersu, WShanglizhuo, CChajiang, HaniLuchun, SEGaoping, Alo, CLongjie, SNisu, Nasu, Noso, Xuzhang, SMangdi, Naso, WShuizhuping, CQingsheng, LopeAwuChen2010, NNisu, ETaoshu, YongshengLisu, LaowuNisu, KopoGepo, Nipu, Nesu, Narsu, Neshu, Sodi, LuquanLisu, WDutian	100	U+0064 U+0291
-ʑ	ʑ	ɬi⁵⁵ʑi̠ɛ̠³³khu̠²¹, a⁵⁵mu³³sa̱⁵⁵ʑi³³	AzhaazaPelkey2011, SouthernMujiymc, Pholaypg, JingguLimi, NNisu, Lavu, Nersu, LaowuNisu, Alo, Mongi, Narsu, Toloza, Nise, Nasu, LopeAwuChen2010, NuosuHuangDai1992, KopoGepo, Nipu, Nesu, Neshu, SEGaoping, Naso, Senza, ELolo, YongshengLisu, CChajiang, Phuzaypz, HlephoPhowayhl, SanniSanie, CLolo, Axi, Yino, SNisu, Lidim, Noso	100	U+0291
-ɬ	ɬ	ma̱⁵⁵ɬo̱²¹, a²¹ɬu²¹	SouthernMujiymc, Senza, NuosuHuangDai1992, Sani, Nise, Yino, Lidim, Sodi, HaniLongwei, KopoGepo, LuowuNisu, Noso, NNisu, Phuzaypz, HlephoPhowayhl, NosuXide, Naso, Nesu, Narsu, Neshu, Alo, AzhaazaPelkey2011, Nasu, LopeAwuChen2010, LopeAwuYYFC1983, Nipu, Pholaypg, Axi, SNisu, Azhe, Nersu	100	U+026c
-⁵³	⁵³	lᴀ⁵³qhᴀ⁵³pə³³, ŋɔ⁵³ɕa⁵³n̩⁵³	LahuNa, Mongi, Kazhuo, WShanglizhuo, WYilu, Eka, Yangliu, CChajiang, Toloza, Mondzi, CQingsheng, Haoni, WDutian	100	U+2075 U+00b3
-^dʐ	ɖʐ	dʐo̠²¹, dʐʅ²⁴	Toloza, SanniSanie, Limi, CLongjie, WYilu, Neshu, WDutian, Xuzhang, NNisu, CWachang, Talu, CLeba, WShuizhuping, Lavu, LopeAwuChen2010, WShanglizhuo, KopoGepo, LopeAwuYYFC1983, Phuzaypz, Nise, Sodi, CQingyun, SEGaoping, Alo, Axi, Naso, SNisu, CQingsheng, Nasu, Nersu, EHoushan, Senza, NuosuHuangDai1992, Sani, CLolo, NosuXide, Yino, LuowuNisu, Lidim	100	U+005e U+0064 U+0290
-e̱	e̠	me̱²¹, ne̱²¹	Nesu, SanniSanie, Toloza, Naso, Axi, Nasu, Alo, KopoGepo, HaniLuchun	100	U+0065 U+0331
-^ʔ	ʔ	ʔɪ⁵⁵ȵi³³, ʔɲiŋ³³	Kuansi, CQingyun, CLongjie, JingguLimi, NNisu, SNisu, Maang, EHoushan, HlephoPhowayhl, Xuzhang, CEYongan, CWachang	100	U+005e U+0294
-u̠	u̠	ɬi⁵⁵ʑi̠ɛ̠³³khu̠²¹, a⁵⁵mu̠²¹	NNisu, HaniLuchun, ETaoshu, NuosuHuangDai1992, SNisu, Ghomozo, Eka, ELolo, CLolo, LuowuNisu, EDiaocao, LopeAwuYYFC1983, Pholaypg, AzhaazaPelkey2011, Kuansi, Xuzhang, SMangdi, Lipo, Azhe	100	U+0075 U+0320
-n̩	n̩	ɑ⁵⁵n̩²¹tsʰɑ⁵⁵, a⁵⁵n̩²¹ti⁵⁵	Mongi, CQingyun, CEYongan, EHoushan, HlephoPhowayhl, CChajiang, SEGaoping, CQingsheng, CLongjie, Sani, Kuansi, EDiaocao, CLeba, WYilu, Nise, CWachang, WShanglizhuo, SanniSanie, ETaoshu, Phuzaypz, SouthernMujiymc	100	U+006e U+0329
-ei	ei	mei²¹, mei²⁴	EDiaocao, Yangliu, LaowuNisu, LopeAwuYYFC1983, Maang, WShuizhuping, LahuNa, Ghomozo, Mondzi, CEYongan, SMangdi, WYilu, EHoushan, LopeAwuChen2010, CChajiang, CLongjie, CWachang, WDutian	100	U+0065 U+0069
-³⁵	³⁵	tsɿ³⁵li³⁵koa³⁵la³⁵, sɿ³⁵ŋ³⁵tha³³	LahuNa, Xuzhang, Kazhuo, WDutian, Lisu, Eka, Maang, JingguLimi, SEGaoping, Limi, EHoushan, Ghomozo, YongshengLisu, CEYongan, WShanglizhuo, WeixiLisu	100	U+00b3 U+2075
-tʂ	ʈʂ	a⁵⁵tʂa̠²¹, pɨ⁵⁵tʂʅ̠²¹	JingguLimi, LopeAwuChen2010, CWachang, Limi, CQingyun, CLongjie, WShuizhuping, NNisu, WShanglizhuo, Talu, Sani, KopoGepo, Phuzaypz, WDutian, Xuzhang, CLeba, WYilu, Toloza, Neshu, Sodi, Alo, AzhaazaPelkey2011, LuowuNisu, Naso, Lavu, Senza, NuosuHuangDai1992, Mondzi, SanniSanie, Nise, Yino, Lipo, Nasu, Yangliu, Lidim, Nersu	100	U+0074 U+0282
-⁴⁵³$	⁴⁵³	no⁴⁵³, a³³ve⁴⁴pa⁴⁵³	WShuizhuping, Xuzhang, WYilu, Yangliu, WDutian	100	U+2074 U+2075 U+00b3 U+0024
-w	w	nu⁵⁵wu²¹ɲɛ̠³³, no⁵⁵wu²¹ɲɛ̠³³	CLeba, CEYongan, Xuzhang, WDutian, SMangdi, CLongjie, CQingsheng, CWachang, WShanglizhuo, Phuzaypz, CQingyun, Yangliu, ETaoshu, EDiaocao, CChajiang, WShuizhuping, SEGaoping, WYilu, Kazhuo, Ghomozo, SouthernMujiymc, Kuansi, EHoushan	100	U+0077
-iɛ̠	iɛ̠	liɛ̠²¹pʰiɛ̠³³, pʰiɛ̠²¹	CLeba, CWachang, CEYongan, CQingyun, NNisu, Ghomozo, CQingsheng	100	U+0069 U+025b U+0320
-^n̩	n̩	n̩²¹dy⁵⁵, n̩³³	CLeba, WShuizhuping, Yangliu, CWachang, WShanglizhuo, WYilu, Xuzhang, Sani, SMangdi, CLongjie, HlephoPhowayhl, CQingyun, CQingsheng, ETaoshu, CEYongan, EDiaocao, CChajiang, Nise, KopoGepo, SanniSanie, Eka, HaniQiepu, HaniLongwei, Kuansi	100	U+005e U+006e U+0329
-iɛ	iɛ	a⁵⁵miɛ³¹, miɛ³³xiɛ³³	NNisu, WYilu, Lipo, LaowuNisu, CEYongan, Lisu, Ghomozo, Kazhuo, EDiaocao, SEGaoping, LuowuNisu, Yangliu, CLeba, TengchongLisu, YongshengLisu, Pholaypg, WDutian, WeixiLisu	100	U+0069 U+025b
-ʔ	ʔ	ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹, kʰoʔ⁵³	Ghomozo, Eka, WYilu, WShuizhuping, SMangdi, CQingyun, WDutian, Xuzhang, Kuansi, CLongjie, HlephoPhowayhl, JingguLimi	100	U+0294
-ɿ̠	ɿ̠	sɿ̠³³dzɿ⁵⁵, n̩²¹tsʰɿ̠³³	NNisu, CChajiang, Kuansi, CQingsheng, CQingyun, NuosuHuangDai1992, CWachang, CLeba, CLongjie, CEYongan, Haoni, Ghomozo, ETaoshu, NosuXide, EHoushan, HaniLuchun, Kazhuo, LopeAwuYYFC1983	100	U+027f U+0320
-^ʐ	ʐ	ʐi³³, ʐo̠²¹ma³³	JingguLimi, SanniSanie, Sani, WShanglizhuo, Phuzaypz, CWachang, CQingyun, CLongjie, WShuizhuping, Xuzhang, Senza, Mongi, CLeba, SEGaoping, Yino, Lidim, NuosuHuangDai1992, Mondzi, Pholaypg, WYilu, AzhaazaPelkey2011, WDutian, NNisu, Maang, KopoGepo, Limi, Toloza, Neshu, NosuXide, Sodi, Axi, Yangliu, Azhe, CQingsheng	100	U+005e U+0290
-^o	o	o⁵⁵po³³, o²¹	Limi, Eka, Nasu, HaniQiepu, ELolo, Lisu, Sani, Kazhuo, HaniLongwei, NuosuHuangDai1992, HaniLuchun, Toloza, Sodi, Senza, Nipu, SEGaoping, Yino, WShuizhuping, Lidim, LahuNa, Talu, Haoni, KopoGepo, WeixiLisu, NosuXide, SMangdi, Axi, LuquanLisu, LuowuNisu, Kuansi, Naso, Yangliu, Lavu, Noso	100	U+005e U+006f
-³⁴$	³⁴	ʐu²⁴ɣɨ³⁴, pʰv̩³⁴	HaniQiepu, NuosuHuangDai1992, WYilu, CEYongan, WDutian, Senza, WShuizhuping, WShanglizhuo, Xuzhang, Limi, Ghomozo, SEGaoping	100	U+00b3 U+2074 U+0024
-ɤ̪	ɤ̪	lɤ̪²¹, kʰɤ̪⁵⁵dɤ̪²¹	EDiaocao, ETaoshu, WShanglizhuo, EHoushan, Yangliu, Xuzhang, Ghomozo	100	U+0264 U+032a
-^m̩	m̩	m̩²¹, m̩³³ȵi²¹mo²¹	Senza, Yino, Lidim, Sani, Sodi, SanniSanie, KopoGepo, Phuzaypz, WDutian, Nise, HaniLongwei, ETaoshu, HlephoPhowayhl, Kazhuo, SouthernMujiymc, Xuzhang, CWachang, NuosuHuangDai1992, CChajiang, WShuizhuping, Yangliu	100	U+005e U+006d U+0329
-^tsh	tsh	tshɿ³¹, tshɿ³³	Kazhuo, HaniLuchun, HaniLongwei, Haoni, NuosuHuangDai1992, LahuNa, Lisu, NNisu, LopeAwuChen2010, Ghomozo, Nise	100	U+005e U+0074 U+0073 U+0068
-m̩	m̩	a⁵⁵m̩²¹ba̠²¹, mo³³m̩³³	HaniLongwei, Yangliu, ETaoshu, CChajiang, WDutian, Senza, Yino, Lidim, SouthernMujiymc, CQingsheng, LopeAwuChen2010, KopoGepo, EHoushan, WShanglizhuo, Sani, CEYongan, HlephoPhowayhl, Limi, Nise, Sodi, HaniQiepu, CWachang, NuosuHuangDai1992, YongshengLisu, CLeba, Neshu, CQingyun, SMangdi, SEGaoping, CLongjie, WShuizhuping	100	U+006d U+0329
-⁴²	⁴²	i⁴²ȵi⁴², a⁴²ndi⁴²hi²²	Yino, EDiaocao, EHoushan, Ghomozo, Yangliu, HaniQiepu, Eka, CLongjie	100	U+2074 U+00b2
-ai	ai	a⁵⁵kai²¹, a⁵⁵qai²¹	Yangliu, WShanglizhuo, Xuzhang, Eka, CQingyun, SMangdi, Maang, Ghomozo, WYilu, LaowuNisu, Limi, LawuXinpingShuitangJiuha, CWachang, WShuizhuping, EHoushan, CLongjie, EDiaocao, SEGaoping	100	U+0061 U+0069
-⁵⁴$	⁵⁴	ɕi⁵⁴, sɿ⁵⁴	Noso, LahuNa, Ghomozo, WDutian	100	U+2075 U+2074 U+0024
-^ɛ	ɛ	ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹, ɛ³³ɣə¹³	Eka, SouthernMujiymc, Phuzaypz, HlephoPhowayhl, WShuizhuping, Narsu, WDutian, AzhaazaPelkey2011, SanniSanie, Xuzhang, CLongjie, Nise, Yangliu, SMangdi, Noso, EHoushan	100	U+005e U+025b
-^w	w	wu²¹, wu²¹tɕʰi⁵⁵	Kazhuo, CEYongan, CChajiang, Ghomozo, Phuzaypz, CLeba, WYilu, CQingyun, SEGaoping, WShuizhuping, CWachang, WShanglizhuo, Limi, SMangdi, CLongjie, Yangliu, Xuzhang, CQingsheng, LawuXinpingShuitangJiuha, LaowuNisu, ETaoshu, EDiaocao, HaniLongwei, SNisu, TengchongLisu, EHoushan	100	U+005e U+0077
-ɲ	ɲ	a³³ɲi²¹, ɨ⁵⁵ɲi³³	Limi, Xuzhang, CQingyun, Ghomozo, CLongjie, CLeba, CEYongan, Kuansi, Lisu, CWachang, Lipo, HaniLuchun, Yangliu, CLolo	100	U+0272
-ɔ̠	ɔ̠	a⁵⁵vi̠²¹pɔ̠²¹, nɔ̠⁴⁵nɔ̠⁴⁵	Pholaypg, EHoushan, AzhaazaPelkey2011, ETaoshu, Ghomozo, HaniLuchun, JingguLimi	100	U+0254 U+0320
-ɚ	ə˞	su²¹vɚ³³, gɯ²¹bɚ³³	Neshu, SanniSanie, Nasu, Alo, Naso, LopeAwuYYFC1983	100	U+025a
-^u	u	u³³, u⁵⁵pa̠²¹	Alo, Haoni, LuowuNisu, CQingsheng, Pholaypg, CChajiang, Kuansi, Talu, Limi, HaniLuchun, SEGaoping, HaniLongwei, Mongi, SMangdi, Lavu, LahuNa, LawuXinpingShuitangJiuha, EDiaocao, WYilu, CLolo, Nasu, ETaoshu, LaowuNisu, Mondzi, CLeba, Narsu, Toloza, CLongjie, Nersu, WDutian	100	U+005e U+0075
-^ph	pʰ	phu³³, phu⁴⁴	LahuNa, HaniLongwei, HaniLuchun, Haoni, Lisu, Kazhuo, Mondzi, NNisu, Maang, NuosuHuangDai1992, LopeAwuYYFC1983, Ghomozo, NosuXide, Azhe	100	U+005e U+0070 U+0068
-ĩ	ĩ	ĩ³³ɲĩ³³, n̩²¹ti⁵⁵ĩ³³	ETaoshu, Xuzhang, Yangliu, WYilu, CLongjie, Eka, CLeba, CWachang, WDutian, Limi, CEYongan, LawuXinpingShuitangJiuha, Kuansi, Haoni, WeixiLisu, EHoushan	100	U+0129
-ia	ia	pʰia⁵⁵, liaŋ²¹	SEGaoping, Kuansi, EDiaocao, EHoushan, Maang, Ghomozo, HlephoPhowayhl, Yangliu, Xuzhang, CChajiang, CEYongan, WYilu, LaowuNisu, CLolo, Eka, CQingyun, CQingsheng, CWachang, WShanglizhuo, Mondzi, Phuzaypz, Kazhuo, CLongjie, WShuizhuping, WDutian	100	U+0069 U+0061
-ø	ø	pʰø²¹mø³³, la³¹nø⁵⁵	HaniQiepu, HaniLongwei, HaniLuchun, Xuzhang, CLeba, CQingyun, WYilu, Mondzi	100	U+00f8
-²$	²	dzu², bu²	Noso, Sani, LuowuNisu	100	U+00b2 U+0024
-^kh	kʰ	khu⁵⁵, khɯ³³	LahuNa, HaniLongwei, Lisu, Haoni, NuosuHuangDai1992, Kazhuo, HaniLuchun, Mondzi, NNisu, Maang, LopeAwuYYFC1983, NosuXide, CLeba, Azhe, Axi	100	U+005e U+006b U+0068
-f	f	tsʰɿ²¹fv̩²¹, o³³fu³³	Haoni, CWachang, WShanglizhuo, CQingyun, CLongjie, Kuansi, EHoushan, LahuNa, ETaoshu, EDiaocao, CChajiang, Phuzaypz, HlephoPhowayhl, Eka, CQingsheng, WShuizhuping, SMangdi, Kazhuo, Yangliu, SEGaoping, LopeAwuChen2010, Senza, NNisu, NuosuHuangDai1992, KopoGepo, Ghomozo, SanniSanie, Lisu, Neshu, Sodi, Yino, AzhaazaPelkey2011, SouthernMujiymc, Lidim	100	U+0066
-³⁴	³⁴	ɑ³⁴phu³³, a³⁴ȵɪ̱³³	NuosuHuangDai1992, Senza, Sodi, Xuzhang, ETaoshu, Lidim, HaniQiepu	100	U+00b3 U+2074
-dʐ	ɖʐ	a⁵⁵dʐi̱³³, kʰv̩⁵⁵dʐv̩²¹	Limi, Toloza, Neshu, SanniSanie, Xuzhang, NNisu, Talu, Nersu, EHoushan, NuosuHuangDai1992, CLeba, WYilu, Nise, WShuizhuping, WDutian, Senza, CWachang, WShanglizhuo, Sani, Sodi, Alo, Yino, Naso, Nasu, Azhe, Lavu, LopeAwuChen2010, KopoGepo, NosuXide, SEGaoping, Axi, CLongjie, Lidim, CQingsheng	100	U+0064 U+0290
-ɐ	ɐ	dza⁴⁴dʑi³³dzɐ²¹xɐ³³, mɐŋ⁵⁵tɐŋ³³	WYilu, JingguLimi	100	U+0250
-⁴⁵$	⁴⁵	tʂo⁴⁵, wu²¹mi⁴⁵	AzhaazaPelkey2011, WDutian, CQingyun, LawuXinpingShuitangJiuha, SEGaoping, WYilu, Limi, CChajiang, WShuizhuping	100	U+2074 U+2075 U+0024
-tʂʰ	ʈʂʰ	a⁵⁵tʂʰo̠³³, a⁵⁵tʂʰʅ̠²¹pa̠²¹	Xuzhang, CWachang, CLongjie, WShuizhuping, Talu, Lavu, CLeba, Limi, CQingyun, WYilu, Toloza, Alo, WShanglizhuo, SanniSanie, Naso, SNisu, Nasu, WDutian, LopeAwuChen2010, KopoGepo, Pholaypg, CLolo, Neshu, JingguLimi, Nersu, LuowuNisu	100	U+0074 U+0282 U+02b0
-e̠	e̠	je̠³¹ni³³, ne̠⁵⁵ne̠⁵⁵kʰo̠²¹	JingguLimi, SNisu, CLolo, LuowuNisu, LawuXinpingShuitangJiuha, CChajiang, ELolo, HaniLuchun, Ghomozo, Lipo, CQingsheng, SMangdi	100	U+0065 U+0320
-^ʦʰ	tsʰ	ʦʰɿ²¹vɯ²¹, ʦʰa³³kʰɯ⁵⁵	HlephoPhowayhl, Phuzaypz, Pholaypg, AzhaazaPelkey2011, SouthernMujiymc	100	U+005e U+02a6 U+02b0
-ɤ̱	ɤ̠	kʰɤ̱²¹, ɣɤ̱²¹	Nesu, Narsu, Neshu, Toloza, Lavu, Talu, Alo, KopoGepo, LopeAwuChen2010, Nasu, Sani	100	U+0264 U+0331
-ph	pʰ	la³¹phi⁵⁵, ᴀ⁵⁵phɤ²¹	HaniLongwei, Haoni, Lisu, LahuNa, HaniLuchun, NNisu, Kazhuo, NuosuHuangDai1992, LopeAwuYYFC1983, Axi, Azhe	100	U+0070 U+0068
-^ɔ	ɔ	ɔ²¹, ɔ³¹ni³³mᴀ³³	LahuNa, Haoni, HaniLuchun, LaowuNisu, LuowuNisu, Naso, NosuXide, Nasu, Mongi, NuosuHuangDai1992, HlephoPhowayhl, Mondzi, EDiaocao, Pholaypg, Noso, EHoushan	100	U+005e U+0254
-²³$	²³	nɔ³³ɣɨ̠²³, ʂʅ³³wuŋ²³	Pholaypg, Ghomozo, CLongjie, CQingyun	100	U+00b2 U+00b3 U+0024
-æ	æ	tʂæ³³sæ²¹, mæ³³xæ³³dʐu²¹	Limi, Pholaypg, SMangdi, LuquanLisu, CLongjie, Lipo, Ghomozo, CEYongan, CLolo, SEGaoping, SouthernMujiymc, Haoni, LawuXinpingShuitangJiuha, LopeAwuYYFC1983, CLeba, Phuzaypz, HlephoPhowayhl, JingguLimi, WShuizhuping	100	U+00e6
-ua	ua	kua³³, tsua³³	Kuansi, Ghomozo, Eka, EDiaocao, CEYongan, EHoushan, Yangliu, Haoni, WYilu, SEGaoping, ETaoshu, LaowuNisu, Lisu, CQingyun, JingguLimi, CLongjie, LuowuNisu, LawuXinpingShuitangJiuha, CWachang, WShanglizhuo, Mondzi, Limi, Axi, CQingsheng	100	U+0075 U+0061
-^th	tʰ	tho³³, thɔ³³	Haoni, NNisu, Kazhuo, HaniLongwei, LahuNa, Lisu, HaniLuchun, NuosuHuangDai1992, LopeAwuYYFC1983, Mondzi, Maang, ETaoshu, NosuXide, HaniQiepu, Azhe, Axi	100	U+005e U+0074 U+0068
-⁴⁵	⁴⁵	mɛ˞⁴⁵m³¹ɕi⁴⁴, a⁴⁵ma²¹	AzhaazaPelkey2011, WDutian, SEGaoping, Xuzhang, Yangliu, WYilu, Limi, EHoushan	100	U+2074 U+2075
-ʐ	ʐ	ɬi³³ʐo³³, pɯ²¹ʐu²¹mu³³ʐu⁵⁵	JingguLimi, Neshu, Phuzaypz, SanniSanie, NNisu, Sani, WShanglizhuo, CWachang, Mongi, WYilu, Limi, CLongjie, Azhe, WDutian, CLeba, Toloza, CQingyun, SEGaoping, Lipo, Xuzhang, Maang, Mondzi, CEYongan, Pholaypg, WShuizhuping	100	U+0290
-^ɡ	g	ɡo³³, ɡu⁵⁵	SouthernMujiymc, Kuansi, LaowuNisu, Phuzaypz, Lisu, HaniLuchun, NuosuHuangDai1992, HlephoPhowayhl, LahuNa, CLongjie, Lipo, CQingyun	100	U+005e U+0261
-^ɲ	ɲ	ɲi³³, ɲio²¹	Ghomozo, Lisu, CEYongan, JingguLimi, HaniLuchun, Kuansi, Xuzhang, CWachang, EDiaocao, CQingyun, CLongjie, Yangliu, WShanglizhuo, WYilu, Limi, CLolo, SMangdi, CQingsheng, ETaoshu, Lipo, WShuizhuping	100	U+005e U+0272
-tsh	tsh	na³³tshi³¹, bɑ³³tshɿ³¹	HaniLongwei, Haoni, HaniLuchun, Kazhuo, LahuNa, Lisu, NNisu, NuosuHuangDai1992, KopoGepo, LuowuNisu	100	U+0074 U+0073 U+0068
-kh	kʰ	ɬi⁵⁵ʑi̠ɛ̠³³khu̠²¹, mo⁵⁵kho⁵⁵kho⁵⁵jɔ⁵⁵	HaniLongwei, Lisu, NNisu, Kazhuo, HaniLuchun, NuosuHuangDai1992, Haoni, LahuNa, LopeAwuYYFC1983, Mondzi, NosuXide, Azhe, Maang	100	U+006b U+0068
-^ʝ	ʝ	ʝi²⁴, ʝi³³	Ghomozo, WYilu, WShuizhuping, CLolo, WShanglizhuo, WDutian, Xuzhang, ETaoshu, EDiaocao, ELolo, CQingsheng, CChajiang, CLeba, CEYongan, Limi, Eka, SMangdi, LuowuNisu, Yangliu, EHoushan, CWachang, CLongjie, Kuansi	100	U+005e U+029d
-ɨ̠	ɨ̠	bɨ̠³³, ɣɨ̠²¹tɕy³³	Pholaypg, Eka, AzhaazaPelkey2011, CQingsheng, CLeba, EHoushan, CLongjie, CWachang, CChajiang, CQingyun, SMangdi, ETaoshu, CEYongan, SEGaoping	100	U+0268 U+0320
-ɑ̠	ɑ̠	hɑ̠²¹pɑ̠²¹, nɑ̠²³tɑ̠²³	Pholaypg, LuowuNisu, SMangdi, CEYongan, Ghomozo	100	U+0251 U+0320
-^ᴀ	ɑ̟	ᴀ³³pu³¹, ᴀ⁵⁵phɤ²¹	NNisu, LahuNa, SNisu, JingguLimi	100	U+005e U+1d00
-ʦ	ts	li⁵⁵ʦi¹³, a⁵⁵ʦa²¹ʦa⁵⁵kə²¹ljɛ²²	Phuzaypz, AzhaazaPelkey2011, SouthernMujiymc, HlephoPhowayhl, Pholaypg, Axi, NosuXide, Lipo, Azhe	100	U+02a6
-v̩˞	v̩˞	gv̩˞²¹lv̩˞²⁴kʰɨ⁵³, vv̩˞²¹	Ghomozo, Xuzhang, WDutian	100	U+0076 U+0329 U+02de
-ʌ	ʌ	ʣʌ⁵⁵wʌ⁵⁵, mʌ³³	Phuzaypz, AzhaazaPelkey2011	100	U+028c
-ɡ	g	e³¹tɑ⁵⁵ɡu³³, ŋɡɯ³³	Lisu, NuosuHuangDai1992, SouthernMujiymc, LaowuNisu, HaniLuchun, HlephoPhowayhl, Kuansi, Phuzaypz, LahuNa, Pholaypg	100	U+0261
-th	tʰ	ɕao⁵³khoa³¹thi³¹thi³¹, ta³⁵khoa³¹thi³¹thi³¹	Kazhuo, HaniLongwei, HaniLuchun, Haoni, Lisu, NNisu, NuosuHuangDai1992, LahuNa, Axi, LuowuNisu, Mondzi, HaniQiepu, Maang	100	U+0074 U+0068
-æ̠	æ̠	hæ̠²¹, kʰæ̠²¹pʰæ̠²¹	CLongjie, Pholaypg, CLolo, CEYongan, SEGaoping	100	U+00e6 U+0320
-ɯ̠	ɯ̠	lɯ̠⁵⁵, ɣɯ̠²¹	JingguLimi, Kuansi, Ghomozo, AzhaazaPelkey2011, CLolo, LuowuNisu, NNisu, ELolo, Lipo, Pholaypg, HaniLuchun, SNisu	100	U+026f U+0320
-⁵¹$	⁵¹	si̱⁵¹, go̱⁵¹	SanniSanie, Lipo, Limi, HaniLuchun, WShuizhuping, SEGaoping, Yangliu, SMangdi	100	U+2075 U+00b9 U+0024
-ã	ã	thã⁴², nɯ⁵⁵ɣã⁵⁵	HaniLongwei, WShuizhuping, WYilu, CEYongan, Haoni, Kuansi, Limi, SMangdi, AzhaazaPelkey2011, CLongjie, Ghomozo, ETaoshu, CLeba, WShanglizhuo, Eka, WDutian	100	U+00e3
-²⁵$	²⁵	ndi̱²⁵, ɑ⁵⁵ŋ̩̩²¹kʰɛi²⁵	Yino, CQingsheng, WYilu, CChajiang, SMangdi	100	U+00b2 U+2075 U+0024
-ɛi	ɛi	ɑ⁵⁵ŋ̩̩²¹kʰɛi²⁵, pʰa²¹mɛi³³	Xuzhang, Phuzaypz, CEYongan, WYilu, CChajiang, Yangliu, CQingsheng	100	U+025b U+0069
-²	²	ȵi²mu⁵⁵, ɣa̠²ɬo̠²kɯ³³	LuowuNisu, Noso, Sani, Limi, Talu	100	U+00b2
-ɯ̱	ɯ̠	kɯ̱⁵⁵, dɯ̱²¹	SanniSanie, Nise, Azhe, LopeAwuYYFC1983, Yino, Senza, Lidim, Axi, Naso, Alo, LopeAwuChen2010, HaniLuchun, Sodi	100	U+026f U+0331
-ɒ	ɒ	kʰɒ³³, ŋɒ³³	Alo, Nipu, LuquanLisu, JingguLimi, LuowuNisu, Mondzi	100	U+0252
-ɚ̱	ə̠˞	fɚ̱²¹, mɚ̱³³ʂɚ̱³³	Neshu, Naso, Alo, Nasu, SanniSanie	100	U+025a U+0331
-^ŋ̩	ŋ̍	ŋ̩²¹, ŋ̩²¹kʰv̩²¹	LawuXinpingShuitangJiuha, Eka, Lavu, Talu, CQingyun, CWachang, CLeba, CLongjie, ETaoshu, WShanglizhuo, Sani, WYilu, SMangdi, Xuzhang, Limi, SEGaoping, EHoushan, EDiaocao, CChajiang, Toloza, Yangliu, CQingsheng, WShuizhuping	100	U+005e U+014b U+0329
-ʨ	tɕ	ʐi²²ʨɪ̠³³, ʨʰɛ²¹ʨy³³	AzhaazaPelkey2011, Pholaypg, SouthernMujiymc, HlephoPhowayhl, Phuzaypz, Azhe, Mondzi, Axi, LopeAwuYYFC1983, NosuXide, Maang	100	U+02a8
-ao	ao	lao²¹pian⁴⁴tʰoŋ²¹, mao³³tsʰao³³	Ghomozo, Kazhuo, Yangliu, WYilu, Xuzhang, Eka, CQingyun, WShanglizhuo, SEGaoping, LawuXinpingShuitangJiuha, WShuizhuping, WDutian, SouthernMujiymc, CWachang, Limi, LopeAwuYYFC1983, CLongjie, CLeba	98	U+0061 U+006f
-^ʣ	dz	ʣə²¹, ʣo²¹	Phuzaypz, SouthernMujiymc, HlephoPhowayhl, Pholaypg, Azhe, LopeAwuYYFC1983, NosuXide, Axi, Maang	95	U+005e U+02a3
-^ʃ	ʃ	ʃɿ³¹, ʃɔ³¹	Haoni, Lisu, HaniLongwei, EHoushan, JingguLimi, YongshengLisu, SNisu, CWachang, CLeba, HaniQiepu, WeixiLisu, TengchongLisu	94	U+005e U+0283
-E	<?>	dzE³³, sE²¹	NNisu, JingguLimi	94	U+0045
-ʦʰ	tsʰ	n̩²¹ʦʰɯ⁵⁵, ɛ⁵⁵ʦʰo³³	HlephoPhowayhl, Phuzaypz, SouthernMujiymc, AzhaazaPelkey2011, Pholaypg	93	U+02a6 U+02b0
-q	q	u³³qɛ̠³¹, a⁵⁵qai²¹	LahuNa, WShanglizhuo, Pholaypg, Sani, Xuzhang, LaowuNisu, CEYongan, Maang	93	U+0071
-^ʦ	ts	ʦɯ³³, ʦa²¹	AzhaazaPelkey2011, HlephoPhowayhl, Pholaypg, Phuzaypz, SouthernMujiymc, Maang, Axi, LopeAwuYYFC1983, Azhe	91	U+005e U+02a6
-a̤	a̤	na̤²¹, a⁵⁵tʰa̤²¹ba̤²¹	CQingyun, CLongjie, CEYongan, CLeba, WYilu, EDiaocao, CChajiang, EHoushan	91	U+0061 U+0324
-^ʨʰ	tɕʰ	ʨʰɛ³³, ʨʰi³³	SouthernMujiymc, AzhaazaPelkey2011, Pholaypg, HlephoPhowayhl, Phuzaypz, Lipo	89	U+005e U+02a8 U+02b0
-^ʨ	tɕ	ʨi³³, ʨɛ³³	AzhaazaPelkey2011, Pholaypg, SouthernMujiymc, NosuXide, LopeAwuYYFC1983, Phuzaypz, Azhe, Axi, HlephoPhowayhl, Mondzi, HaniQiepu, Maang	88	U+005e U+02a8
-ɛ̱	ɛ̠	bɛ̱³³, dɛ̱³³	LopeAwuChen2010, Narsu, Nise, Toloza, Azhe, LopeAwuYYFC1983, Naso	87	U+025b U+0331
-^tɕh	tɕh	tɕhi̠ɛ̠³³, tɕhi²¹	NuosuHuangDai1992, Kazhuo, HaniLongwei, NNisu, HaniLuchun, Haoni, Lisu, Neshu, Sodi, HaniQiepu, Lavu, SEGaoping	86	U+005e U+0074 U+0255 U+0068
-^e	e	e⁵⁵ni³³, e³⁵	Lisu, CLolo, HaniLongwei, NuosuHuangDai1992, WShanglizhuo, Alo, HaniLuchun, Ghomozo, Nesu, WDutian, Nasu, Limi, Lavu, CWachang, WShuizhuping, SMangdi, JingguLimi	84	U+005e U+0065
-ae	ae	pʰae³³, tɕʰae²¹	Sani	83	U+0061 U+0065
-ʊ	ʊ	ʐʊ²¹tu³³, tʂʊ³³mʊ³³kʰʊ³³	JingguLimi	81	U+028a
-^ɯ	ɯ	ɯ³³, ɯ⁵⁵	HaniLongwei, HaniQiepu, Haoni, Ghomozo, Nipu, LaowuNisu, HaniLuchun, Nise, HlephoPhowayhl, SanniSanie, JingguLimi, Noso, LopeAwuChen2010, SouthernMujiymc, Naso, ELolo, KopoGepo, Sani, Pholaypg, LuowuNisu	80	U+005e U+026f
-⁴¹$	⁴¹	kho⁴¹, se⁴¹	Lisu, Yangliu, Xuzhang, Lipo, Eka, WShanglizhuo, WDutian	78	U+2074 U+00b9 U+0024
-i̠ɛ̠	i̠ɛ̠	tɕhi̠ɛ̠³³, ni̠ɛ̠²¹	NNisu	78	U+0069 U+0320 U+025b U+0320
-u̪	u̪	ku̪⁵⁵tsu̪³³, kʰu̪⁵⁵	Lavu, Talu	77	U+0075 U+032a
-ʉ	ʉ	pʉ²¹, dʉ²²	CQingyun, ETaoshu, AzhaazaPelkey2011, Azhe, CEYongan, EDiaocao	75	U+0289
-ʨʰ	tɕʰ	a⁵⁵ʨʰi²¹ʨʰi²¹nowa²¹, pi³³ʨʰɛ²¹ʨʰɛ²¹	SouthernMujiymc, Pholaypg, HlephoPhowayhl, AzhaazaPelkey2011, Phuzaypz	75	U+02a8 U+02b0
-^ĩ	ĩ	ĩ³³, ĩ⁵⁵	CLongjie, CWachang, Xuzhang, ETaoshu, WShuizhuping, CLeba, CQingsheng, WDutian, WYilu, CEYongan, CChajiang, Yangliu, WShanglizhuo	72	U+005e U+0129
-⁵⁴	⁵⁴	aŋ⁵⁴xo³³, ȵi⁵⁴kʰa³³	Noso, LahuNa, SEGaoping, Yangliu	71	U+2075 U+2074
-y̠	y̠	ly̠²¹, pʰy̠²¹	CLongjie, AzhaazaPelkey2011, CQingsheng, CLeba, CChajiang, CWachang, CEYongan, ETaoshu, SEGaoping	70	U+0079 U+0320
-ŋ̩	ŋ̍	tɕʰi⁵⁵ŋ̩²¹, a⁵⁵ŋ̩²¹	CQingyun, CLongjie, CEYongan, CChajiang, EHoushan, ETaoshu, WShanglizhuo, CQingsheng, EDiaocao, Eka, SEGaoping, CLeba, Limi, SMangdi, Kuansi, LawuXinpingShuitangJiuha, CWachang, Talu, WYilu, Yangliu, Lavu	69	U+014b U+0329
-^v̩	v̩	v̩⁵⁵ŋ̩̩²¹, v̩³³	HaniQiepu, Haoni, CQingsheng, HaniLongwei, CLongjie, Ghomozo, CWachang, ETaoshu, CChajiang, CLeba, CQingyun, LuowuNisu, LawuXinpingShuitangJiuha, EDiaocao, Pholaypg, Limi, NosuXide, Kazhuo, EHoushan	68	U+005e U+0076 U+0329
-io	io	nio²¹, ɲio²¹	Eka, SEGaoping, Maang, EDiaocao, CEYongan, CLolo, CWachang, Ghomozo, WYilu, CQingyun, Kazhuo, Yangliu, EHoushan, ETaoshu, WShanglizhuo, Limi, Lisu, CLongjie, Kuansi, Lipo, CQingsheng, WDutian	66	U+0069 U+006f
-õ	õ	hõ³³, hõ²¹	Xuzhang, Kuansi, WShuizhuping, Ghomozo, WShanglizhuo, Limi, WYilu, LuowuNisu, WDutian, Haoni, Yangliu, Eka, LopeAwuYYFC1983, SMangdi, Maang	65	U+00f5
-¹¹$	¹¹	xᴀ¹¹, ə¹¹	LahuNa, Alo, LuowuNisu, HaniLuchun	65	U+00b9 U+00b9 U+0024
-ɛ̤	ɛ̤	sɛ̤²¹, vɛ̤²¹	CQingyun, CLeba, CLongjie, CChajiang, CQingsheng, CEYongan, SEGaoping	65	U+025b U+0324
-ǫ	ǫ	sǫ³³lǫ³³sǫ³³kɔ⁵⁵, lǫ²¹	Nasu	64	U+01eb
-⁴¹	⁴¹	zɑ⁴¹mɯ⁴¹zɑ⁴¹, zɑ⁴¹mɯ⁴¹lɛ⁵⁵	Lisu, Xuzhang, Yangliu	63	U+2074 U+00b9
-^a̱	a̠	a̱⁵⁵ɣɯ³³, a̱⁵⁵me³³ɣɔ³³	Alo, Nasu, LopeAwuYYFC1983, Yino, Senza, Nise, Lidim, Nesu	63	U+005e U+0061 U+0331
-ʣ	dz	ɛ³³ʣa³³, i³³ʣə³³ʣa²¹tʰa⁵⁵	HlephoPhowayhl, Phuzaypz, Azhe, NosuXide, SouthernMujiymc, Mondzi, Pholaypg, Axi	62	U+02a3
-ʝ	ʝ	a⁵⁵ʝi²¹, de⁴⁴ʝi³³	Xuzhang, WShuizhuping, WYilu, WDutian, WShanglizhuo, EHoushan, Ghomozo, CEYongan, Yangliu, CWachang, EDiaocao, LuowuNisu, CQingsheng, LawuXinpingShuitangJiuha, ELolo, ETaoshu, CLeba, CLolo, CQingyun	62	U+029d
-³²³$	³²³	ji³¹ŋ³²³, ni³¹na³²³	Kazhuo	62	U+00b3 U+00b2 U+00b3 U+0024
-⁴⁵³	⁴⁵³	na⁴⁵³ja³³, tɕʰĩ⁴⁵³n̩²¹	Xuzhang, WYilu, WShuizhuping	62	U+2074 U+2075 U+00b3
-o̠̠	o̠	kʰo̠̠²¹, ɣʷo̠̠²¹	CChajiang, CEYongan, CLeba, SEGaoping, CQingsheng	61	U+006f U+0320 U+0320
-^ɪ	ɪ	ɪ²¹ni³³, ɪ³³tʰa⁵⁵ȵi²¹	SouthernMujiymc, Sani, KopoGepo, Nise, Narsu, JingguLimi, Neshu, Azhe, SMangdi, Noso	61	U+005e U+026a
-ɤ̪˞	ɤ̪˞	kʰɤ̪˞²¹sɿ²¹, gɤ̪˞³³	Xuzhang, EHoushan	60	U+0264 U+032a U+02de
-²³	²³	kᶠʰv̩²³me³³, ɣu̠²³tʰɔ̠²³mɔ̠²³	Pholaypg, WDutian, WYilu, Yangliu, Ghomozo, EDiaocao, WShanglizhuo	58	U+00b2 U+00b3
-^tʃ	tʃ	tʃo⁴², tʃɔ³¹pu³³	Lisu, Haoni, HaniLongwei, SMangdi, EHoushan, EDiaocao, CQingyun	57	U+005e U+0074 U+0283
-^tʃh	tʃh	tʃhɿ³¹, tʃhɯ³¹	Lisu, Haoni, HaniLongwei	57	U+005e U+0074 U+0283 U+0068
-ɤ̠	ɤ̠	kɤ̠³³, ɬɤ̠²¹	NNisu, SNisu, LuowuNisu, Lipo, HaniLuchun, Kuansi, ETaoshu, JingguLimi	56	U+0264 U+0320
-uɑ	uɑ	ŋuɑ³¹, mo³¹ɡuɑ³¹	Lisu, Pholaypg, TengchongLisu, YongshengLisu, CQingsheng, WeixiLisu	55	U+0075 U+0251
-ui	ui	dui⁵³, ŋgui¹³	Mongi, Mondzi, Haoni, Maang, LahuNa, Eka, Ghomozo, CLongjie, LawuXinpingShuitangJiuha, NNisu, Yangliu, SEGaoping	54	U+0075 U+0069
-tʃ	tʃ	ɑ⁵⁵tʃɿ³⁵, ɑ⁵⁵nɛ⁵⁵tʃɑ⁴¹tʃɑ⁴¹	Haoni, Lisu, SMangdi, HaniLongwei, EDiaocao, EHoushan	54	U+0074 U+0283
-tʃh	tʃh	tɔ⁵⁵tʃhɿ³³, fv̩³³tʃha³¹	Haoni, Lisu, HaniLongwei	54	U+0074 U+0283 U+0068
-tɕh	tɕh	a⁵⁵tɕhi⁵⁵, sɿ³⁵tɕha³¹tɕha³¹	NuosuHuangDai1992, HaniLongwei, Kazhuo, HaniLuchun, NNisu, Haoni, Narsu, LuowuNisu, WDutian	54	U+0074 U+0255 U+0068
-qʰ	qʰ	sɑ³³qʰu³¹, õŋ³³qʰa⁴⁴	WShanglizhuo, Pholaypg, Sani, SouthernMujiymc	54	U+0071 U+02b0
-ɨ̪	ɨ̪	fɨ̪⁵⁵, bvɨ̪³³	Kuansi, WYilu	54	U+0268 U+032a
-^q	q	qɔ⁵³, qo²	LahuNa, Pholaypg, Sani, WShanglizhuo, Maang, CEYongan, LaowuNisu, SouthernMujiymc	54	U+005e U+0071
-^tʂh	tʂh	tʂhʅ²¹, tʂhɤ²¹	NNisu, NuosuHuangDai1992, LopeAwuYYFC1983, NosuXide, Axi, Azhe	54	U+005e U+0074 U+0282 U+0068
-ʃ	ʃ	u²¹ʃu⁵⁵, ɯ⁵⁵ʃɛ⁵⁵tɛ⁵⁵ʃɛ⁵⁵	Haoni, Lisu, EHoushan, HaniLongwei, SNisu, Pholaypg	53	U+0283
-ue	ue	tɕʰue²¹, xue²¹	WShanglizhuo, EDiaocao, Limi, Xuzhang, LawuXinpingShuitangJiuha, CQingsheng, Yangliu, CWachang, WDutian, WYilu, CEYongan, CQingyun, Maang, EHoushan	53	U+0075 U+0065
-l̩	l̩	hɪ̱³³l̩²¹, tʰɯ²¹ɬl̩³³m̩³³	Sani, Yino, Senza, Lidim, Sodi, NuosuHuangDai1992	52	U+006c U+0329
-iu	iu	phiu¹³, a⁴⁴tɕiu⁴⁴	Mondzi, EDiaocao, Maang, LaowuNisu, Ghomozo, WShuizhuping, ETaoshu, CChajiang, Limi, CLolo, Xuzhang, WShanglizhuo, LopeAwuYYFC1983, WYilu, SMangdi, CLongjie, Kuansi, CQingsheng, Yangliu, WDutian	51	U+0069 U+0075
-²⁵	²⁵	pʰa̱²⁵vu²², i̱²⁵go²²	Yino, CChajiang, CQingsheng, Ghomozo	51	U+00b2 U+2075
-^ə	ə	ə²¹, ə²¹ɕi⁵⁵	CEYongan, EDiaocao, CQingyun, Limi, ETaoshu, LaowuNisu, HlephoPhowayhl, JingguLimi, LahuNa, SMangdi, LawuXinpingShuitangJiuha, Eka, SouthernMujiymc, HaniLuchun, CLeba, Phuzaypz, SEGaoping	50	U+005e U+0259
-ɛ̃	ɛ̃	hɛ̃²¹, hɛ̃⁵³	WShuizhuping, WYilu, Xuzhang, CEYongan, AzhaazaPelkey2011, Ghomozo, WShanglizhuo, LopeAwuYYFC1983, CChajiang, ETaoshu, Eka, EHoushan	48	U+025b U+0303
-v̠	v̠	tshv̠³³, pv̠³³	Haoni, CLongjie	48	U+0076 U+0320
-^qʰ	qʰ	qʰa²¹, qʰo²¹	WShanglizhuo, Sani, Pholaypg, SouthernMujiymc, LaowuNisu	48	U+005e U+0071 U+02b0
-⁵¹	⁵¹	a⁵¹ɣo̱⁵¹ni³³, tʂa⁵¹ma⁵¹tʂʰu̱²¹	SanniSanie, WShuizhuping, CEYongan, CWachang	48	U+2075 U+00b9
-χ	χ	ŋa²¹χə⁵⁵, ʦɯ⁴⁴χɔ⁴⁴	HlephoPhowayhl, SouthernMujiymc, AzhaazaPelkey2011, WShanglizhuo	46	U+03c7
-ou	ou	tou²¹, xou²¹	Yangliu, WShanglizhuo, SEGaoping, CLongjie, CQingyun, WYilu, CQingsheng, WDutian, CWachang, EDiaocao, Ghomozo, Kuansi, Eka, EHoushan	43	U+006f U+0075
-^ʈʰ	ʈʰ	ʈʰu²¹, ʈʰɤ⁵⁵	Nipu, Nersu, Alo, Nasu	43	U+005e U+0288 U+02b0
-^χ	χ	χa²⁴, χo³³	AzhaazaPelkey2011, SouthernMujiymc, HlephoPhowayhl, WShanglizhuo, Sani, Kazhuo, Haoni	43	U+005e U+03c7
-ɬʰ	ɬʰ	tɬʰə³³, tɬʰɿ²¹	HlephoPhowayhl, Phuzaypz, SouthernMujiymc	43	U+026c U+02b0
-ie	ie	pie³³, dien³³	Mondzi, Maang, LawuXinpingShuitangJiuha, Lipo, LaowuNisu, Kuansi, Ghomozo, JingguLimi	40	U+0069 U+0065
-²¹³$	²¹³	hõ̱²¹³, ʦhæ̱˞²¹³	LopeAwuYYFC1983, CLongjie	40	U+00b2 U+00b9 U+00b3 U+0024
-ʅ̠	ʅ̠	a⁵⁵tʂʰʅ̠²¹pa̠²¹, a⁵⁵tʂʰʅ̠²¹	CQingyun, CLongjie, NNisu, CWachang, CLeba, SNisu, LuowuNisu, CQingsheng, SEGaoping	40	U+0285 U+0320
-^ʒ	ʒ	ʒɤ³¹, ʒɿ³³	Haoni, Lisu, Lipo, EHoushan, LuquanLisu, HaniLongwei	40	U+005e U+0292
-^ɐ	ɐ	ɐ³³mɐ³³sɿ²¹ʝi²¹, ɐ⁴⁴ʝi³³	WYilu, CLongjie, JingguLimi, CWachang	38	U+005e U+0250
-^ɦ	ɦ	ɦa³³, ɦa̤²¹	CEYongan, CQingyun, CLongjie, ETaoshu, NuosuHuangDai1992, WShanglizhuo	38	U+005e U+0266
-^n̥	n̥	n̥a³³, n̥a²¹bɪ̱⁵⁵	NuosuHuangDai1992, Yino, Senza, Lidim, NosuXide	38	U+005e U+006e U+0325
-i̤	i̤	tsʰi⁵⁵ti̤²¹, vi̤²¹	CQingyun, CLeba, CEYongan, CChajiang, CLongjie	37	U+0069 U+0324
-ʥ	dʑ	mi⁵⁵tʰɯ⁵⁵ʥɛ²¹ma³³ʥɛ²¹tʰa⁵⁵, ʑɪ²¹ʥə²¹	Phuzaypz, SouthernMujiymc, Pholaypg, HlephoPhowayhl, LopeAwuYYFC1983, NosuXide, Mondzi	36	U+02a5
-dʒ	dʒ	ẽ⁴⁴dʒɛ⁴⁴, ʑi³³dʒɑ⁴⁴	Lisu, SMangdi, WeixiLisu, TengchongLisu, EHoushan, CLongjie, LuowuNisu	36	U+0064 U+0292
-^m̥	m̥	m̥i³³, m̥u̱³³	Yino, Senza, Lidim, NuosuHuangDai1992, NosuXide	35	U+005e U+006d U+0325
-^ɖ	ɖ	ɖe²¹, ɖu³³	Alo, Nipu, Nersu, Nasu, LuowuNisu, Azhe, Axi	35	U+005e U+0256
-^ʦh	ʦh	ʦhɿ³³, ʦhi²¹	Azhe, NosuXide, LopeAwuYYFC1983, Axi, Maang	34	U+005e U+02a6 U+0068
-^dʒ	dʒ	dʒə⁵⁵sɿ⁵⁵, dʒu²¹	Lisu, SMangdi, EHoushan, LuowuNisu	34	U+005e U+0064 U+0292
-uɛ	uɛ	xu³⁵tɕʰuɛ²¹tɕʰuɛ²¹, ɣɨ²⁴suɛ⁵⁵jo³¹	Eka, LaowuNisu, WYilu, Xuzhang, WShuizhuping, ETaoshu, CEYongan, CQingsheng, Yangliu, EDiaocao, Pholaypg	33	U+0075 U+025b
-³²³	³²³	sɿ³⁵tsɤ³²³tsɤ³²³, v³²³ko⁵³li³³	Kazhuo	33	U+00b3 U+00b2 U+00b3
-^i̠	i̠	i̠²¹, i̠²¹nə³³	AzhaazaPelkey2011, CChajiang, SEGaoping, ETaoshu, WShuizhuping, CWachang, EHoushan, Mondzi, CQingsheng, Pholaypg, CEYongan, CLeba	33	U+005e U+0069 U+0320
-^l̩	l̩	l̩³³, l̩²¹	Yino, Senza, Lidim, Sani, NuosuHuangDai1992, Sodi, Nise	33	U+005e U+006c U+0329
-ɮ	ɮ	dɮɛ³³, dɮjɛ³¹	HlephoPhowayhl, Phuzaypz, SouthernMujiymc	33	U+026e
-^o̱	o̠	o̱³³ȵɪ̱³³, o̱²¹ḻ̩³³	Yino, Senza, Lidim, Sodi, SanniSanie, Nasu	32	U+005e U+006f U+0331
-iao	iao	tiao³³, tɕʰiao⁴⁴ma²¹tɕʰiao⁴⁴	SEGaoping, Ghomozo, Yangliu, WYilu, Kazhuo, EDiaocao, CQingyun, Limi, LopeAwuYYFC1983, CLongjie, CQingsheng	32	U+0069 U+0061 U+006f
-iɔ	iɔ	miɔ³³miɔ³³, piɔ³³piɔ³³	Ghomozo, EDiaocao, Haoni, ETaoshu, LaowuNisu, HlephoPhowayhl, Mondzi, EHoushan	32	U+0069 U+0254
-ɜ	ɜ	mɜ⁴⁴tɨ̠⁴⁵lɜ⁴⁴, mɜ⁴⁴tɨ̠⁴⁵tɬɨ³³tɜ²²	AzhaazaPelkey2011	31	U+025c
-ɳ	ɳ	kʰo²¹ɳo²¹, mu³³ɳɯ³³	Alo, Nasu, Nersu, Nipu, Ghomozo, Noso	30	U+0273
-^ʨh	ʨh	ʨhɿ³³, ʨhi̠²¹	LopeAwuYYFC1983, NosuXide, Axi, Mondzi, Azhe, Maang	30	U+005e U+02a8 U+0068
-^y	y	y²¹ɕy⁵⁵ny⁵⁵, y²¹	CLongjie, CWachang, WYilu, AzhaazaPelkey2011, CChajiang, Xuzhang, ETaoshu, WShuizhuping, WDutian, Ghomozo, CQingsheng, WShanglizhuo, CEYongan, CLeba	30	U+005e U+0079
-oa	oa	khoa⁵⁵, kɛ³³xoa³⁵	Kazhuo, HlephoPhowayhl, SouthernMujiymc	29	U+006f U+0061
-ɪ̠	ɪ̠	ʐi²²ʨɪ̠³³, pʰu³³ko⁵⁵tɕɪ̠⁵⁵	Azhe, LopeAwuYYFC1983, JingguLimi, Maang	29	U+026a U+0320
-^ɨ	ɨ	ɨ⁵⁵ɲi³³, ɨ²¹	EHoushan, Limi, Xuzhang, CWachang, Yangliu, WDutian, WYilu, CChajiang, CQingsheng, CEYongan, SMangdi, Pholaypg	29	U+005e U+0268
-^a̤	a̤	a̤²¹sa̤²¹, a̤²¹su³³	CQingyun, CEYongan, CLongjie, CQingsheng, SMangdi, EHoushan	29	U+005e U+0061 U+0324
-^qh	qh	qhᴀ⁵³, qhɔ²¹	LahuNa, Maang	28	U+005e U+0071 U+0068
-ə̱	ə̠	kə̱³³li̱³³xə̱³³, tʂə̱⁵¹	SanniSanie, LopeAwuYYFC1983, Lipo	27	U+0259 U+0331
-œ	œ	zɔ²²tœ²¹, a⁴⁴tʂœ²²mɔ²¹	AzhaazaPelkey2011	27	U+0153
-ʒ	ʒ	ɑ⁴⁴ʒo³³, tʃi⁵⁵ʒi³³	Lisu, Haoni, YongshengLisu, WeixiLisu, TengchongLisu	26	U+0292
-^ʥ	dʑ	ʥi²¹, ʥi⁵⁵	Phuzaypz, Pholaypg, LopeAwuYYFC1983, NosuXide, Maang, HlephoPhowayhl, SouthernMujiymc, Mondzi, Azhe, Axi	26	U+005e U+02a5
-ḻ̩	<?>	o̱²¹ḻ̩³³, ni³³bu³³ḻ̩³³	Yino, Senza, Lidim, Sodi	25	U+1e3b U+0329
-^ɳ	ɳ	ɳe³³, ɳo²¹bo²¹	Alo, Nasu, Nipu, Nersu, Ghomozo	24	U+005e U+0273
-ᴀ̠	ɑ̠	sɿ̠³³tsᴀ̠²¹lᴀ̠²¹ɣɤ̠³³mo²¹, ɬᴀ̠²¹ni²¹	SNisu, NNisu	24	U+1d00 U+0320
-⁵²$	⁵²	tsʰiŋ̩⁵², dou⁵²	Pholaypg, SouthernMujiymc, Lipo, CQingyun, CQingsheng, EDiaocao	24	U+2075 U+00b2 U+0024
-iau	iau	pʰiau³³, tʰiau²¹	Maang, LaowuNisu, CQingyun, CEYongan, WYilu, EHoushan, CChajiang, Xuzhang, Yangliu, WShuizhuping, CWachang, WShanglizhuo, SEGaoping, WDutian	24	U+0069 U+0061 U+0075
-^ɪ̱	ɪ̠	ɪ̱⁵⁵tsi̱³³, ɪ̱³³	Senza, Sodi, Lidim, Yino	24	U+005e U+026a U+0331
-ə̃	ə̃	tʂə̃⁵⁵, tɕʰi⁵⁵ə̃²¹	WShanglizhuo, Xuzhang, CEYongan, WDutian, CLongjie, WShuizhuping, Yangliu, CWachang, Limi, SMangdi	23	U+0259 U+0303
-æ˞	æ˞	mɯ⁴⁴khæ˞⁴⁴, mæ˞³³næ˞³³	LopeAwuYYFC1983	22	U+00e6 U+02de
-ɖ	ɖ	mu³³ɖɚ̱⁵⁵, ʑi²¹ɖɤ³³	Nersu, Nipu, Nasu, Alo, Naso	22	U+0256
-gʰ	gʰ	ngʰo³³, ngʰɔ²¹	Nasu, Naso	22	U+0067 U+02b0
-^i̱	i̠	i̱⁵⁵go³³, i̱⁵⁵	Yino, Senza, Sodi, Lidim, Mongi	22	U+005e U+0069 U+0331
-dʰ	dʰ	ndʰɔ²¹, ndʰɚ²¹	Nasu, Naso, Noso	22	U+0064 U+02b0
-tʃʰ	tʃʰ	nɑ⁴⁴tʃʰẽ⁴⁴, se³¹tʃʰi⁴⁴	SMangdi, EHoushan, WeixiLisu, YongshengLisu, TengchongLisu, Limi, LawuXinpingShuitangJiuha	21	U+0074 U+0283 U+02b0
-ŋ̩̩	ŋ̩	v̩⁵⁵ŋ̩̩²¹, dʐɑ⁵⁵ŋ̩̩²¹	CChajiang, CLongjie, CQingsheng, CQingyun, CWachang, CLeba, CEYongan	21	U+014b U+0329 U+0329
-^ɣʷ	ɣʷ	ɣʷo̠̠²¹, ɣʷɔ²¹	CChajiang, CLeba, EHoushan, Xuzhang, CLongjie, EDiaocao, WDutian, CQingsheng, SEGaoping	21	U+005e U+0263 U+02b7
-^ʈ	ʈ	ʈu²¹, ʈa¹³	Nasu, Nipu, Nersu, Axi, Alo, Kazhuo, WShanglizhuo	21	U+005e U+0288
-qh	qh	ɔ²¹qhɔ³³, nᴀ³¹qhɔ⁵³	LahuNa	21	U+0071 U+0068
-ɞ	ɞ	mɞ⁴⁴kɞ³³tʉ²², mɞ⁴⁴xɞ³³	AzhaazaPelkey2011	21	U+025e
-①$	<?>	si⁵⁵①, o³³tɕɿ⁵⁵①	Haoni, NuosuHuangDai1992, Kazhuo	21	U+2460 U+0024
-bʰ	bʰ	mbʰe³³, mbʰɤ⁵⁵	Nasu, Naso	21	U+0062 U+02b0
-uã	uã	ɕi²¹ huã⁵⁵, huã⁵⁵ suã⁵⁵ zu²¹	Kuansi, Haoni, WYilu, CEYongan, Ghomozo, Xuzhang, Azhe, WShanglizhuo, WDutian	20	U+0075 U+00e3
-au	au	ʑau²¹, lau¹³di⁵⁵ɕoŋ⁵⁵	LaowuNisu, Maang	20	U+0061 U+0075
-ẽ	ẽ	hẽ⁵⁵, hẽ²⁴	WShuizhuping, WeixiLisu, LuowuNisu, TengchongLisu	20	U+1ebd
-¹¹	¹¹	pᴀ¹¹pᴀ¹¹ku³⁵ti³³ni³³, ɔ³¹xuᴀi¹¹mᴀ³³	LahuNa, LuowuNisu	19	U+00b9 U+00b9
-^õ	õ	õ³³, õ⁴⁴	WShanglizhuo, Yangliu, Xuzhang, Lisu, WDutian, Limi, LopeAwuYYFC1983, LuowuNisu, SMangdi	19	U+005e U+00f5
-m̥	m̥	si²¹m̥i³³, i³⁴m̥u³³	NuosuHuangDai1992, Senza, Lidim, Yino	18	U+006d U+0325
-iə	iə	tʰiə¹³, diə³³xɛ⁵⁵	LaowuNisu	17	U+0069 U+0259
-^kᶠʰ	kᶠʰ	kᶠʰv̩²⁴, kᶠʰv̩²¹	WShuizhuping, WYilu, WDutian, Xuzhang	17	U+005e U+006b U+1da0 U+02b0
-ɑ̱	ɑ̠	bɑ̱³³, vɑ̱³⁵	Maang, Toloza, Lavu, Talu	17	U+0251 U+0331
-ə̠	ə̠	a²⁴kʰə̠³³ʔə̠²¹, ŋ̩²¹ŋə̠²¹ʔlə̠³³	CQingyun, Eka, CLolo, CLongjie, Lipo, CEYongan	17	U+0259 U+0320
-^ɤ	ɤ	ɤ⁵⁵, ɤ³³zo³³	HaniLongwei, LopeAwuChen2010, Narsu, Neshu, Nesu, Nersu, Kazhuo, Xuzhang, Nise, HaniQiepu	17	U+005e U+0264
-ø̠	ø̠	a⁵⁵pø̠³³, ko⁵⁵pø̠³³	CQingyun, Xuzhang, CLongjie, CLeba, HaniLuchun	17	U+00f8 U+0320
-⁴³	⁴³	i̠⁴³na³³, a³³ve⁴³pa⁵³	WShanglizhuo, WShuizhuping, Yangliu	16	U+2074 U+00b3
-n̥	n̥	a³³n̥i³³, tʂhɯ³³n̥i³³	NuosuHuangDai1992, NosuXide, Senza, Lidim, Yino, Sodi	16	U+006e U+0325
-u̥	u̥	tʰu̥²¹dzɿ⁵⁵, pʰu̥²¹ʔmæ̠³³	CQingyun, CWachang, CLongjie, SEGaoping, CLeba, CQingsheng	16	U+0075 U+0325
-⁵²	⁵²	a⁵⁵tu̠⁵²lə⁵⁵, xɑ⁵²mɨ⁵⁵ɕɛ³¹ɕɛ³¹	SouthernMujiymc, EDiaocao, CEYongan, Pholaypg	15	U+2075 U+00b2
-^ø	ø	ø³¹ma³³, ø⁵⁵ɕv̩³¹	HaniLongwei, HaniLuchun, HaniQiepu, Xuzhang	15	U+005e U+00f8
-ɨ˞	ɨ˞	gɨ˞²¹nɨ˞³³ɕiaŋ³³, ja²⁴mɨ˞²¹	Xuzhang, EHoushan, WYilu, CChajiang, WShanglizhuo	15	U+0268 U+02de
-uʲ	uʲ	a²⁴tsu⁵⁵kʰuʲ⁵⁵jo³¹, ɛ³³uʲ⁵⁵jo³¹	Eka	15	U+0075 U+02b2
-uai	uai	liɛ̠²¹kuai²¹tsɿ³³, sɿ⁵⁵huai²¹	CEYongan, EHoushan, WYilu, LaowuNisu, CChajiang, Ghomozo, WShuizhuping, CLeba, Eka, CQingsheng, SMangdi, SEGaoping, WDutian	15	U+0075 U+0061 U+0069
-^ã	ã	ãŋ²¹, ã⁵¹hã⁵⁵hã⁵⁵	ETaoshu, CEYongan, HaniLongwei, WYilu, SouthernMujiymc, Ghomozo, WShuizhuping, CWachang, WShanglizhuo	14	U+005e U+00e3
-ɛi̠	ɛi̠	nɛi̠³³, a⁴⁴vɛi̠³³po³³	Xuzhang	14	U+025b U+0069 U+0320
-l̥	l̥	khɯ³¹l̥ɯ⁵⁵l̥ɯ⁵⁵ɣu³³, mɛ³¹tsɿ̠³¹ɣɔ³¹l̥i⁵⁵	Haoni	14	U+006c U+0325
-^tʃʰ	tʃʰ	tʃʰa̠²¹laŋ²¹, tʃʰo⁴²	SMangdi, CLongjie, CQingyun, YongshengLisu, EHoushan, LuquanLisu, WeixiLisu, TengchongLisu	14	U+005e U+0074 U+0283 U+02b0
-ṳ	ṳ	mṳ²¹, wṳ²¹	CQingyun, CLeba, CLongjie, CEYongan	14	U+1e73
-^iɛ̠	iɛ̠	iɛ̠²¹, iɛ̠²¹pɛ⁵⁵wu²¹	CLongjie, CEYongan, CQingsheng, CLeba	14	U+005e U+0069 U+025b U+0320
-^l̥	l̥	l̥ɤ³¹, l̥v̩³³tɕi̠³³	Haoni	13	U+005e U+006c U+0325
-^ɛ̃	ɛ̃	ɛ̃²¹, ɛ̃³³	WYilu, WShuizhuping, CQingsheng, SMangdi, CLongjie, Lisu, ETaoshu, CWachang, SEGaoping	13	U+005e U+025b U+0303
-^ɚ	ə˞	ɚ³³tʰu³³, ɚ⁵⁵lo³³	SanniSanie, Neshu	13	U+005e U+025a
-ɣ̠	ɣ̠	pjɣ̠³¹, ka̠³³tɣ̠³³	HaniLuchun	13	U+0263 U+0320
-^ə̃	ə̃	ə̃⁵⁵, ə̃³³	ETaoshu, CEYongan, CQingsheng, CLongjie, EHoushan	12	U+005e U+0259 U+0303
-iɛ˞	iɛ˞	miɛ˞⁵³, miɛ˞⁴⁵tə⁴²ɲa³³	Yangliu, Xuzhang, WShanglizhuo	12	U+0069 U+025b U+02de
-y̤	y̤	ny̤²¹, sy̤²¹	CLeba, CQingyun	12	U+0079 U+0324
-^ɸ	ɸ	ɸu²¹, ɸu²⁴	WShuizhuping, WDutian, CWachang	12	U+005e U+0278
-ɨi	ɨi	ɛ²¹vɨi⁵⁵jo³¹, li³³kʰu²¹gɨi⁵³	Eka	12	U+0268 U+0069
-^ʂʻ	ʂʼ	ʂʻɯ⁵⁵, ʂʻo⁵¹	Lipo	12	U+005e U+0282 U+02bb
-^ⁿd	ⁿd	ⁿdə⁵⁵, ⁿdə¹³ʣo²¹	HlephoPhowayhl, Pholaypg	12	U+005e U+207f U+0064
-o̠u	o̠u	to̠u⁵³to̠u⁵³, kʰo̠u⁵³kan³³da³³	CEYongan, CChajiang	12	U+006f U+0320 U+0075
-^ᵑɡ	ⁿg	ᵑɡə²¹ʨʰi³³, ᵑɡə³³kə⁵⁵a²¹	HlephoPhowayhl	12	U+005e U+1d51 U+0261
-tʂh	tʂh	tʂhᴀ³³tʂhᴀ²¹, n̥ɑ²¹tʂho⁵⁵	NNisu, NuosuHuangDai1992, Axi	11	U+0074 U+0282 U+0068
-^ai	ai	ai²¹, ai²¹tsʰɿ²¹	Yangliu, WDutian, WYilu, Xuzhang, CEYongan, SEGaoping	11	U+005e U+0061 U+0069
-ɛ˞̠	ɛ̠˞	lɛ˞̠²¹, ɣɛ˞̠³³ʂa³³	Xuzhang, EHoushan, ELolo, LuowuNisu	11	U+025b U+02de U+0320
-o̠̠̠	o̠	ko̠̠̠²¹sa²¹, a⁵⁵tsʰo̠̠̠³³	CChajiang, CLeba, SEGaoping, CQingsheng	11	U+006f U+0320 U+0320 U+0320
-yɛ	yɛ	tʰv̩²¹kʰv̩⁴⁴tɕʰyɛ³³, tsyɛ⁴⁴tsɿ⁴⁴	WYilu	11	U+0079 U+025b
-iæ	iæ	tsʻi³³tiæ⁵⁵, niæ³¹	Lipo, Pholaypg	11	U+0069 U+00e6
-^ɤ̪	ɤ̪	ɤ̪⁵⁵, ɤ̪⁵⁵bɤ̪²¹	Yangliu, EDiaocao, EHoushan, ETaoshu	11	U+005e U+0264 U+032a
-ɯi	ɯi	sɯi⁵⁵, vɯi³³	Maang	11	U+026f U+0069
-æ̱˞	æ̠˞	ʦhæ̱˞²¹³, fæ̱˞⁵⁵	LopeAwuYYFC1983	11	U+00e6 U+0331 U+02de
-^ⁿt	ⁿt	ⁿtɔ³³, ⁿtɔ³³pi³¹	Pholaypg	11	U+005e U+207f U+0074
-ɦ	ɦ	ti⁵⁵kɨ³³ɦou²¹mʉ³³, zɛ²¹mɛ²¹mi²¹ɦə²⁴	CQingyun, CEYongan, WYilu	11	U+0266
-^ṽ̩	ṽ̩	ṽ̩⁵⁵, ṽ̩⁴⁴	CWachang, CLeba, WYilu, CLongjie, WDutian	11	U+005e U+1e7d U+0329
-ʈ	ʈ	ʑi²¹ʈu³³, o³³nɔ¹³ʈu³³	Nersu, JingguLimi, Nipu, Nasu, Alo	10	U+0288
-ɨ̃	ɨ̃	mɨ̃⁵⁵, tʰa²¹ɣɨ²¹bɨ̃ŋ²¹	Xuzhang, CEYongan, WDutian, WYilu, CQingsheng	10	U+0268 U+0303
-uei	uei	pʰia³³tuei²¹, ʃuei²¹tʰɑ³³mao⁵⁵	Yangliu, LaowuNisu, Limi, CLongjie, ETaoshu, CWachang, WShuizhuping	10	U+0075 U+0065 U+0069
-³⁵³	³⁵³	sɿ³⁵³pʰɛi³³, sɿ³⁵³tʰy³³	Xuzhang, Eka	10	U+00b3 U+2075 U+00b3
-ɯ̃	ɯ̃	mɯ̃²¹ hɯ̃²¹, hɯ⁵⁵ sɯ̃²¹	Ghomozo, Kuansi	10	U+026f U+0303
-F	<?>	ne³³tʂɔ³³ȵe⁵⁵ F3 6G, tʂʅ³³ H3 F1 09	JingguLimi	10	U+0046
-ʈʰ	ʈʰ	lɐ³³ʈʰu³³, na̱²¹nʈʰɯ³³	Alo, JingguLimi, Nipu, Neshu, Nersu	10	U+0288 U+02b0
-³²$	³²	ɸy²⁴kʰou³², tɕiɛ³²	Xuzhang, Lipo, WDutian, JingguLimi	10	U+00b3 U+00b2 U+0024
-cʰ	cʰ	tcʰi⁵⁵pʰa³³, pʰa⁵⁵cʰɛ²¹	CLongjie, LuowuNisu, Ghomozo	10	U+0063 U+02b0
-②$	<?>	tɕhiɛ³¹②, ɔ³¹phɔ³¹②	NuosuHuangDai1992, Haoni	10	U+2461 U+0024
-ɑu	ɑu	mi³³khɑu³⁵, lɑu³³	Maang	9	U+0251 U+0075
-ia̠	ia̠	lia̠ŋ²¹, pia̠²¹	SEGaoping, CLolo, Ghomozo, Kuansi, CWachang, CEYongan, CQingyun, EHoushan	9	U+0069 U+0061 U+0320
-^ᵑk	ⁿk	ᵑkɨ⁵⁵tɯ̠²³, ᵑkɑ̠³¹ɬɑ³¹	Pholaypg	9	U+005e U+1d51 U+006b
-i̠ɛ	i̠ɛ	ni̠ɛ²¹, di̠ɛ³³wo̠̠²¹	NNisu, CChajiang, CQingsheng	9	U+0069 U+0320 U+025b
-^pᶠʰ	pfʰ	pᶠʰv̩²⁴, pᶠʰv̩˞³³	Ghomozo, WDutian, Xuzhang	9	U+005e U+0070 U+1da0 U+02b0
-ə̤	ə̤	kʰə̤²¹, nə̤²¹	CQingyun, CEYongan	9	U+0259 U+0324
-ɔ̃	ɔ̃	pʰɔ̃²¹hɔ̃²¹, ʔɔ̃²¹	LuowuNisu, ETaoshu, EHoushan	9	U+0254 U+0303
-^ɑ̠	ɑ̠	ɑ̠²³kʰɨ⁵⁵, ɑ̠³¹vi⁵⁵	Pholaypg, LuowuNisu	9	U+005e U+0251 U+0320
-2	<?>	pɯ⁵⁵H4 F2 2Z, o³¹ɬm̩⁵⁵ 2nd syll	HaniLongwei, JingguLimi	9	U+0032
-ɨʲ	ɨʲ	xɛ³³pʰɨʲ²⁴, a³³pʷɨʲ⁵⁵jo³¹	Eka	9	U+0268 U+02b2
-ʉ̤	ʉ̤	pʰʉ̤²¹, pʉ̤²¹	CQingyun	9	U+0289 U+0324
-^tsʻ	tsʼ	tsʻi³³tiæ⁵⁵, tsʻi³³vɯ²¹	Lipo	9	U+005e U+0074 U+0073 U+02bb
-iã	iã	tʂʅ⁵⁵tɕʰiã⁴⁴, ʔi²¹ hiã⁵⁵ tsɿ²¹	Haoni, Limi, Kuansi, ETaoshu, WShanglizhuo, SEGaoping, Maang	9	U+0069 U+00e3
-uə	uə	xɨ³³tsʰuən²¹, ʐuən²¹jao³³	Maang, Yangliu	9	U+0075 U+0259
-ũ	ũ	vũ⁵⁵du³³, la̠²¹ mũ³³	Kuansi, YongshengLisu, LuowuNisu, SMangdi, WeixiLisu, TengchongLisu	8	U+0169
-³⁵⁴$	³⁵⁴	lo³³ʐʅʔ³⁵⁴, ɣɛ³⁵⁴	WDutian	8	U+00b3 U+2075 U+2074 U+0024
-fʰ	fʰ	pfʰɨ̪⁵⁵, pfʰɨ̪²¹	Kuansi, Ghomozo	8	U+0066 U+02b0
-^ʔʐ	ʔʐ	ʔʐʅ³³, ʔʐʅ̠²¹	CQingyun	8	U+005e U+0294 U+0290
-c	c	a⁵⁵cɛ²¹, sɛ²¹cɛ²¹	CLongjie, Eka, CEYongan, Talu	8	U+0063
-^c	c	ci̠²¹to⁵⁵, ciɛ̠²¹tu⁵⁵	CChajiang, CLongjie, CLeba, CLolo, ELolo	8	U+005e U+0063
-y̥	y̥	a⁵⁵pʰy̥²¹	CLongjie, CQingsheng, CQingyun, CWachang	8	U+0079 U+0325
-³³ⁿ	³³ⁿ	xɔ³³ⁿtɛ⁵⁵, ɛ³³ⁿʣa⁵⁵	HlephoPhowayhl, Pholaypg	8	U+00b3 U+00b3 U+207f
-ʦh	ʦh	ni²¹ʦhɿ³³, ei⁴⁴ʦhei⁴⁴	LopeAwuYYFC1983, NosuXide, Axi, Azhe	8	U+02a6 U+0068
-^ɭ	ɭ	ɭɯ̱³³, ɭʉ²²	Azhe	8	U+005e U+026d
-ɛ̠˞	ɛ̠˞	nɛ̠˞²¹, kɛ̠˞²¹	Ghomozo, LuowuNisu, CEYongan	8	U+025b U+0320 U+02de
-^ḻ̩	<?>	ḻ̩⁵⁵, ḻ̩³³	Senza, Sodi, Lidim, Yino	8	U+005e U+1e3b U+0329
-ɣ̩	ɣ̩	ʐu⁵⁵ɣ̩ɨ⁵⁵, ʐu²³ɣ̩ɨ³³	CQingyun, CChajiang, CWachang, CLeba, CQingsheng, WDutian	7	U+0263 U+0329
-ᴇ	ᴇ	tᴇ⁵⁵mi⁵⁵, mᴇ³³tu̠²¹	NNisu	7	U+1d07
-ɐ̃	ɐ̃	hɐ̃⁴⁴, ɐ̃⁵⁵hɐ̃³³hɐ̃³³	WYilu	7	U+0250 U+0303
-^ei	ei	ei²¹ni³³, ei²¹tɕʰi²¹	EDiaocao, WDutian, LopeAwuYYFC1983	7	U+005e U+0065 U+0069
-^ũ	ũ	ũ⁴⁴ʐu⁴⁴sɿ²¹, ũ³³	Ghomozo, CLongjie, Xuzhang, CQingsheng, WShanglizhuo	7	U+005e U+0169
-^ɛ̠	ɛ̠	ɛ̠²¹dɑ²¹to̠³³, ɛ̠²¹	AzhaazaPelkey2011, Ghomozo, NNisu, SNisu, CQingsheng, Eka, EHoushan	7	U+005e U+025b U+0320
-tsʻ	tsʼ	pʰa³³tsʻi̱²¹, atsʻi̠⁵¹	Lipo	7	U+0074 U+0073 U+02bb
-uᴀi	uᴀi	ɔ³¹xuᴀi¹¹, ɣᴀ⁵³tshuᴀi³³	LahuNa	7	U+0075 U+1d00 U+0069
-oi	oi	bao³¹soi³¹, soi³¹sa³³	Kazhuo	7	U+006f U+0069
-uɛ˞	uɛ˞	lei⁴⁴tsɿ⁵⁵kuɛ˞⁴²kuɛ˞²¹, tɕuɛ˞²¹	Yangliu, WShanglizhuo	7	U+0075 U+025b U+02de
-ʉ̠	ʉ̠	a⁵⁵mʉ̠²¹, pʰʉ̠²¹	CQingyun, AzhaazaPelkey2011, ETaoshu	7	U+0289 U+0320
-^tɕʻ	tɕʼ	tɕʻiɛ⁵⁵, tɕʻiɛ⁴⁴	Lipo	7	U+005e U+0074 U+0255 U+02bb
-ʅ̥	ʅ̥	tʂʰʅ̥²¹, gv̩⁵⁵tʂʰʅ̥²¹	CQingyun, CLeba, CLongjie, CWachang	7	U+0285 U+0325
-H	<?>	tʂʅ³³ H3 F1 09, kʰa²¹H4 F4 AZ	JingguLimi	7	U+0048
-m̱̩	m̠̩	a²¹m̱̩⁵⁵sɪ²¹, ko̱³³lo̱³³m̱̩⁵⁵	Yino, Senza, Lidim, LopeAwuYYFC1983	7	U+006d U+0331 U+0329
-kw	kʷ	ʦi⁵⁵kwʌ³³, a⁵⁵kwʌ³³	Phuzaypz	6	U+006b U+0077
-^uɑ	uɑ	uɑ⁴⁴, uɑ³³ɲi³³	Lisu	6	U+005e U+0075 U+0251
-pʰᶠ	pʰᶠ	tɕʰi⁵⁵pʰᶠɤ̪˞̪⁵³, nø̠³³pʰᶠɤ̪⁴⁵³	Xuzhang	6	U+0070 U+02b0 U+1da0
-ə˞	ə˞	lao²¹ə˞⁴⁴, tsʰə˞²¹	LuowuNisu, Ghomozo, WYilu	6	U+0259 U+02de
-ᴀi	ɑ̟i	pᴀ³³tᴀi⁵³, nᴀi⁵³	LahuNa	6	U+1d00 U+0069
-ә	<?>	la³³tsa⁵⁵ʐә³³pʰo³³, lә⁴¹	Lipo	6	U+04d9
-^ɑ̃	ɑ̃	ɑ̃²¹, ɑ̃³³	CWachang, CQingsheng, WShanglizhuo, CLeba	6	U+005e U+0251 U+0303
-'i	i	ts'i³³ɲiɛ²¹, tʂʻa⁵⁵b'i⁵⁵niɛ³¹	Lipo	6	U+0027 U+0069
-⁵	⁵	xɔ⁵sɔ³¹, sɿʔ⁵ne²⁴kʰoʔ⁴²	Ghomozo, Haoni	6	U+2075
-ɨ̥	ɨ̥	ɑ⁵⁵kʰɨ̥²¹, a⁵⁵kʰɨ̥²¹	CLongjie, CQingyun, CQingsheng, CWachang	6	U+0268 U+0325
-ɛ̃˞	ɛ̃˞	tsʰɿ²¹ɛ̃˞²¹, hɛ̃˞³³dzɛi²¹	Xuzhang, WDutian, WShanglizhuo, WShuizhuping	6	U+025b U+0303 U+02de
-^ɛ˞	ɛ˞	ɛ˞³³mɛ˞²¹, ɛ˞²¹pʰɛi³³	Yangliu, Xuzhang	6	U+005e U+025b U+02de
-ɑ̃	ɑ̃	ĩ⁵⁵ɑ̃²¹, hɑ̃⁵⁵	HaniLongwei, CWachang, CEYongan, CQingsheng	6	U+0251 U+0303
-ɯ˞̪	ɯ˞̪	tɯ˞̪²¹, zɿ²¹ʂɛ̃²¹fɯ˞̪²¹	EHoushan	6	U+026f U+02de U+032a
-³²	³²	ɨ⁴⁵³tɨ³²dɛ˞²¹, na³²wu²¹	WShuizhuping, WYilu, HaniLongwei, Xuzhang, Haoni	6	U+00b3 U+00b2
-^ⁿʣ	ⁿdz	ⁿʣɯ³³ma⁵⁵, ⁿʣɯ³³ma⁵⁵zɿ²¹va³³	HlephoPhowayhl	6	U+005e U+207f U+02a3
-ŋw	ŋw	mi³³ʥɔ³¹a⁵⁵ŋwa³³, kɛ⁵⁵ŋwi⁵⁵lɔ²⁴	Phuzaypz, Ghomozo	6	U+014b U+0077
-^cʰ	cʰ	cʰa̠³³, cʰa̠²¹	CLongjie	6	U+005e U+0063 U+02b0
-ɔ̪	ɔ̪	mi⁵⁵kʰɔ̪³¹, kʰɔ̪²¹	Yangliu, EDiaocao	5	U+0254 U+032a
-e̱i	e̠i	ke̱i⁵⁵, qe̱i⁵⁵	Maang, LopeAwuYYFC1983	5	U+0065 U+0331 U+0069
-ua̠	ua̠	tɕi²¹mʷui²⁴lua̠⁴⁴, ʔmua̠⁵⁵	Kuansi, Ghomozo, EHoushan	5	U+0075 U+0061 U+0320
-ḁ	<?>	ʐo̠²¹pʰḁ²¹, ɣɨ⁵⁵kʰḁ²¹	CQingyun, CWachang, CLongjie	5	U+1e01
-^tʂʻ	ʈʂʼ	tʂʻə⁵³pə⁵³, tʂʻa⁵⁵b'i⁵⁵niɛ³¹	Lipo	5	U+005e U+0074 U+0282 U+02bb
-^ŋ̩̩	ŋ̩	ŋ̩̩²¹kʰɨ²¹, ŋ̩̩³³bi²⁴	Eka, EHoushan, ETaoshu	5	U+005e U+014b U+0329 U+0329
-ə$	ə	a⁵⁵kʰə, m̩²¹pə	WShuizhuping	5	U+0259 U+0024
-aʌ	aʌ	ɕwɛi³¹tʰa¹³maʌ³³, ljaʌ¹³	Phuzaypz	5	U+0061 U+028c
-^e̱	e̠	e̱²¹, e̱⁵⁵	Toloza, Naso, Nasu, Alo	5	U+005e U+0065 U+0331
-ll$	ll	o³¹ɬm̩⁵⁵ 2nd syll, la³¹xo⁵⁵ 2nd syll	HaniLongwei	5	U+006c U+006c U+0024
-^o̠	o̠	o̠²¹ɕi⁵⁵, o̠³³pɯ̠³³	CChajiang, CLongjie, CEYongan, JingguLimi	5	U+005e U+006f U+0320
-^kʷ	kʷ	kʷᴀ³³, kʷo̠²¹	WYilu, SNisu, Limi, CLeba	5	U+005e U+006b U+02b7
-ø̤	ø̤	sø̤²¹ʔø̤²¹, fv̩³³kø̤²¹	CQingyun	5	U+00f8 U+0324
-²¹ⁿ	²¹ⁿ	sɿ²¹ⁿʣɿ³³kɔ⁵⁵lɔ⁵⁵, ha²¹ⁿʣa³³	HlephoPhowayhl	5	U+00b2 U+00b9 U+207f
-²¹³	²¹³	ɕɿ̠²¹³xu̱²¹³, hɛ̱̃²¹³gu̱²¹	LopeAwuYYFC1983	5	U+00b2 U+00b9 U+00b3
-ei̠	ei̠	ʣei̠²¹bei̠²¹, nu⁴⁴nei̠²¹	LopeAwuYYFC1983	5	U+0065 U+0069 U+0320
-ɨ̪̠	ɨ̪̠	ʔmɨ̪̠⁵⁵, ʔɨ̪̠²¹	Kuansi	5	U+0268 U+032a U+0320
-v̩̠	v̠̩	gv̩̠²¹, nv̩̠²¹	CWachang, CChajiang, CLeba, CQingsheng	5	U+0076 U+0329 U+0320
-ie̱	ie̠	ȵie̱³³ta³⁵, lie̱⁴⁴	Maang	5	U+0069 U+0065 U+0331
-uɛi	uɛi	xuɛi²¹, xuɛi²¹tə³³	Xuzhang, ETaoshu, Kuansi	5	U+0075 U+025b U+0069
-uo	uo	kuo³³, kuo⁵³	Lipo, Yangliu, CWachang, CQingyun, WDutian	5	U+0075 U+006f
-③$	<?>	vɿ⁵⁵mo²¹③, a⁵⁵næ³³③	NuosuHuangDai1992, Haoni	5	U+2462 U+0024
-ya	ya	ɲya⁵⁵ zu²¹, dya³³	Kuansi	5	U+0079 U+0061
-^ŋw	ŋw	ŋwɛ²¹, ŋwɛ̠˞²¹	Ghomozo	5	U+005e U+014b U+0077
-，	<?>	tɕo³⁴， ja³⁴, ʑo⁵⁵，li⁵⁵	HaniQiepu, NosuXide, HaniLongwei	5	U+ff0c
-^ç	ç	çu³³, çi̠²¹	Kuansi	5	U+005e U+00e7
-zʰ	zʰ	ndzʰɔ³³, ndzʰu̱²¹ma̱⁵⁵	Nasu, Naso	5	U+007a U+02b0
-4	<?>	kʰa²¹H4 F4 AZ, tʂʅ³³H4 F9 UB	JingguLimi	5	U+0034
-^ɨ̃	ɨ̃	ɨ̃²⁴, ɨ̃³³	WDutian, WYilu, Xuzhang, WShuizhuping	5	U+005e U+0268 U+0303
-^ɐ̃	ɐ̃	ɐ̃⁵⁵ɕi³³tɕʰø⁴⁴, ɐ̃⁵⁵hɐ̃⁵⁵	WYilu	4	U+005e U+0250 U+0303
-^m̠̩	m̠̩	m̠̩¹³ȵɛ³³kʰa³³, m̠̩¹³ʥi³³	SouthernMujiymc	4	U+005e U+006d U+0320 U+0329
-^a̠	a̠	a̠³¹, a̠²¹	AzhaazaPelkey2011, CQingsheng, HaniLuchun, CEYongan	4	U+005e U+0061 U+0320
-³¹ⁿ	³¹ⁿ	vɑ³³mɔ³³ʂɨ⁵⁵ʑi³¹ⁿdɔ³³, ɬæ̠³¹ⁿti³³	Pholaypg	4	U+00b3 U+00b9 U+207f
-v˞̩	v˞̩	ji³⁵pʰᶠv˞̩⁵⁵, pʰᶠv˞̩⁴⁵³	Xuzhang	4	U+0076 U+02de U+0329
-æ̠̃	æ̠̃	hæ̠̃²¹ko̠³³, nã²¹hæ̠̃²¹	CEYongan	4	U+00e6 U+0320 U+0303
-^æ	æ	æ²¹pæ⁵⁵nɛ³³, æ⁵⁵se⁵⁵	Limi, Lipo, CEYongan	4	U+005e U+00e6
-3	<?>	ne³³tʂɔ³³ȵe⁵⁵ F3 6G, tʂʅ³³ H3 F1 09	JingguLimi	4	U+0033
-i̥	i̥	pʰi̥²¹, a⁵⁵n̩²¹tʰi̥²¹si⁵⁵i²¹sy⁵⁵ny⁵⁵si⁵⁵	CQingyun, CWachang, CLongjie	4	U+0069 U+0325
-ɛ$	ɛ	a⁴⁴ʝɛ, wu⁴⁴bɛ	WYilu, WShuizhuping, WShanglizhuo, JingguLimi	4	U+025b U+0024
-^ɚ̱	ə̠˞	ɚ̱²¹bɪ³³, ɚ̱³³	Neshu, SanniSanie	4	U+005e U+025a U+0331
-ɸ	ɸ	ʦʰɿ³³pʰɸɯ²¹, hɛ²¹pʰɸɯ³³	HlephoPhowayhl, WShuizhuping	4	U+0278
-ɛo	ɛo	koŋ³¹ta³³lɛo³¹, ʔnɛo⁵³	Eka, CQingyun	4	U+025b U+006f
-^ɤ̱	ɤ̠	ɤ̱³³, ɤ̱⁵⁵lu³³	Nesu, Neshu, Narsu	4	U+005e U+0264 U+0331
-pᶠ	pf	tsao⁵⁵pᶠv̩˞⁵⁵, ɛ²¹pᶠv̩˞⁵⁵	Ghomozo	4	U+0070 U+1da0
-ʌ̠	ʌ̠	ʦʌ̠⁴⁵ʑi²¹, xʌ̠⁴⁵	AzhaazaPelkey2011	4	U+028c U+0320
-^v̠	v̠	v̠³³, v̠³¹ɔ³³	Haoni	4	U+005e U+0076 U+0320
-ʈh	ʈh	i³³ʈho³³, a³³ʈho³³	Axi, LuowuNisu	4	U+0288 U+0068
-ɨ̤	ɨ̤	gɨ̤²¹, ni̤²¹gɨ̤²¹	CLeba, CQingyun	4	U+0268 U+0324
-³⁵³$	³⁵³	sɛŋ³⁵³, ma²¹dza³⁵³	Eka, Xuzhang, CEYongan	4	U+00b3 U+2075 U+00b3 U+0024
-y̱	y̠	ɑ⁵⁵pʰy̱²¹, dʑy̱³³	Lavu, Sodi	4	U+0079 U+0331
-³⁵²	³⁵²	tɕʰi³⁵²ɲa²¹pʰᶠɤ̪⁵³, tɕʰi³⁵²sɛ²¹	Xuzhang	4	U+00b3 U+2075 U+00b2
-ɖʰ	ɖʰ	nɖʰo̱²¹, nɖʰɔ²¹	Nasu	4	U+0256 U+02b0
-b$	b	pɯ³⁵ *m-b, nu³b	HaniLongwei, LuowuNisu	4	U+0062 U+0024
-uai̠	uai̠	li̠²¹kuai̠²¹tsɿ̠³³, læ̠²¹kuai̠²¹tsɿ̠³³	CLongjie, CQingsheng, CQingyun, CWachang	4	U+0075 U+0061 U+0069 U+0320
-²⁵³	²⁵³	liŋ²⁵³ma³³ko̠³³, liŋ²⁵³kʰɨ²¹sɿ³³	CEYongan	4	U+00b2 U+2075 U+00b3
-^ʁ	ʁ	ʁʌ³³, ʁa²¹	SouthernMujiymc, AzhaazaPelkey2011	4	U+005e U+0281
-dʑʰ	dʑʰ	ndʑʰi²¹, ndʑʰa̱²¹	Naso, Nasu	4	U+0064 U+0291 U+02b0
-i̱̯	i̯̠	si̱̯²², tsʰi̱̯²²	Yino	4	U+0069 U+0331 U+032f
-ɿ̤	ɿ̤	tsʰɿ̤²¹	CChajiang, CLeba, CEYongan, CQingyun	4	U+027f U+0324
--	<?>	pɯ³⁵ *m-b, to³⁵ *m-b	HaniLongwei, NNisu	4	U+002d
-^ɤɯ	ɤɯ	ɤɯ³³, ɤɯ²¹	NuosuHuangDai1992	4	U+005e U+0264 U+026f
-ɣʷ	ɣʷ	zo³³ɣʷɔ³³, bi̠³³ɣʷo̠²¹	LuowuNisu, CChajiang	4	U+0263 U+02b7
-^ae	ae	ae²¹mae²¹nɤ⁴⁴, ae²¹ŋae³³	Sani	4	U+005e U+0061 U+0065
-⁵⁵ⁿ	⁵⁵ⁿ	ɬɛ³³ʦɿ⁵⁵za⁵⁵ⁿʥɛ³³, u⁵⁵ⁿʦɑ³¹	HlephoPhowayhl, Pholaypg	4	U+2075 U+2075 U+207f
-^ɿ	ɿ	ɿ⁵⁵, ɿ²¹ ɡa̠²¹	Kuansi	4	U+005e U+027f
-ai̠	ai̠	kai̠²¹, zai̠²¹	CQingyun, CWachang, SEGaoping	4	U+0061 U+0069 U+0320
-ɛ˞̃	ɛ̃˞	hɛ˞̃²¹, hɛ˞̃⁴⁵tsʰɿ⁵³	CEYongan, Xuzhang, LuowuNisu	4	U+025b U+02de U+0303
-ɖʐ	ɖʐ	a⁵⁵ɖʐv̩³³, ɑ⁵⁵ɖʐu³³	CLongjie, CLeba, CQingyun, CWachang	4	U+0256 U+0290
-iɛ̱	iɛ̠	biɛ̱³³, liɛ̱³¹	Lipo	4	U+0069 U+025b U+0331
-^kw	kʷ	kwɛi¹³, kwɛ²¹	Phuzaypz, Ghomozo	4	U+005e U+006b U+0077
-^pᶠ	pf	pᶠv̩³³xɯ⁵⁵, pᶠv̩²⁴	Ghomozo	4	U+005e U+0070 U+1da0
-	<?>	vi⁵⁵, am⁵⁵tʂa³¹	Lipo	3	U+f32b
-øi	øi	xøi¹³, mo²¹mia⁵⁵ʨøi⁵³	Mondzi	3	U+00f8 U+0069
-^ẽ	ẽ	ẽ⁴⁴dʒɛ⁴⁴, ẽ⁴⁴	WeixiLisu, Lisu	3	U+005e U+1ebd
-ɔ̱	ɔ̠	vɣɔ̱³⁵, ŋɔ̱²¹	Naso, Alo, Maang	3	U+0254 U+0331
-^ʈh	ʈh	ʈhi²¹, ʈho³³	Axi	3	U+005e U+0288 U+0068
-v˞	v˞	zɿ³³mv˞³³, kʰv˞²¹mɤ̪²¹	Ghomozo, Xuzhang	3	U+0076 U+02de
-^iɛ̠̃	iɛ̠̃	iɛ̠̃³³, iɛ̠̃³³ma³³	CLeba	3	U+005e U+0069 U+025b U+0320 U+0303
-^̹i	̹i	̹i²¹nɛ³³	CEYongan	3	U+005e U+0339 U+0069
-ʅ̃	ʅ̃	ʐʅ̃n⁴⁵³, ʂʅ̃³³na³³	WYilu, WShuizhuping	3	U+0285 U+0303
-ɿ̃	ɿ̃	ʐɿ̃⁵⁵m̩²¹kv̩³³, ʐɿ̃n⁴⁵³kv̩⁴⁵³	WYilu, Ghomozo, WShuizhuping	3	U+027f U+0303
-⁴³$	⁴³	kɛ˞³³no²¹tʰu³³tʰu⁴³, ɛ²¹goŋ⁴³	WShuizhuping, SEGaoping, Yangliu	3	U+2074 U+00b3 U+0024
-6	<?>	ne³³tʂɔ³³ȵe⁵⁵ F3 6G, kɔ³³kʰu³³ H3 F6 IK	JingguLimi	3	U+0036
-dʐʰ	ɖʐʰ	ndʐʰɤ̱²¹, ndʐʰo̱³³mo³³	Nasu	3	U+0064 U+0290 U+02b0
-^ȵʲ	ȵʲ	ȵʲo³³, ȵʲo³³nɤ⁵⁵mo²¹	SNisu	3	U+005e U+0235 U+02b2
-ã̠	ã̠	tsʰɿ²¹ wã̠²¹, a³³hã̠²¹	Kuansi, LuowuNisu	3	U+00e3 U+0320
-ɤ̪˞̪	ɤ̪˞̪	a³⁵mɤ̪˞̪²¹, a³⁵mɤ̪˞⁴¹pʰᶠɤ̪˞̪⁵⁵mu³³dzɿ²⁴	Xuzhang	3	U+0264 U+032a U+02de U+032a
-õ̱	õ̠	hõ̱²¹³	LopeAwuYYFC1983	3	U+00f5 U+0331
-^ɑ̤	ɑ̤	ɑ̤²¹jy⁵⁵, ɑ̤²¹ni⁵⁵	CLeba, CChajiang	3	U+005e U+0251 U+0324
-æ̃	æ̃	hæ̃³³tsu²¹pa²¹, a⁵⁵hæ̃³³	CEYongan	3	U+00e6 U+0303
-^ɔ̠	ɔ̠	ɔ̠³¹mɔ̠²³, ɔ̠³¹nɑ³³mɔ̠²³	Pholaypg, CQingsheng	3	U+005e U+0254 U+0320
-oʲ	oʲ	li³³poʲ⁴²jo³¹, o²⁴pʷoʲ⁵⁵jo³¹	Eka	3	U+006f U+02b2
-ɑ̤	ɑ̤	vɑ̤²¹my̠²¹, ã³³sɛ⁵⁵hɑ̤²¹	CLeba, CEYongan	3	U+0251 U+0324
-u$	u	mu, tɕʰu	LaowuNisu, WShuizhuping, WDutian	3	U+0075 U+0024
-ʨh	ʨh	o³³ʨhi³³, si⁵³ʨhi¹³	NosuXide, Mondzi	3	U+02a8 U+0068
-^ᵐb	ⁿb	ᵐbɛ²¹, ᵐbɿ⁵⁵lo³³	HlephoPhowayhl	3	U+005e U+1d50 U+0062
-v̩̤	v̩ʱ	liɛ̠²¹kʰv̩̤²¹sɛ̤²¹, kʰv̩̤²¹	CLeba	3	U+0076 U+0329 U+0324
-³	³	sa³n̩⁵³mi⁴⁴to²¹n̩²¹, nu³b	LuowuNisu, Mongi	3	U+00b3
-uɪ	uɪ	ŋuɪ³⁵, ŋuɪ²¹so³³	Maang	3	U+0075 U+026a
-æ̠˞	æ̠˞	a²¹sæ̠˞²¹³, sæ̠˞²¹³	LopeAwuYYFC1983	3	U+00e6 U+0320 U+02de
-没	<?>	pa²²li³³sɤ²²ma³³没录, a⁴⁴wo⁵³wo²¹za⁴⁴没录	HaniQiepu	3	U+6ca1
-录$	<?>	pa²²li³³sɤ²²ma³³没录, a⁴⁴wo⁵³wo²¹za⁴⁴没录	HaniQiepu	3	U+5f55 U+0024
-⁴⁵⁴	⁴⁵⁴	lɛ⁴⁵⁴ʔĩ⁴⁴ma³³, lɛ⁴⁵⁴ʔĩ⁴⁴	WYilu	3	U+2074 U+2075 U+2074
-^̃i	̃i	̃i²¹mo²¹, ̃i⁴²mo⁴²	Yino, Senza, Lidim	3	U+005e U+0303 U+0069
-^v̩˞	v̩˞	v̩˞⁵⁵kʰɔ³³, v̩˞²⁴kʰa²¹	Ghomozo	3	U+005e U+0076 U+0329 U+02de
-*	<?>	pɯ³⁵ *m-b, tso³⁵ *m-b	HaniLongwei	3	U+002a
-³³ᵑ	³³ᵑ	ʑɛ³³ᵑkɨ̠²³, sɛ³³ᵑɡə²¹	Pholaypg, HlephoPhowayhl	3	U+00b3 U+00b3 U+1d51
-^ao	ao	ao³¹, ao⁵³	Eka, Yangliu	3	U+005e U+0061 U+006f
-男	<?>	u³¹tho³¹男用，u³¹xu³¹女用, na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	HaniLuchun, HaniLongwei, JingguLimi	3	U+7537
-^ɛi	ɛi	ɛi³³, ɛi²¹tsʰɿ²¹pɛ˞³³	Xuzhang	3	U+005e U+025b U+0069
-^ɨ̠	ɨ̠	ɨ̠²¹tsɿ³³, ɨ̠²¹tɕy³³	AzhaazaPelkey2011, SEGaoping, EHoushan	3	U+005e U+0268 U+0320
-ɛʲ	ɛʲ	lɛʲ³³, ɛ²¹wɛʲ²⁴	Eka	3	U+025b U+02b2
-ɨ˞̠	ɨ̠˞	ɣɨ˞̠²¹, lɨ˞̠³³	CChajiang, CQingsheng	3	U+0268 U+02de U+0320
-uʲo	uʲo	o³³muʲo⁵³, dzuʲo⁵³	Eka	3	U+0075 U+02b2 U+006f
-iɑu	iɑu	tʰiɑu³³, ʥiɑu³³	Ghomozo, Kuansi, Maang	3	U+0069 U+0251 U+0075
-'i̠	i̠	p'i̠²²xa²¹, xo⁵⁵ts'i̠³¹	Lipo	3	U+0027 U+0069 U+0320
-io̤	io̤	ɲio̤²¹, nio̤²¹	CLeba, CEYongan, CQingyun	3	U+0069 U+006f U+0324
-^u̠	u̠	u̠³¹, u̠³³	HaniLuchun, Pholaypg	3	U+005e U+0075 U+0320
-i̯	i̯	di̯²², tsi̯²²	Yino	3	U+0069 U+032f
-^ou	ou	ou²¹pɨ³³, ou²¹bɑ²¹ti²¹	Xuzhang, CQingsheng, SEGaoping	3	U+005e U+006f U+0075
-oɤ	oɤ	khoɤ³³tsɿ²⁴, khoɤ³¹	Kazhuo	3	U+006f U+0264
-^̹iɛ̠	̹iɛ̠	̹iɛ̠²¹, ̹iɛ̠²¹la²⁴	CEYongan	3	U+005e U+0339 U+0069 U+025b U+0320
-^ⁿʥ	ⁿdʑ	ⁿʥɛ²¹, ⁿʥɛ̠³¹	HlephoPhowayhl, Pholaypg	3	U+005e U+207f U+02a5
-ṽ	ṽ	mṽ³³hṽ³³, ɑ²¹mɑ²¹sɿ²¹ṽ⁵⁵	LuowuNisu, CLeba	3	U+1e7d
-^ɨ̪	ɨ̪	ɨ̪⁵⁵ ɡu³³ n̩²¹ di²¹, ɨ̪⁵⁵	Kuansi	3	U+005e U+0268 U+032a
-^ỹ	ỹ	ỹ²¹	WYilu, Xuzhang, ETaoshu	3	U+005e U+1ef9
-iaõ	iaõ	a³³miaõ³³, ɕiŋ⁴⁴tɕiaõ⁴⁴	SEGaoping	2	U+0069 U+0061 U+00f5
-ŋ̪	ŋ̪	a⁵⁵ŋ̪²¹ɣ̩ɨ⁵⁵ma³³, ɑ⁵⁵ŋ̪²¹ɣɨ⁵⁵	CChajiang, CQingyun	2	U+014b U+032a
-a̱i	a̠i	la̱i⁵⁵, sa̱i³⁵	Maang	2	U+0061 U+0331 U+0069
-ɑ̥	ɑ̥	ɣɨ⁵⁵kʰɑ̥²¹	CWachang, CQingsheng	2	U+0251 U+0325
-ʅ$	ʅ	qʰɤ̪⁵⁵dʐʅ, dʐʅ	WShuizhuping, WShanglizhuo	2	U+0285 U+0024
-^pʰᶠ	pʰᶠ	pʰᶠɤ̪˞³⁴, pʰᶠv˞̩⁴⁵³	Xuzhang	2	U+005e U+0070 U+02b0 U+1da0
-kᶠʰ	kᶠʰ	n̩²¹kᶠʰɨ²¹, ŋ̩²¹kᶠʰə²¹	CChajiang, WShuizhuping	2	U+006b U+1da0 U+02b0
-ɕʰ	ɕʰ	fv̩²²nɯ³³mi⁴⁴tʰɛ⁴²ɕʰi⁴⁴xu³¹, bu³³ɕʰe³³	Nipu, HaniQiepu	2	U+0255 U+02b0
-³$	³	sɔ⁵⁵phɛ³¹xv̠³, be⁵⁵ne³	Nasu, Haoni	2	U+00b3 U+0024
-G$	<?>	ne³³tʂɔ³³ȵe⁵⁵ F3 6G	JingguLimi	2	U+0047 U+0024
-ɑo̠	ɑo̠	hɑo̠²¹dɑ⁵⁵dzɿ³³, dzɑ⁵⁵ʑi̠³³dzɑo̠³³	CChajiang	2	U+0251 U+006f U+0320
-ʂʻ	ʂʼ	tɕʻi⁵⁵ʂʻɯ̠³¹, a⁵⁵ʂʻɤ³³nɛ²¹	Lipo	2	U+0282 U+02bb
-ɨ$	ɨ	vɨ, ŋɨ	WYilu, WDutian	2	U+0268 U+0024
-^æ̠	æ̠	æ̠³¹nɔ⁵⁵, æ̠³³ȵɯ³¹	Pholaypg	2	U+005e U+00e6 U+0320
-a̠̠	a̠	la²¹pa̠̠²¹, na̠̠²¹ka⁴⁴tɕi³³	SEGaoping, CEYongan	2	U+0061 U+0320 U+0320
-tʂʻ	ʈʂʼ	vu⁵⁵tʂʻə³¹, tʻa³³kɯ³³tʂʻɯ⁵¹	Lipo	2	U+0074 U+0282 U+02bb
-ɭ	ɭ	tʂɛ̱²¹ɭu̱²¹, ɬɛ³³ɭo²²	Azhe	2	U+026d
-a̰	a̰	a⁵⁵jɛ̠³³tɕʰi⁵⁵pa̰²¹, ka̰ʔ²¹	CLeba, SMangdi	2	U+0061 U+0330
-ɡw	gw	ʑɛ³³ɡwa²¹, ʁa¹³ɡwa¹³	SouthernMujiymc	2	U+0261 U+0077
-^aɔ̃	aɔ̃	aɔ̃²¹, aɔ̃⁵⁵	EHoushan	2	U+005e U+0061 U+0254 U+0303
-^ɒ	ɒ	ɒ²¹ʑi²¹, ɒ²¹	Alo	2	U+005e U+0252
-aʲ	aʲ	a²⁴tʰo³³pʰa̠³³pʰaʲ⁵⁵jo³¹, kʰaʲ⁵⁵ja²¹	LawuXinpingShuitangJiuha, Eka	2	U+0061 U+02b2
-uə̃	uə̃	thuə̃³³	LopeAwuYYFC1983	2	U+0075 U+0259 U+0303
-a˞	a˞	a³³na˞³³bɛ³³, dʐa˞²⁴mv̩²¹	WShuizhuping, WDutian	2	U+0061 U+02de
-pʷ	pʷ	a³³pʷɨʲ⁵⁵jo³¹, o²⁴pʷoʲ⁵⁵jo³¹	Eka	2	U+0070 U+02b7
-^ɔ̃	ɔ̃	ɔ̃⁵⁵, ɔ̃²¹	Ghomozo, ETaoshu	2	U+005e U+0254 U+0303
-əa	əa	ŋə³³nəa²¹, bo³³nəa⁵⁵	HlephoPhowayhl	2	U+0259 U+0061
-iɑ	iɑ	lo²¹viɑ⁴⁴, tɕʰiɑŋ³³lu²¹	CChajiang, Mondzi	2	U+0069 U+0251
-i$	i	xa³¹da⁵⁵ 2nd syllable sandhi, mo²⁴ɲi	HaniLongwei, WDutian	2	U+0069 U+0024
-³⁵²$	³⁵²	a³⁵mv̩²¹hĩ³⁵², kʰa²¹sy³⁵²	Xuzhang	2	U+00b3 U+2075 U+00b2 U+0024
-ɞ̠	ɞ̠	ʂɞ̠⁴⁵, lɞ̠⁴⁵	AzhaazaPelkey2011	2	U+025e U+0320
-^ĩ̠	ĩ̠	ĩ̠³³ma³³ɣɨ²¹, ĩ̠³³biɛ̠³³	CLeba, CLongjie	2	U+005e U+0129 U+0320
-^ɛ˞̃	ɛ̃˞	ɛ˞̃²⁴n̩²¹te³³, ɛ˞̃³³pʰi²¹ʂɛ²¹	WShanglizhuo, EHoushan	2	U+005e U+025b U+02de U+0303
-iõ	iõ	miõ³³, ʔniõ³³	Kuansi, Maang	2	U+0069 U+00f5
-³¹ᵑ	³¹ᵑ	nɔ³¹ᵑkɨ̠²³, si̠³¹ᵑki̠²³tʂʰɑ̠³³	Pholaypg	2	U+00b3 U+00b9 U+1d51
-øɛ	øɛ	tʰøɛ⁵³, kʷøɛ²¹	WYilu	2	U+00f8 U+025b
-V$	<?>	me³³tʊ²¹ F10 WV, n̩²¹tsa³³H4 F8 PV	JingguLimi	2	U+0056 U+0024
-kʰw	kʰw	ta²¹kʰwa³³, mi̠²¹tɯ⁵⁵kʰwei⁵⁵	Ghomozo, AzhaazaPelkey2011	2	U+006b U+02b0 U+0077
-ɤɑ	ɤɑ	lo⁵⁵ɤɑ²¹nɔ³³, mɑ³³ɤɑ³³	NuosuHuangDai1992	2	U+0264 U+0251
-v̥	v̥	fv̥³¹, pha³¹tv̥⁵⁵	HaniLongwei	2	U+0076 U+0325
-ao̠	ao̠	hao̠²¹da⁵⁵kɨ³³, tɕao̠²¹sa³³	CEYongan, CQingyun	2	U+0061 U+006f U+0320
-io̠	io̠	nio̠²¹, nio̠⁵³	CChajiang	2	U+0069 U+006f U+0320
-ɛ̠̃	ɛ̠̃	hɛ̠̃²¹, hɛ̠̃²¹³m̩²¹	CEYongan, LopeAwuYYFC1983	2	U+025b U+0320 U+0303
-ɤ̪˞̩	ɤ̪˞̩	fɤ̪˞̩³³, tɤ̪˞̩²¹bɛ³³	Xuzhang	2	U+0264 U+032a U+02de U+0329
-^gw	gw	gwɛ˞²¹nɔ̠²¹pu⁵⁵tɕi⁵⁵, gwɛ˞²¹pu²¹mo³³tɕi⁵⁵	Ghomozo	2	U+005e U+0067 U+0077
-性	<?>	na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	JingguLimi	2	U+6027
-称	<?>	na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	JingguLimi	2	U+79f0
-呼	<?>	na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	JingguLimi	2	U+547c
-弟弟	<?>	na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	JingguLimi	2	U+5f1f U+5f1f
-女	<?>	u³¹tho³¹男用，u³¹xu³¹女用, na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	HaniLongwei, JingguLimi	2	U+5973
-③	<?>	mi̠³³tɕi⁵⁵③thu³¹tɕi⁵⁵④, ɔ³¹ȵi⁵⁵③ȵi⁵⁵nu⁵⁵mɔ³³	Haoni	2	U+2462
-：	<?>	a³³ɣo³³ 婶婶：a³³ʐɔ³³, ᴀ³³ɣɯ³³ 舅母：a³³ȵi³³	JingguLimi	2	U+ff1a
-ɛ̱̃	ɛ̠̃	hɛ̱̃²¹³gu̱²¹, hɛ̱̃²¹³	LopeAwuYYFC1983	2	U+025b U+0331 U+0303
-eĩ	eĩ	xeĩ⁵⁵ŋ̩²¹tʰei²¹, weĩ⁴⁴	WShuizhuping, EDiaocao	2	U+0065 U+0129
-^sw	sw	swɛ̠⁴², swɛ⁵⁵kɛ⁵⁵	Ghomozo	2	U+005e U+0073 U+0077
-^lw	lw	lwɛ̠⁴²tɕi⁵⁵, lwi⁵⁵tsa⁵⁵	Ghomozo	2	U+005e U+006c U+0077
-用$	<?>	u³¹tho³¹男用，u³¹xu³¹女用, u³¹to̠³³男用	HaniLuchun, HaniLongwei	2	U+7528 U+0024
-^ə̱	ə̠	ə̱²¹tʰɯ⁵¹, ə̱⁵⁵mə̱⁵⁵	SanniSanie	2	U+005e U+0259 U+0331
-ɑi	ɑi	pʰɑi⁵⁵lu⁵⁵	CQingsheng	2	U+0251 U+0069
-uɛʲ	uɛʲ	tsu²¹kʰuɛʲ²⁴, lu̠³³kuɛʲ²⁴	Eka	2	U+0075 U+025b U+02b2
-⁵⁵ᵑ	⁵⁵ᵑ	i⁵⁵ᵑɡɔ⁵⁵, hɔ⁵⁵ᵑkiɛ³¹	HlephoPhowayhl, Pholaypg	2	U+2075 U+2075 U+1d51
-ɤ̪̠̪	ɤ̪̠̪	gɨ²⁴fɤ̪̠̪²¹, gə²⁴fɤ̪̠̪⁴²	ETaoshu, EDiaocao	2	U+0264 U+032a U+0320 U+032a
-u̞	u̞	ʨʰɛ²¹nu̞²¹, kʰɯ²¹nu̞²¹	SouthernMujiymc	2	U+0075 U+031e
-aɔ	aɔ	tsʰaɔ²¹, tsʰaɔ²¹ma²⁴sɯŋ³³kɯ³³	Ghomozo	2	U+0061 U+0254
-^oa	oa	oaŋ³³	Yangliu	2	U+005e U+006f U+0061
-④$	<?>	mi̠³³tɕi⁵⁵③thu³¹tɕi⁵⁵④, tshɔ³¹xu³¹④	Haoni	2	U+2463 U+0024
-^ɤ̪˞̃	ɤ̪˞̃	ɤ̪˞̃³⁵ø³³	Xuzhang	2	U+005e U+0264 U+032a U+02de U+0303
-⁵³⁵$	⁵³⁵	pv⁵³⁵	Kazhuo	2	U+2075 U+00b3 U+2075 U+0024
-²⁴¹$	²⁴¹	dʐʅ²⁴¹, gɑŋ²⁴¹	Xuzhang, CEYongan	2	U+00b2 U+2074 U+00b9 U+0024
-m̱	m̠	ʑi̠²¹m̱²¹	LopeAwuYYFC1983	2	U+006d U+0331
-³³ᵐ	³³ᵐ	mi³³ᵐpɛ⁵⁵, ma³³ᵐbɿ³³	HlephoPhowayhl, Pholaypg	2	U+00b3 U+00b3 U+1d50
-uɛ̠	uɛ̠	luɛ̠³³, tsuɛ̠²¹	Eka, SMangdi	2	U+0075 U+025b U+0320
-'ɤ̠	ɤ̠	k'ɤ̠³¹, p'ɤ̠³¹	Lipo	2	U+0027 U+0264 U+0320
-ɪ̠$	ɪ̠	pʰɪ̠	JingguLimi	2	U+026a U+0320 U+0024
-^ə̠	ə̠	ə̠²¹	Eka, SEGaoping	2	U+005e U+0259 U+0320
-^y̠	y̠	y̠²¹sɿ̠²¹, y̠²¹	CChajiang	2	U+005e U+0079 U+0320
-əu	əu	ʐəum³³, ɣəu⁵⁵	Maang	2	U+0259 U+0075
-uᴀ	uɑ̟	kuᴀ⁵⁵, tʂhuᴀ⁴⁴	NNisu	2	U+0075 U+1d00
-uo̠	uo̠	luo̠²⁴, ɡuo̠³³	CEYongan, CQingyun	2	U+0075 U+006f U+0320
-Z$	<?>	kʰa²¹H4 F4 AZ, pɯ⁵⁵H4 F2 2Z	JingguLimi	2	U+005a U+0024
-n̩̩	n̩	a⁵⁵n̩̩²¹ɕi⁵⁵ɕi⁵⁵, ɑ⁵⁵n̩̩²¹ɕi⁵⁵my³³	CChajiang, CLeba	2	U+006e U+0329 U+0329
-β	β	bβu⁴⁴	WShuizhuping, WDutian	2	U+03b2
-uẽ	uẽ	tʂuẽ³⁴, tʂuẽ³³	Xuzhang, WDutian	2	U+0075 U+1ebd
-^ɤ̪̃	ɤ̪̃	ɤ̪̃ŋ²¹, ɤ̪̃⁵⁵	WShanglizhuo, EHoushan	2	U+005e U+0264 U+032a U+0303
-ɨ̠˞	ɨ̠˞	bɨ̠˞³³	CChajiang, CLeba	2	U+0268 U+0320 U+02de
-ø̃	ø̃	hø̃⁵³, hø̃⁴⁵³	WYilu, Xuzhang	2	U+00f8 U+0303
-⁵⁵|	⁵⁵|	a⁵⁵|tʰi³¹, a⁵⁵|tʰi²¹|tʰi²¹	HlephoPhowayhl, Phuzaypz	2	U+2075 U+2075 U+007c
-²¹|	²¹|	a⁵⁵|tʰi²¹|tʰi²¹, a²¹|tʰi⁵⁵	HlephoPhowayhl, SouthernMujiymc	2	U+00b2 U+00b9 U+007c
-^ia	ia	ia⁴⁴, ia⁵³	Mondzi, SEGaoping	2	U+005e U+0069 U+0061
-ṽ̩	ṽ̩	niɛ²¹ṽ̩⁵⁵, a²¹tɨ⁵⁵sɿ²¹ṽ̩⁵⁵	CWachang	2	U+1e7d U+0329
-bʲ	bʲ	tʰi²¹bʲa⁵³	Eka	2	U+0062 U+02b2
-^uɔ	uɔ	uɔ³³tɔ⁵⁵, uɔ⁵⁵xɔ³³	HaniLuchun, Pholaypg	2	U+005e U+0075 U+0254
-ə̪	ə̪	di⁴⁴mə̪²¹	WDutian	1	U+0259 U+032a
-tʰʂ	tʰʂ	mu²¹tʰʂʅ³³	JingguLimi	1	U+0074 U+02b0 U+0282
-ɾ	ɾ	kæɾ⁵⁵	LuquanLisu	1	U+027e
-^ʊ	ʊ	ʊ³¹tʃɿ³¹ȵi⁵⁵ma³¹khɛ³³	Haoni	1	U+005e U+028a
-mʷ	mʷ	tɕi²¹mʷui²⁴lua̠⁴⁴	Ghomozo	1	U+006d U+02b7
-kʷ	kʷ	a⁵⁵me²¹ɕi⁵⁵kʷɛ˞³³	Ghomozo	1	U+006b U+02b7
-ɪ̠ɛ̠	ɪ̠ɛ̠	vɪ̠ɛ̠²¹mo²¹sᴇ⁵⁵ʑɿ⁵⁵	NNisu	1	U+026a U+0320 U+025b U+0320
-ɨɐ	ɨɐ	ɣɨɐ²⁴	WYilu	1	U+0268 U+0250
-^sʷ	sʷ	sʷɛ̠²¹nɛ̠²¹	Ghomozo	1	U+005e U+0073 U+02b7
-^iɛ	iɛ	iɛ²¹tsʰɿ²¹	CWachang	1	U+005e U+0069 U+025b
-t̪	t̪	pʰiɛ⁵⁵bo²¹t̪a³³	Ghomozo	1	U+0074 U+032a
-^ŋʷ	ŋʷ	ŋʷi²⁴ŋʷi³³	Ghomozo	1	U+005e U+014b U+02b7
-ŋʷ	ŋʷ	ŋʷi²⁴ŋʷi³³	Ghomozo	1	U+014b U+02b7
-ɯ̱i	ɯ̠i	ɣɯ̱i⁵⁵	Maang	1	U+026f U+0331 U+0069
-借	<?>	me̠²¹借汉	JingguLimi	1	U+501f
-汉$	<?>	me̠²¹借汉	JingguLimi	1	U+6c49 U+0024
-ɔ̱̃	ɔ̠̃	hɔ̱̃³⁵	Maang	1	U+0254 U+0331 U+0303
-əʊ	əʊ	səʊ¹³tsɿ³³	LaowuNisu	1	U+0259 U+028a
-^hʷ	hʷ	hʷe³³ɕi⁵⁵	Ghomozo	1	U+005e U+0068 U+02b7
-^ĩɛ̃	ĩɛ̃	ĩɛ̃³³	WYilu	1	U+005e U+0129 U+025b U+0303
-^a̲	a̲	a̲²²ɲi²¹	Lipo	1	U+005e U+0061 U+0332
-五	<?>	a²¹tʂɔ³³ȵi³³ 五天后 tʂɔ³³pa⁵⁵ȵi³³	JingguLimi	1	U+4e94
-天	<?>	a²¹tʂɔ³³ȵi³³ 五天后 tʂɔ³³pa⁵⁵ȵi³³	JingguLimi	1	U+5929
-后	<?>	a²¹tʂɔ³³ȵi³³ 五天后 tʂɔ³³pa⁵⁵ȵi³³	JingguLimi	1	U+540e
-^kʻ	kʼ	kʻo³¹	Lipo	1	U+005e U+006b U+02bb
-^kʰʷ	kʷʰ	kʰʷo⁵³xɨ²¹	WYilu	1	U+005e U+006b U+02b0 U+02b7
-ɲ̥	ɲ̊	na²¹ɲ̥ɛ̠²¹si⁵⁵	CQingyun	1	U+0272 U+0325
-ᴐ	<?>	nᴐ⁵⁵x⁵⁵	Lipo	1	U+1d10
-^ɛ̱	ɛ̠	ɛ̱³³	Narsu	1	U+005e U+025b U+0331
-ɛə	ɛə	vɛ²¹ʨʰɛ²¹lɛə³³	SouthernMujiymc	1	U+025b U+0259
-ş	<?>	a⁵⁵tşʅ⁵⁵ka⁵⁵	Lipo	1	U+015f
-^aʌ	aʌ	aʌ³¹mi⁵⁵tjɛ³³	Phuzaypz	1	U+005e U+0061 U+028c
-^tʰʷ	tʷʰ	tʰʷɛ˞³³lɛ³³	CEYongan	1	U+005e U+0074 U+02b0 U+02b7
-o̤	o̤	ko̤²¹dʑi̤²¹	CQingyun	1	U+006f U+0324
-iao̠̠̠	iao̠̠̠	a²⁴miao̠̠̠²¹	SEGaoping	1	U+0069 U+0061 U+006f U+0320 U+0320 U+0320
-^ɕw	ɕw	ɕwɛi³¹tʰa¹³maʌ³³	Phuzaypz	1	U+005e U+0255 U+0077
-χw	χw	ʑi²¹ʨʰi⁵⁵ʑi²¹χwa²¹	SouthernMujiymc	1	U+03c7 U+0077
-ẽ̠	ẽ̠	hẽ̠⁵⁵lo³³	LuowuNisu	1	U+1ebd U+0320
-tɕ͏	tɕ͏	tʰɔ²¹tɕ͏ɐ²¹	JingguLimi	1	U+0074 U+0255 U+034f
-^tʻ	tʼ	tʻa³³kɯ³³tʂʻɯ⁵¹	Lipo	1	U+005e U+0074 U+02bb
-^三	<?>	三只	Kuansi	1	U+005e U+4e09
-只$	<?>	三只	Kuansi	1	U+53ea U+0024
-pᶠʰ	pfʰ	ʝa³³pᶠʰv̩˞⁵⁵	Ghomozo	1	U+0070 U+1da0 U+02b0
-⁶³$	<?>	a⁴⁴ji⁴⁴pa⁶³	Yangliu	1	U+2076 U+00b3 U+0024
-⁵̥⁵$	⁵̥⁵	u³¹ŋo⁵̥⁵	HaniLongwei	1	U+2075 U+0325 U+2075 U+0024
-xʲe̠~³³	<???>	xʲe̠~³³	SNisu	1	U+0078 U+02b2 U+0065 U+0320 U+007e U+00b3 U+00b3
-ɨ˞̩	ɨ˞̩	kʰɨ²¹dʐa²⁴mɨ˞̩²¹	Xuzhang	1	U+0268 U+02de U+0329
-m$	m	dʑɛ˞²⁴m	WShanglizhuo	1	U+006d U+0024
-iæ̠	iæ̠	ʨɔ³³kiæ̠³¹mɔ̠²³	Pholaypg	1	U+0069 U+00e6 U+0320
-ð	ð	a²¹ðzi³³	Nersu	1	U+00f0
-⁴⁵²$	⁴⁵²	a²¹pɨ̃ŋ⁴⁵²	Xuzhang	1	U+2074 U+2075 U+00b2 U+0024
-^õ̠	õ̠	õ̠²¹	Ghomozo	1	U+005e U+00f5 U+0320
-ḛ	ḛ	ɣɨ²⁴bḛ⁵³	WDutian	1	U+1e1b
-^ɑi	ɑi	ɑi²¹mɑ³³	CQingsheng	1	U+005e U+0251 U+0069
-³³̩	³³̩	bu³³̩e³³a²¹mo²¹ɕɪ³³	Sodi	1	U+00b3 U+00b3 U+0329
-^ŋ̪	ŋ̪	ŋ̪²¹di²¹ma³³a⁴⁴ʐu⁴⁴lo⁴⁵³	WYilu	1	U+005e U+014b U+032a
-xʷ	xʷ	do³³xʷᴀ⁵⁵zo³³	SNisu	1	U+0078 U+02b7
-??$	<?>	a³³pɔ⁴⁴tsa²¹lu⁴⁴??	HaniQiepu	1	U+003f U+003f U+0024
-ɤ̤	ɤ̤	bɤ̤²¹tʂʅ̠²¹	CQingyun	1	U+0264 U+0324
-³¹ᵐ	³¹ᵐ	ɬɑ̠³¹ᵐpɔ⁵⁵	Pholaypg	1	U+00b3 U+00b9 U+1d50
-õ˞	õ˞	hõ˞³³	Xuzhang	1	U+00f5 U+02de
-ɤ˞	ɤ˞	xɤ˞³³	Ghomozo	1	U+0264 U+02de
-^ɞ	ɞ	ɞ³³	AzhaazaPelkey2011	1	U+005e U+025e
-v̪̪	v̪̪	kᶠʰv̪̪²⁴	WShuizhuping	1	U+0076 U+032a U+032a
-r	r	a̱²¹mær³³ʥɪ³³	LopeAwuYYFC1983	1	U+0072
-æ$	æ	mæ	SNisu	1	U+00e6 U+0024
-ɯɛi	ɯɛi	ʑa³¹lɯɛi¹³sɯ³¹	Phuzaypz	1	U+026f U+025b U+0069
-iɯ	iɯ	liɯ²¹sɯ¹³	HlephoPhowayhl	1	U+0069 U+026f
-^ɣw	ɣw	ɣwɔ²¹	EHoushan	1	U+005e U+0263 U+0077
-^tsʰʷ	tsʷʰ	tsʰʷø³³	Xuzhang	1	U+005e U+0074 U+0073 U+02b0 U+02b7
-ʮ	ʮ	zʮ³³	ELolo	1	U+02ae
-[ɛ²¹no³³]	<???>	[ɛ²¹no³³]	SouthernMujiymc	1	U+005b U+025b U+00b2 U+00b9 U+006e U+006f U+00b3 U+00b3 U+005d
-q$	q	sa²¹q	WShuizhuping	1	U+0071 U+0024
-ɿ̩	ɿ̩	ɣa⁵⁵zɿ̩³³	CLongjie	1	U+027f U+0329
-^ᵑq	ⁿq	ᵑqɑ³¹sɛ⁵⁵	Pholaypg	1	U+005e U+1d51 U+0071
-iɒ	iɒ	phiɒ⁵³	Mondzi	1	U+0069 U+0252
-iø	iø	jo⁵⁵tɕhiø³¹	HaniLongwei	1	U+0069 U+00f8
-ll	ll	xa³¹da⁵⁵ 2nd syllable sandhi	HaniLongwei	1	U+006c U+006c
-dh	dh	xa³¹da⁵⁵ 2nd syllable sandhi	HaniLongwei	1	U+0064 U+0068
-ɩ	ɩ	gu⁵⁵tsʻɩ³¹	Lipo	1	U+0269
-^n̩̩	n̩	n̩̩²¹də²⁴kə³³	EDiaocao	1	U+005e U+006e U+0329 U+0329
-iou	iou	ɣə³³diou³³	LaowuNisu	1	U+0069 U+006f U+0075
-ɠw	ɠw	na⁵⁵ɠw³³	LaowuNisu	1	U+0260 U+0077
-ts$	ts	mi⁴⁴tsɿ⁴⁴ts	WYilu	1	U+0074 U+0073 U+0024
-10	<?>	me³³tʊ²¹ F10 WV	JingguLimi	1	U+0031 U+0030
-W	<?>	me³³tʊ²¹ F10 WV	JingguLimi	1	U+0057
-腮	<?>	mu²¹kʰu³³ 腮帮 po²¹mɯ̠⁵⁵ɣɯ⁵⁵	JingguLimi	1	U+816e
-帮	<?>	mu²¹kʰu³³ 腮帮 po²¹mɯ̠⁵⁵ɣɯ⁵⁵	JingguLimi	1	U+5e2e
-3³¹	<?>	ba3³¹phv̩³¹	HaniLongwei	1	U+0033 U+00b3 U+00b9
-1$	<?>	le̠²¹tɕe⁵⁵ H2 F1	JingguLimi	1	U+0031 U+0024
-²⁵³$	²⁵³	liŋ²⁵³	CEYongan	1	U+00b2 U+2075 U+00b3 U+0024
-t$	t	tsʰɿ²¹t	WShanglizhuo	1	U+0074 U+0024
-⁴³³$	⁴³³	kʰɨ⁴⁵pa⁴³³	Xuzhang	1	U+2074 U+00b3 U+00b3 U+0024
-uei̤	uei̤	pʰa̤²¹tʰuei̤²¹	CQingyun	1	U+0075 U+0065 U+0069 U+0324
-iɛ̩	iɛ̩	liɛ̩²¹kɑ²¹dv̩⁵⁵	CLeba	1	U+0069 U+025b U+0329
-ḭ	ḭ	lḭ²¹tan⁵⁵ta⁵⁵kʰɨ³³	EHoushan	1	U+1e2d
-ɣw	ɣw	ɛ²¹ɣwa²¹	SouthernMujiymc	1	U+0263 U+0077
-ɿ̱	ɿ̠	dɔ⁵⁵tsɿ̱³¹	HaniLuchun	1	U+027f U+0331
-^ɯ̃	ɯ̃	ɯ̃³³	LuowuNisu	1	U+005e U+026f U+0303
-v̩ʲ	v̩ʲ	ɛ²¹fv̩ʲ²⁴	Eka	1	U+0076 U+0329 U+02b2
-ɯa̱	ɯa̠	pɯa̱³³	Maang	1	U+026f U+0061 U+0331
-gʷ	gʷ	pʰaŋ²¹gʷaŋ³³	LawuXinpingShuitangJiuha	1	U+0067 U+02b7
-ɯ̯	ɯ̯	kɯ̯⁴²	Yino	1	U+026f U+032f
-ɑ̠̠	ɑ̠	nɑ̠̠²¹	SMangdi	1	U+0251 U+0320 U+0320
-21$	<?>	no⁵⁵be21	LuowuNisu	1	U+0032 U+0031 U+0024
-^ɲ̥	ɲ̊	ɲ̥a²¹bɪ̱⁵⁵	Sodi	1	U+005e U+0272 U+0325
-42$	<?>	ɕɤ42	HaniLongwei	1	U+0034 U+0032 U+0024
-kʰ̩	k̩ʰ	ty²¹kʰ̩ɨ²¹	WYilu	1	U+006b U+02b0 U+0329
-⁴	⁴	tshɯ³¹hɯ³¹nɑ⁴pe³⁵	Lisu	1	U+2074
-i̤ɛ	i̤ɛ	ti̤ɛ²¹ɣɨ⁵⁵	CLeba	1	U+0069 U+0324 U+025b
-ʊ̠	ʊ̠	pʊ̠³³tʂɨ³³ɣɯ³³	JingguLimi	1	U+028a U+0320
-ɤ̼	ɤ̼	gɤ̼²¹tsɔ³³	ETaoshu	1	U+0264 U+033c
-aa	aː	maaŋ³³	Maang	1	U+0061 U+0061
-^他	<?>	他是白族	Kuansi	1	U+005e U+4ed6
-是	<?>	他是白族	Kuansi	1	U+662f
-白	<?>	他是白族	Kuansi	1	U+767d
-族$	<?>	他是白族	Kuansi	1	U+65cf U+0024
-²¹⁴$	²¹⁴	tai²¹⁴	CQingyun	1	U+00b2 U+00b9 U+2074 U+0024
-^yɛ	yɛ	yɛ⁵⁵sɿ²¹pʰa²¹	WYilu	1	U+005e U+0079 U+025b
-hw	hw	va²⁴tɛ²¹hwaŋ²¹ti²⁴	Eka	1	U+0068 U+0077
-iɑo̠	iɑo̠	miɑo̠²⁵xɨ̠²¹	CChajiang	1	U+0069 U+0251 U+006f U+0320
-ʦʰʴ	ʦʰʴ	mi²¹ʦʰʴɯ⁵⁵ma²¹	SouthernMujiymc	1	U+02a6 U+02b0 U+02b4
-①	<?>	a⁵⁵ta⁵⁵①ȵi⁵⁵nu⁵⁵mɔ³³②	Haoni	1	U+2460
-：$	<?>	na³³mɔ⁵⁵男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：	JingguLimi	1	U+ff1a U+0024
-^i̞	i̞	i̞¹³mi²¹	SouthernMujiymc	1	U+005e U+0069 U+031e
-iʰ	iʰ	ŋa¹³zu³³tɕiʰ¹³	LaowuNisu	1	U+0069 U+02b0
-婶婶	<?>	a³³ɣo³³ 婶婶：a³³ʐɔ³³	JingguLimi	1	U+5a76 U+5a76
-舅	<?>	ᴀ³³ɣɯ³³ 舅母：a³³ȵi³³	JingguLimi	1	U+8205
-母	<?>	ᴀ³³ɣɯ³³ 舅母：a³³ȵi³³	JingguLimi	1	U+6bcd
-^h̃	h̃	h̃ĩ⁴⁵pʰo²¹	Limi	1	U+005e U+0068 U+0303
-^ua	ua	ua³¹	Haoni	1	U+005e U+0075 U+0061
-e˞	e˞	ŋe˞²¹pʰe²¹	WDutian	1	U+0065 U+02de
-iᴀ̠	iɑ̠	tᴀ⁵⁵liᴀ̠²¹	NNisu	1	U+0069 U+1d00 U+0320
-m̩̩	m̩	ɕɛ²¹m̩̩²¹py⁵⁵	CQingsheng	1	U+006d U+0329 U+0329
-^ᵐp	ⁿp	ᵐpi⁵⁵ʑɛ̠²³	Pholaypg	1	U+005e U+1d50 U+0070
-用	<?>	u³¹tho³¹男用，u³¹xu³¹女用	HaniLongwei	1	U+7528
-ɻ	ɻ	tɕɛ⁵⁵tʂɻ²¹	WDutian	1	U+027b
-^u̱	u̠	u̱³³gɤ³³	Narsu	1	U+005e U+0075 U+0331
-'o	o	tʂ'o²¹ka²¹	Lipo	1	U+0027 U+006f
-1	<?>	tʂʅ³³ H3 F1 09	JingguLimi	1	U+0031
-09$	<?>	tʂʅ³³ H3 F1 09	JingguLimi	1	U+0030 U+0039 U+0024
-ĩa	ĩa	pa²¹lĩaŋ²¹	WYilu	1	U+0129 U+0061
-aʲo	aʲo	tʰaʲo⁵³	Eka	1	U+0061 U+02b2 U+006f
-ɿ̰	ɿ̰	sɿ̰³³wu³⁵⁴	WDutian	1	U+027f U+0330
-æ̤	æ̤	læ̤²¹læ̠³³	CLongjie	1	U+00e6 U+0324
-^ʨw	ʨw	ʨwɛ³³ʦɨ²²	AzhaazaPelkey2011	1	U+005e U+02a8 U+0077
-^ʨʷ	tɕʷ	ʨʷɛj⁵⁵ʦɿ³³	HlephoPhowayhl	1	U+005e U+02a8 U+02b7
-e$	e	he	WShuizhuping	1	U+0065 U+0024
-4⁵⁵	<?>	sm4⁵⁵tʃha³¹	HaniLongwei	1	U+0034 U+2075 U+2075
-io̠̠	io̠	lɑ³³dio̠̠⁵³pʰa²¹	CChajiang	1	U+0069 U+006f U+0320 U+0320
-^lʲ	lʲ	lʲu⁴⁵	LawuXinpingShuitangJiuha	1	U+005e U+006c U+02b2
-^ʨʰw	ʨʰw	ʨʰwɛi³¹bə³³lə³³	Phuzaypz	1	U+005e U+02a8 U+02b0 U+0077
-^ʣʴ	ʣʴ	ʣʴɯ¹³	SouthernMujiymc	1	U+005e U+02a3 U+02b4
-^ɱ	ɱ	ɱɨ̪⁵⁵ sɿ³³	Kuansi	1	U+005e U+0271
-^ɜ	ɜ	ɜ⁴⁴tʉ³³	AzhaazaPelkey2011	1	U+005e U+025c
-_̥	_̥	pa̠²¹kʰɛ ̥²¹	CQingyun	1	U+005f U+0325
-³1̥	³¹̥	sv̩³1̥ȵa³¹	HaniLongwei	1	U+00b3 U+0031 U+0325
-aɨ	aɨ	tʰaɨ²¹tsɿ⁵⁵	EHoushan	1	U+0061 U+0268
-ɜ̃	ɜ̃	sɜ̃⁴⁴ʑĩ⁴⁴	AzhaazaPelkey2011	1	U+025c U+0303
-tsʰw	tsʰw	tʰɔ³¹zɿ³⁵tsʰwɛ³³	Ghomozo	1	U+0074 U+0073 U+02b0 U+0077
-iao̠	iao̠	tʰiao̠²¹pɛn²¹	CEYongan	1	U+0069 U+0061 U+006f U+0320
-^i̠ɛ	i̠ɛ	i̠ɛ²¹ma̠³³	CLongjie	1	U+005e U+0069 U+0320 U+025b
-ao̱	ao̠	ʑɪ⁵⁵mao̱²¹	LopeAwuYYFC1983	1	U+0061 U+006f U+0331
-ʉ̃	ʉ̃	ʑɿ³³hʉ̃⁴⁴	LopeAwuYYFC1983	1	U+0289 U+0303
-²³¹$	²³¹	nai²³¹	Yangliu	1	U+00b2 U+00b3 U+00b9 U+0024
-²¹ᵐ	²¹ᵐ	no²¹ᵐbi²¹	HlephoPhowayhl	1	U+00b2 U+00b9 U+1d50
-²¹¹	²¹¹	ta²¹na³³mi̤²¹¹n̩²¹dy⁵⁵	CQingyun	1	U+00b2 U+00b9 U+00b9
-ɛa	ɛa	ʦʰə²¹va³³tɛa¹³	HlephoPhowayhl	1	U+025b U+0061
-ĩɛ	ĩɛ	na⁴⁴ĩɛ⁴⁴	WYilu	1	U+0129 U+025b
-^ɤ̠	ɤ̠	ɤ̠²¹	LuowuNisu	1	U+005e U+0264 U+0320
-ia̱o	ia̠o	mia̱o²¹³	LopeAwuYYFC1983	1	U+0069 U+0061 U+0331 U+006f
-^ɯ̱	ɯ̠	ɯ̱³³	Axi	1	U+005e U+026f U+0331
-ә̱	<?>	nә̱²¹	Lipo	1	U+04d9 U+0331
-^z̩	z̩	z̩u³³	NuosuHuangDai1992	1	U+005e U+007a U+0329
-⁴̠	⁴̠	sɨ⁴̠ ⁵	AzhaazaPelkey2011	1	U+2074 U+0320
-⁵$	⁵	sɨ⁴̠ ⁵	AzhaazaPelkey2011	1	U+2075 U+0024
-eɔ	eɔ	ŋgu⁴⁴eɔ⁴⁴	Mondzi	1	U+0065 U+0254
-[kɑ̠¹³]	<???>	[kɑ̠¹³]	SouthernMujiymc	1	U+005b U+006b U+0251 U+0320 U+00b9 U+00b3 U+005d
-^ȵ̩	ȵ̩	ȵ̩²¹	HlephoPhowayhl	1	U+005e U+0235 U+0329
-I	<?>	kɔ³³kʰu³³ H3 F6 IK	JingguLimi	1	U+0049
-K$	<?>	kɔ³³kʰu³³ H3 F6 IK	JingguLimi	1	U+004b U+0024
-'a	a	t'a³³	Lipo	1	U+0027 U+0061
-ш̱	<?>	bш̱²¹	Lipo	1	U+0448 U+0331
-^i̠̠	i̠	i̠̠²¹da²¹	CChajiang	1	U+005e U+0069 U+0320 U+0320
-^ⁿʨ	ⁿtɕ	ⁿʨɑ̠³¹	Pholaypg	1	U+005e U+207f U+02a8
-^æ̠̃	æ̠̃	æ̠̃²¹dɑ²¹to̠³³	CWachang	1	U+005e U+00e6 U+0320 U+0303
-^tɕhʰ	tɕhʰ	tɕhʰu¹³	LaowuNisu	1	U+005e U+0074 U+0255 U+0068 U+02b0
-^ɣɣ	ɣɣ	ɣɣ³³	HaniLuchun	1	U+005e U+0263 U+0263
-ʉ̱̃	ʉ̠̃	hʉ̱̃²¹³	LopeAwuYYFC1983	1	U+0289 U+0331 U+0303
-^ɤ̪˞	ɤ̪˞	ɤ̪˞²¹	EHoushan	1	U+005e U+0264 U+032a U+02de
-ɔɑ	ɔɑ	sɔɑ⁵²	Pholaypg	1	U+0254 U+0251
-ə˞̠	ə̠˞	mpʰə˞̠²¹tʰɯ⁵⁵	LuowuNisu	1	U+0259 U+02de U+0320
-^sʰ	sʰ	sʰi⁵⁵	Lipo	1	U+005e U+0073 U+02b0
-ə̄	ə̄	lə̄³³	HaniLuchun	1	U+0259 U+0304
-^tʃ̠ʰ	tʃ̠ʰ	tʃ̠ʰu̠³³	SMangdi	1	U+005e U+0074 U+0283 U+0320 U+02b0
-ũ̱	ũ̠	hũ̱²¹	LopeAwuYYFC1983	1	U+0169 U+0331
-æi̠	æi̠	næi̠²¹	SEGaoping	1	U+00e6 U+0069 U+0320
-yi	yi	nyi³³	Mondzi	1	U+0079 U+0069
-ɪ̯	ɪ̯	tsɪ̯⁴²	Yino	1	U+026a U+032f
-sʰ	sʰ	ti²²sʰu³³	HaniQiepu	1	U+0073 U+02b0
-uɑ̠	uɑ̠	ɬuɑ̠²³lɔ³¹	Pholaypg	1	U+0075 U+0251 U+0320
-，s	<?>	sa⁵³，sɛ⁴⁴a⁴²	HaniQiepu	1	U+ff0c U+0073
-^̩ŋ̩	̩ŋ̩	̩ŋ̩⁵⁵ka³³	LawuXinpingShuitangJiuha	1	U+005e U+0329 U+014b U+0329
-^ⁿʦ	ⁿts	ⁿʦɨ³¹	Pholaypg	1	U+005e U+207f U+02a6
-4³⁵$	<?>	kv4³⁵	HaniLongwei	1	U+0034 U+00b3 U+2075 U+0024
-¹$	¹	sɯ¹	Ghomozo	1	U+00b9 U+0024
-²³³$	²³³	la²³³	Xuzhang	1	U+00b2 U+00b3 U+00b3 U+0024
-uɛ̃	uɛ̃	kʰuɛ̃²⁴	Eka	1	U+0075 U+025b U+0303
-^uɑ̃	uɑ̃	uɑ̃³³	CQingsheng	1	U+005e U+0075 U+0251 U+0303
-õ̪	õ̪	hõ̪³³	WShanglizhuo	1	U+00f5 U+032a
-^cʲ	cʲ	cʲæ̠²¹	CLongjie	1	U+005e U+0063 U+02b2
-ɱ̩	ɱ̩	ʑɪ³³ŋɱ̩³³	Sodi	1	U+0271 U+0329
-v̞	v̞	nɯ³³sv̠³³sv̞³³	Haoni	1	U+0076 U+031e
-ɱ̱̩	ɱ̠̩	ko̱³³lo̱³³ŋɱ̱̩⁵⁵	Sodi	1	U+0271 U+0331 U+0329
-ja⁴²（无生命）	<???>	ja⁴²（无生命）	HaniLongwei	1	U+006a U+0061 U+2074 U+00b2 U+ff08 U+65e0 U+751f U+547d U+ff09
-^tʰw	tʰw	tʰwɛj¹³	HlephoPhowayhl	1	U+005e U+0074 U+02b0 U+0077
-v̩̩	v̩	kʰv̩̩²⁴	Eka	1	U+0076 U+0329 U+0329
-^hw	hw	hwe³³ɕi³³lɯ²¹	Ghomozo	1	U+005e U+0068 U+0077
-^m̩̩	m̩	m̩̩²¹kʰu²¹ʐʅ³³	WDutian	1	U+005e U+006d U+0329 U+0329
-əɪ	əɪ	bəɪŋ²⁴	SMangdi	1	U+0259 U+026a
-^kʰw	kʰw	kʰwa³³lɯ²²	AzhaazaPelkey2011	1	U+005e U+006b U+02b0 U+0077
-A	<?>	kʰa²¹H4 F4 AZ	JingguLimi	1	U+0041
-'ɑ̠	ɑ̠	k'ɑ̠³¹	Lipo	1	U+0027 U+0251 U+0320
-ɛ˞˞	ɛ˞	kʰɛ˞˞⁵⁵	LuowuNisu	1	U+025b U+02de U+02de
-^ɤo	ɤo	ɤo²¹	NuosuHuangDai1992	1	U+005e U+0264 U+006f
-e̱i̠	e̠i̠	de̱i̠²¹³	LopeAwuYYFC1983	1	U+0065 U+0331 U+0069 U+0320
-y$	y	my	WShuizhuping	1	U+0079 U+0024
-xh	xh	nɑ³¹xhɔ³¹	Pholaypg	1	U+0078 U+0068
-ỹ̠	ỹ̠	hỹ̠²¹	ETaoshu	1	U+1ef9 U+0320
-ɤ̃	ɤ̃	ɣɛ²¹hɤ̃⁵⁵	LuowuNisu	1	U+0264 U+0303
-^ə˞	ə˞	ə˞²¹pɯ̠⁴²	Ghomozo	1	U+005e U+0259 U+02de
-⁴⁴|	⁴⁴|	a⁴⁴|tʰi²¹tʌ²²	AzhaazaPelkey2011	1	U+2074 U+2074 U+007c
-⁵²|	⁵²|	xɑ⁵²|tʰi³³mɛ³³	Pholaypg	1	U+2075 U+00b2 U+007c
-^ɯ̠	ɯ̠	ɯ̠³³tɯ̠⁴²	Ghomozo	1	U+005e U+026f U+0320
-^o̠u	o̠u	o̠u²¹pʰɨ²¹mɨ²⁴	CEYongan	1	U+005e U+006f U+0320 U+0075
-œ̠	œ̠	sœ̠⁴⁵	AzhaazaPelkey2011	1	U+0153 U+0320
-f̩	f̩	ʔɲi⁵⁵f̩²¹	CQingyun	1	U+0066 U+0329
-ɯ˞	ɯ˞	ɣɯ˞²¹	Ghomozo	1	U+026f U+02de
-^χw	χw	χwij³³	HlephoPhowayhl	1	U+005e U+03c7 U+0077
-'iɛ	iɛ	t'iɛ³¹	Lipo	1	U+0027 U+0069 U+025b
-eo	eo	teo²¹	CQingyun	1	U+0065 U+006f
-⁴⁵⁴$	⁴⁵⁴	te⁴⁵⁴	WDutian	1	U+2074 U+2075 U+2074 U+0024
-8	<?>	n̩²¹tsa³³H4 F8 PV	JingguLimi	1	U+0038
-P	<?>	n̩²¹tsa³³H4 F8 PV	JingguLimi	1	U+0050
-^ⁿʦʰ	ⁿtsʰ	ⁿʦʰɨ³³	Pholaypg	1	U+005e U+207f U+02a6 U+02b0
-^æ˞	æ˞	æ˞³³	LopeAwuYYFC1983	1	U+005e U+00e6 U+02de
-uɤ	uɤ	khuɤ⁵³	Kazhuo	1	U+0075 U+0264
-oø	oø	soø⁵³	HaniQiepu	1	U+006f U+00f8
-'o̠	o̠	ʂ'o̠⁵⁵	Lipo	1	U+0027 U+006f U+0320
-^œ	œ	œ²²	AzhaazaPelkey2011	1	U+005e U+0153
-iɐ	iɐ	liɐŋ²¹	JingguLimi	1	U+0069 U+0250
-9	<?>	tʂʅ³³H4 F9 UB	JingguLimi	1	U+0039
-U	<?>	tʂʅ³³H4 F9 UB	JingguLimi	1	U+0055
-B$	<?>	tʂʅ³³H4 F9 UB	JingguLimi	1	U+0042 U+0024
-ɱ	ɱ	ɕu²¹ ɱɨ̪⁵⁵	Kuansi	1	U+0271
-²³²	²³²	tsa²³²mi⁵³	Kazhuo	1	U+00b2 U+00b3 U+00b2
-u̠ɛ̠	u̠ɛ̠	ⁿtu̠ɛ̠³¹qʰɑ̠³¹	Pholaypg	1	U+0075 U+0320 U+025b U+0320
-^tʰˣ	tʰˣ	tʰˣɛ³³	WShuizhuping	1	U+005e U+0074 U+02b0 U+02e3
-^χʷ	χʷ	χʷɛj²¹	HlephoPhowayhl	1	U+005e U+03c7 U+02b7
-^tsw	tsw	tswe³³ni³³	Ghomozo	1	U+005e U+0074 U+0073 U+0077
-ŋ̃	ŋ̃	ma²¹taŋ̃³³	LawuXinpingShuitangJiuha	1	U+014b U+0303
-o$	o	ŋæ²⁴tʂo	Limi	1	U+006f U+0024
-^a$	a	a	WDutian	1	U+005e U+0061 U+0024
-^ɤ̪̪̃	ɤ̪̪̃	ɤ̪̪̃⁵⁵	EDiaocao	1	U+005e U+0264 U+032a U+032a U+0303
-^ai̠	ai̠	ai̠²¹	CQingyun	1	U+005e U+0061 U+0069 U+0320
-^ɑi̠	ɑi̠	ɑi̠²¹	CWachang	1	U+005e U+0251 U+0069 U+0320
-^ʂʰ	ʂʰ	ʂʰɐʊ²¹	JingguLimi	1	U+005e U+0282 U+02b0
-ɐʊ	ɐʊ	ʂʰɐʊ²¹	JingguLimi	1	U+0250 U+028a
-^i̤	i̤	i̤²¹	CEYongan	1	U+005e U+0069 U+0324
-o̪	o̪	tʰo̪³³	Yangliu	1	U+006f U+032a
-⁵⁵̟$	⁵⁵̟	tsʰɿ⁵⁵̟	CEYongan	1	U+2075 U+2075 U+031f U+0024
-^tʰʲ	tʲʰ	tʰʲe²¹	SNisu	1	U+005e U+0074 U+02b0 U+02b2
-^ø̠	ø̠	ø̠³¹	HaniLuchun	1	U+005e U+00f8 U+0320
-^xʲ	xʲ	xʲe̠²¹	SNisu	1	U+005e U+0078 U+02b2
-^ɕʰ	ɕʰ	ɕʰi³³mu²¹	LaowuNisu	1	U+005e U+0255 U+02b0
-⁵⁵³¹$	⁵⁵³¹	n̩³¹tshi⁵⁵³¹	HaniLongwei	1	U+2075 U+2075 U+00b3 U+00b9 U+0024
-i̠$	i̠	ɲi³¹tshe⁵⁵ti̠	HaniLuchun	1	U+0069 U+0320 U+0024
-iũ	iũ	çiũ⁵⁵	Kuansi	1	U+0069 U+0169
-hʲ	hʲ	tʰa²¹hʲũ²¹	LuowuNisu	1	U+0068 U+02b2
-^rʰ	rʰ	rʰɚ⁵⁵	Nasu	1	U+005e U+0072 U+02b0
-；	<?>	o²¹tɕʰo⁴⁴；a²²ja³³	HaniQiepu	1	U+ff1b
-³⁵⁵	³⁵⁵	kɛ³⁵⁵lɛ⁵⁵ɕi⁵⁵	CWachang	1	U+00b3 U+2075 U+2075
-ɯu	ɯu	tshɿ²¹ɯu³³	NuosuHuangDai1992	1	U+026f U+0075
-ɯ͡β	ɯβ	kɯ͡β⁴⁴kʰɛ²¹	AzhaazaPelkey2011	1	U+026f U+0361 U+03b2
-^tw	tw	twe²¹ko̠⁴²	Ghomozo	1	U+005e U+0074 U+0077
-iɛ̃	iɛ̃	tʂoŋ³³tɕiɛ̃³³	WShanglizhuo	1	U+0069 U+025b U+0303
-^ʔw	ʔw	ʔwa²¹	Kuansi	1	U+005e U+0294 U+0077
-'ɯ	ɯ	vɯ⁵⁵k'ɯ²¹	Lipo	1	U+0027 U+026f
-'ə	ə	ʐo⁵⁵k'ə²¹	Lipo	1	U+0027 U+0259
-eʲ̤	eʲ̤	beʲ̤²¹	CQingyun	1	U+0065 U+02b2 U+0324
-^ṳ	ṳ	ṳ²¹si⁵⁵	CQingyun	1	U+005e U+1e73
-kʰa⁵⁵pə⁵⁵ [v]la³³	<???>	kʰa⁵⁵pə⁵⁵ [v]la³³	HlephoPhowayhl	1	U+006b U+02b0 U+0061 U+2075 U+2075 U+0070 U+0259 U+2075 U+2075 U+0020 U+005b U+0076 U+005d U+006c U+0061 U+00b3 U+00b3
-ǫ̱	ǫ̠	kʰo²¹ɳǫ̱²¹	Nasu	1	U+01eb U+0331
-^ŋ̣	ŋ̣	ŋ̣²¹	Limi	1	U+005e U+014b U+0323
+Grapheme	IPA
+$	NULL
+'a	a
+'i	i
+'iɛ	i/j ɛ
+'i̠	i̠
+'o	o
+'o̠	o̠
+'ɑ̠	ɑ̠
+'ə	ə
+'ɤ̠	ɤ̠
+'ɯ	ɯ
+10	<?>
+21$	²¹
+3³¹	NULL
+42$	⁴²
+4⁵⁵	ɾ
+E	ᴇ/e̞
+W	<?>
+[	NULL
+]	NULL
+^	NULL
+^_	NULL
+^a	a
+^a$	a
+^ae	ae
+^ai	ai
+^ai̠	ai̠
+^ao	ao
+^aɔ̃	aɔ̃
+^aʌ	aʌ
+^a̠	a̠
+^a̤	a̤
+^a̱	a̠
+^a̲	a
+^b	b
+^c	c
+^cʰ	cʰ
+^cʲ	cʲ
+^d	d
+^dʐ	ɖʐ
+^dʑ	dʑ
+^dʒ	dʒ
+^e	e
+^ei	ei
+^e̱	e̠
+^f	f
+^g	g
+^gw	g w
+^h	h
+^hw	ʰw
+^hʷ	hʷ
+^h̃	h̃
+^i	i
+^ia	i/j a
+^i²¹mo²¹	i ²¹ + m o ²¹
+^i³³ʈho³³	i ³³ + ʈʰ o ³³
+^iɛ	i/j ɛ
+^iɛ̠	i/j ɛ̠
+^iɛ̠̃	i/j ɛ̠̃
+^i̞	i̞/i
+^i̠	i̠
+^i̠ɛ	i̠/j ɛ
+^i̠̠	i̠
+^i̤	i̤
+^i̱	i̠
+^j	j
+^k	k
+^kh	kʰ
+^kw	kʷ
+^kʰ	kʰ
+^kʰw	kʰ w
+^kʰʷ	kʷʰ
+^kʷ	kʷ
+^kʻ	kʼ
+^kᶠʰ	kᶠʰ/kʰ
+^l	l
+^lw	l w
+^lʲ	lʲ
+^l̥	l̥
+^l̩	l̩
+^m	m
+^m̠	m̩
+^m̠̩	m̠̩
+^m̥	m̥
+^m̩	m̩
+^m̩̩	m̩
+^n	n
+^n̥	n̥
+^n̩	n̩
+^n̩̩	n̩
+^o	o
+^oa	oa
+^ou	ou
+^o̠	o̠
+^o̠u	o̠u
+^o̱	o̠
+^p	p
+^ph	pʰ
+^pɯ⁵⁵H4__2Z	p ɯ ⁵⁵
+^pʰ	pʰ
+^pʰᶠ	pᶠʰ
+^pᶠ	pf
+^pᶠʰ	pfʰ
+^q	q
+^qh	qʰ
+^qʰ	qʰ
+^rʰ	rʰ
+^s	s
+^sw	s w
+^sɨ⁴̠_⁵	s ɨ ⁴⁵
+^sʰ	sʰ
+^sʷ	sʷ
+^t	t
+^th	tʰ
+^ts	ts
+^tsh	tsʰ
+^tsw	ts w
+^tsʰ	tsʰ
+^tsʰɿ⁵⁵̟	tsʰ ɿ ⁵⁵
+^tsʰʷ	tsʷʰ
+^tsʻ	tsʼ
+^tw	t w
+^tǫ³³	t o ³³
+^tɕ	tɕ
+^tɕh	tɕʰ
+^tɕhʰ	tɕʰ
+^tɕǫ³³	tɕ o ³³
+^tɕʰ	tɕʰ
+^tɕʻ	tɕʼ
+^tʂ	ʈʂ
+^tʂh	ʈʂʰ
+^tʂʰ	ʈʂʰ
+^tʂʻ	ʈʂʼ
+^tʃ	tʃ
+^tʃh	tʃʰ
+^tʃʰ	tʃʰ
+^tʃ̠ʰ	tʃ̠ʰ
+^tʰ	tʰ
+^tʰw	tʰ w
+^tʰʲ	tʲʰ
+^tʰʷ	tʷʰ
+^tʰˣ	tˠʰ
+^tʻ	tʼ
+^u	u
+^ua	u/w a
+^uɑ	u/w ɑ
+^uɑ̃	u/w ɑ̃
+^uɔ	uɔ
+^u̠	u̠
+^u̱	u̠
+^v	v
+^v˞	ʮ˞
+^v̠	v̠/v
+^v̩	v̩
+^v̩˞	v̩˞
+^w	w
+^x	x
+^xʲ	xʲ
+^xʲe̠~³³	xʲ e ³³
+^y	y
+^yɛ	y/ɥ ɛ
+^y̠	y̠
+^z	z
+^z̩	z̩
+^ã	ã
+^æ	æ
+^æ˞	æ˞
+^æ̠	æ̠
+^æ̠̃	æ̠̃
+^ç	ç
+^õ	õ
+^õ̠	õ̠
+^ø	ø
+^ø̠	ø̠
+^ĩ	ĩ
+^ĩɛ̃	ĩ/j ɛ̃
+^ĩ̠	ĩ̠
+^ŋ	ŋ
+^ŋw	ŋ w
+^ŋʷ	ŋʷ
+^ŋ̣	ŋ̍
+^ŋ̩	ŋ̍
+^ŋ̩̩	ŋ̩
+^ŋ̩⁵⁵ka³³	ŋ̍ ⁵⁵ + k a ³³
+^ŋ̪	ŋ̪
+^œ	œ
+^ũ	ũ
+^ȵ	ȵ
+^ȵʲ	ȵʲ
+^ȵ̩	ȵ̩
+^ɐ	ɐ
+^ɐ̃	ɐ̃
+^ɑ	ɑ
+^ɑi	ɑi
+^ɑi̠	ɑi̠
+^ɑ̃	ɑ̃
+^ɑ̠	ɑ̠
+^ɑ̤	ɑ̤
+^ɒ	ɒ
+^ɔ	ɔ
+^ɔ̃	ɔ̃
+^ɔ̠	ɔ̠
+^ɕ	ɕ
+^ɕw	ɕ w
+^ɕʰ	ɕʰ
+^ɖ	ɖ
+^ə	ə
+^ə˞	ə˞
+^ə̃	ə̃
+^ə̠	ə̠
+^ə̱	ə̠
+^ɚ	ə˞
+^ɚ̱	ə̠˞
+^ɛ	ɛ
+^ɛi	ɛi
+^ɛ˞	ɛ˞
+^ɛ˞̃	ɛ̃˞
+^ɛ̃	ɛ̃
+^ɛ̠	ɛ̠
+^ɛ̱	ɛ̠
+^ɜ	ɜ
+^ɞ	ɞ
+^ɡ	g
+^ɣ	ɣ
+^ɣw	ɣ w
+^ɣɣ	ɣ ɤ
+^ɣɣ̠³³	ɣ ɤ ³³
+^ɣʷ	ɣʷ
+^ɤ	ɤ
+^ɤo	ɤo
+^ɤɯ	ɤɯ
+^ɤ˞	ɤ˞
+^ɤ˞̃³⁵	ɤ̃˞ ³⁵ +
+^ɤ̃	ɤ̃
+^ɤ̠	ɤ̠
+^ɤ̪	ɤ̪
+^ɤ̪˞	ɤ̪˞
+^ɤ̪˞̃	ɤ̪˞̃
+^ɤ̪̃	ɤ̪̃
+^ɤ̪̪̃	ɤ̪̪̃
+^ɤ̱	ɤ̠
+^ɦ	ɦ
+^ɨ	ɨ
+^ɨ̃	ɨ̃
+^ɨ̠	ɨ̠
+^ɨ̪	ɨ̪
+^ɪ	ɪ
+^ɪ̱	ɪ̠
+^ɬ	ɬ
+^ɬḻ³³	ɬ l̩ ³³
+^ɭ	ɭ
+^ɯ	ɯ
+^ɯ̃	ɯ̃
+^ɯ̠	ɯ̠
+^ɯ̱	ɯ̠
+^ɱ	ɱ
+^ɲ	ɲ
+^ɲ̥	ɲ̊
+^ɳ	ɳ
+^ɸ	ɸ
+^ɿ	ɿ
+^ʁ	ʁ
+^ʂ	ʂ
+^ʂʰ	ʂʰ
+^ʂʻ	ʂʼ
+^ʃ	ʃ
+^ʈ	ʈ
+^ʈh	ʈʰ
+^ʈʰ	ʈʰ
+^ʊ	ʊ
+^ʐ	ʐ
+^ʑ	ʑ
+^ʒ	ʒ
+^ʔ	ʔ
+^ʔw	ʔ w
+^ʔʐ	ˀʐ
+^ʝ	ʝ
+^ʣ	dz
+^ʣʴ	dz ʁ
+^ʥ	dʑ
+^ʦ	ts
+^ʦh	tsʰ
+^ʦʰ	tsʰ
+^ʨ	tɕ
+^ʨh	tɕʰ
+^ʨw	ts w
+^ʨʰ	tɕʰ
+^ʨʰw	tɕʰ w
+^ʨʷ	tɕʷ
+^χ	χ
+^χw	χ w
+^χʷ	χʷ
+^ᴀ	ɑ̟
+^ᵐb	ⁿb
+^ᵐp	ⁿp
+^ᵑk	ⁿk
+^ᵑq	ⁿq
+^ᵑɡ	ⁿg
+^ḻ̩	l̩
+^ṳ	ṳ/u
+^ṽ̩	ʮ̃
+^ẽ	ẽ
+^ỹ	ỹ
+^ⁿd	ⁿd
+^ⁿt	ⁿt
+^ⁿʣ	ⁿdz
+^ⁿʥ	ⁿdʑ
+^ⁿʦ	ⁿts
+^ⁿʦʰ	ⁿtsʰ
+^ⁿʨ	ⁿtɕ
+^他	<?>
+_	+
+_$	NULL
+_0_WV	NULL
+_H2_	NULL
+__	+
+__$	NULL
+___	NULL
+__腮帮__po²¹mɯ̠⁵⁵ɣɯ⁵⁵	NULL
+_̥	NULL
+a	a
+aa	aː
+ae	ae
+ai	ai
+ai̠	ai̠
+ao	ao
+ao̠	ao̠
+ao̱	ao̠/ao
+au	au
+aɔ	aɔ
+aɨ	aɨ
+aʌ	aʌ
+aʲ	ai̯
+aʲo	ao
+a˞	a˞
+a̠	a̠
+a̠̠	a̠
+a̤	a̤
+a̰	a̰
+a̱	a̠
+a̱i	a̠i
+b	b
+b$	b
+bʰ	bʰ
+bʲ	bʲ
+c	c
+cʰ	cʰ
+d	d
+dʐ	ɖʐ
+dʐʰ	ɖʐʰ
+dʑ	dʑ
+dʑʰ	dʑʰ
+dʒ	dʒ
+dʰ	dʰ
+e	e
+e$	e
+ei	ei
+ei̠	ei̠
+eo	eo
+eĩ	eĩ
+eɔ	eɔ
+eʲ̤	ei̯
+e˞	e˞
+e̠	e̠
+e̱	e̠
+e̱i	e̠i
+e̱i̠	e̠i̠
+f	f
+fvʲ	f v̩
+fʰ	fʰ
+f̩	f̩
+g	g
+gʰ	gʰ
+gʷ	gʷ
+h	h
+hw	h w
+hʲ	hʲ
+i	i
+i$	i
+ia	i/j a
+iao	i/j ao
+iao̠	i/j ao̠
+iao̠̠̠	i/j ao̠̠̠
+iau	i/j au
+iaõ	i/j aõ
+ia̠	i/j a̠
+ia̱o	i/j a̠o
+ie	i/j e
+ie̱	i/j e̠
+io	i/j o
+iou	i/j ou
+io̠	i/j o̠
+io̠̠	i/j o̠
+io̤	i/j o̤
+iu	i/j u
+iã	i/j ã
+iæ	i/j æ
+iæ̠	i/j æ̠
+iõ	i/j õ
+iø	i/j ø
+iũ	i/j ũ
+iɐ	i/j ɐ
+iɑ	i/j ɑ
+iɑo̠	i/j ɑo
+iɑu	i/j ɑu
+iɒ	i/j ɒ
+iɔ	i/j ɔ
+iə	i/j ə
+iɛ	i/j ɛ
+iɛ˞	i/j ɛ˞
+iɛ̃	i/j ɛ̃
+iɛ̠	i/j ɛ̠
+iɛ̩	i/j ɛ̩
+iɛ̱	i/j ɛ̠
+iɯ	i/j ɯ
+iʰ	i/i
+i̠	i̠
+i̠$	i̠/i
+i̠ɛ	i̠/j ɛ
+i̠ɛ̠	i̠/j ɛ̠
+i̤	i̤
+i̤ɛ	i̤/j ɛ
+i̥	i̥
+i̯	i
+i̱	i̠
+i̱̯	i̯̠
+iᴀ̠	i/j ɑ̠
+j	j
+k	k
+kh	kʰ
+kw	kʷ
+kʰ	kʰ
+kʰw	kʰ w
+kʰ̩	k̩ʰ
+kʷ	kʷ
+kᶠʰ	kᶠʰ/kʰ
+l	l
+l̥	l̥
+l̩	l̩
+m	m
+m$	m̩
+mʷ	mʷ
+m̥	m̥
+m̩	m̩
+m̩̩	m̩
+m̱	m̩
+m̱̩	m̠̩
+n	n
+n̥	n̥
+n̩	n̩
+n̩̩	n̩
+o	o
+o$	o
+oa	oa
+oi	oi
+ou	ou
+oø	oø
+oɤ	oɤ
+oʲ	oi̯
+o̠	o̠
+o̠u	o̠u
+o̠̠	o̠
+o̠̠̠	o̠
+o̤	o̤
+o̪	o̪
+o̱	o̠
+p	p
+ph	pʰ
+pʰ	pʰ
+pʰᶠ	pfʰ
+pʷ	pʷ
+pᶠ	pf
+pᶠʰ	pfʰ
+q	q
+q$	q
+qh	qʰ
+qʰ	qʰ
+r	r
+s	s
+sɨ⁴̠_⁵	s ɨ ⁴⁵
+sʰ	sʰ
+t	t
+t$	t
+th	tʰ
+ts	ts
+ts$	ts
+tsh	tsʰ
+tsʰ	tsʰ
+tsʰw	tsʰ w
+tsʰɿ⁵⁵̟	tsʰ ɿ ⁵⁵
+tsʻ	tsʼ
+tɕ	tɕ
+tɕh	tɕʰ
+tɕʰ	tɕʰ
+tɕ͏ɐ²¹	tɕ ɐ ²¹
+tʂ	ʈʂ
+tʂh	ʈʂʰ
+tʂʰ	ʈʂʰ
+tʂʻ	ʈʂʼ
+tʃ	tʃ
+tʃh	tʃʰ
+tʃʰ	tʃʰ
+tʰ	tʰ
+tʰʂ	tʂʰ
+tʰˣ	tʰˠ
+t̪	t̪
+u	u
+u$	u
+ua	u/w a
+uai	u/w ai
+uai̠	u/w ai̠
+ua̠	u/w a̠
+ue	u/w e
+uei	u/w ei
+uei̤	u/w ei
+ui	u/w i
+uo	u/w o
+uo̠	u/w o̠
+uã	u/w ã
+uɑ	u/w ɑ
+uɑ̠	u/w ɑ̠
+uə	u/w ə
+uə̃	uə̃
+uɛ	u/w ɛ
+uɛi	u/w ɛi
+uɛʲ	u/w ɛi̯
+uɛ˞	u/w ɛ˞
+uɛ̃	u/w ɛ̃
+uɛ̠	u/w ɛ̠
+uɤ	uɤ
+uɪ	uɪ
+uʲ	ui̯
+uʲo	uʲ/ɥ o
+u̞	u̞
+u̠	u̠
+u̠ɛ̠	u̠/w ɛ̠
+u̥	u̥
+u̪	u̪
+u̱	u̠
+uᴀ	u/w ɑ̟
+uᴀi	u/w ᴀi
+uẽ	u/w ẽ
+v	v
+v4³⁵$	v̩ ³⁵
+v˞	ʮ˞
+v˞̩	v˞̩
+v̞	v̞
+v̠	v̠
+v̤	ʮ
+v̥	v̥
+v̩	ʮ
+v̩ʲ	v̩ʲ
+v̩˞	v̩˞
+v̩̠	v̠̩
+v̩̤	v̩ʱ
+v̩̩	v̩
+v̪̪	v̪̪
+w	w
+x	x
+xh	xʰ
+xʲe̠~³³	xʲ e ³³
+xʷ	xʷ
+y	y
+y$	y
+ya	y/ɥ a
+yi	yi
+yɛ	y/ɥ ɛ
+y̠	y̠
+y̤	y̤
+y̥	y̥
+y̱	y̠
+z	z
+zʰ	zʰ
+²	²
+²$	²
+²²	²²
+²²$	²²
+²³	²³
+²³$	²³
+²³²	²³²
+²³³$	²³³
+²³¹$	²³¹
+²¹	²¹
+²¹$	²¹
+²¹|	²¹ +
+²¹³	²¹³
+²¹³$	²¹³
+²¹¹	²¹
+²¹⁴$	²¹⁴
+²⁴	²⁴
+²⁴$	²⁴
+²⁴¹$	²⁴¹
+²⁵	²⁵
+²⁵$	²⁵
+²⁵³	²⁵³
+²⁵³$	²⁵³
+³	³
+³$	³
+³1̥ȵ	³¹ ȵ̊
+³²	³²
+³²$	³²
+³²³	³²³
+³²³$	³²³
+³³	³³
+³³$	³³
+³³̩	³³̩
+³¹	³¹
+³¹$	³¹
+³¹ⁿ	³¹
+³⁴	³⁴
+³⁴$	³⁴
+³⁵	³⁵
+³⁵$	³⁵
+³⁵²	³⁵²
+³⁵²$	³⁵²
+³⁵³	³⁵³
+³⁵³$	³⁵³
+³⁵⁴$	³⁵⁴
+³⁵⁵	³⁵
+¹$	¹
+¹³	¹³
+¹³$	¹³
+¹¹	¹¹
+¹¹$	¹¹
+ã	ã
+ã̠	ã̠
+æ	æ
+æ$	æ
+æi̠	æi̠
+æ˞	æ˞
+æ̃	æ̃
+æ̠	æ̠
+æ̠˞	æ̠˞
+æ̠̃	æ̠̃
+æ̤	æ̤
+æ̱˞	æ̠˞
+ð	ð
+õ	õ
+õ˞	õ˞
+õ̪	õ̪
+õ̱	õ̠
+ø	ø
+øi	øi
+øɛ	øɛ
+ø̃	ø̃
+ø̠	ø̠
+ø̤	ø̤
+ĩ	ĩ
+ĩa	ĩ/j ã
+ĩɛ	ĩ/j ɛ̃
+ŋ	ŋ
+ŋo⁵̥⁵	ŋ o ⁵⁵
+ŋw	ŋ w
+ŋʷ	ŋʷ
+ŋ̃	ŋ̃
+ŋ̩	ŋ̍
+ŋ̩̩	ŋ̩
+ŋ̪	ŋ̪
+œ	œ
+œ̠	œ̠
+ş	ʂ
+ũ	ũ
+ũ̱	ũ̠
+ǫ	o
+ǫ̱	ǫ̠
+ȵ	ȵ
+ɐ	ɐ
+ɐʊ	ɐʊ
+ɐ̃	ɐ̃
+ɑ	ɑ
+ɑi	ɑi
+ɑo̠	ɑo̠
+ɑu	ɑu
+ɑ̃	ɑ̃
+ɑ̠	ɑ̠
+ɑ̠̠	ɑ̠
+ɑ̤	ɑ̤
+ɑ̥	ɑ̥
+ɑ̱	ɑ̠
+ɒ	ɒ
+ɔ	ɔ
+ɔɑ	ɔɑ
+ɔ̃	ɔ̃
+ɔ̠	ɔ̠
+ɔ̪	ɔ̪
+ɔ̱	ɔ̠
+ɔ̱̃	ɔ̠̃
+ɕ	ɕ
+ɕʰ	ɕʰ
+ɖ	ɖ
+ɖʐ	ɖʐ
+ɖʰ	ɖʰ
+ə	ə
+ə$	ə
+əa	əa
+əu	əu
+əɪ	əɪ
+əʊ	əʊ
+ə˞	ə˞
+ə˞̠	ə̠˞
+ə̃	ə̃
+ə̄	ə̄
+ə̠	ə̠
+ə̤	ə̤
+ə̪	ə̪
+ə̱	ə̠
+ɚ	ə˞
+ɚ̱	ə̠˞
+ɛ	ɛ
+ɛ$	ɛ
+ɛa	ɛa
+ɛi	ɛi
+ɛi̠	ɛi̠
+ɛo	ɛo
+ɛə	ɛə
+ɛʲ	ɛi̯
+ɛ˞	ɛ˞
+ɛ˞˞	ɛ˞
+ɛ˞̃	ɛ̃˞
+ɛ˞̠	ɛ̠˞
+ɛ̃	ɛ̃
+ɛ̃˞	ɛ̃˞
+ɛ̠	ɛ̠
+ɛ̠˞	ɛ̠˞
+ɛ̠̃	ɛ̠̃
+ɛ̤	ɛ̤
+ɛ̱	ɛ̠
+ɛ̱̃	ɛ̠̃
+ɜ	ɜ
+ɜ̃	ɜ̃
+ɞ	ɞ
+ɞ̠	ɞ̠
+ɠw	ɠ w
+ɡ	g
+ɡw	g w
+ɣ	ɣ
+ɣw	ɣ w
+ɣʷ	ɣʷ
+ɣ̠	ɣ̠
+ɣ̩	ɣ̩
+ɤ	ɤ
+ɤɑ	ɤɑ
+ɤ˞	ɤ˞
+ɤ̃	ɤ̃
+ɤ̠	ɤ̠
+ɤ̤	ɤ̤
+ɤ̪	ɤ̪
+ɤ̪˞	ɤ̪˞
+ɤ̪˞̩	ɤ̪˞̩
+ɤ̪˞̪	ɤ̪˞̪
+ɤ̪̠̪	ɤ̪̠̪
+ɤ̱	ɤ̠
+ɤ̼	ɤ̼/ɤ
+ɦ	ɦ
+ɨ	ɨ
+ɨ$	ɨ
+ɨi	ɨi
+ɨɐ	ɨɐ
+ɨʲ	ɨi̯
+ɨ˞	ɨ˞
+ɨ˞̠	ɨ̠˞
+ɨ˞̩	ɨ
+ɨ̃	ɨ̃
+ɨ̠	ɨ̠
+ɨ̠˞	ɨ̠˞
+ɨ̤	ɨ̤
+ɨ̥	ɨ̥
+ɨ̪	ɨ̪
+ɨ̪̠	ɨ̪̠
+ɩ	ɪ
+ɪ	ɪ
+ɪ̠	ɪ̠
+ɪ̠$	ɪ̠
+ɪ̠ɛ̠	ɪ̠ɛ̠
+ɪ̯	ɪ̯
+ɪ̱	ɪ̠
+ɬ	ɬ
+ɬi̠ɛ-²¹	l i/j ɛ ²¹
+ɬʰ	ɬʰ
+ɭ	ɭ
+ɮ	ɮ
+ɯ	ɯ
+ɯa̱	ɯ/ɰ a̠
+ɯi	ɯi
+ɯu	ɯ/ɰ u
+ɯɛi	ɯ/ɰ ɛi
+ɯ˞	ɯ˞
+ɯ˞̪	ɯ˞̪
+ɯ̃	ɯ̃
+ɯ̠	ɯ̠
+ɯ̯	ɯ
+ɯ̱	ɯ̠
+ɯ̱i	ɯ̠i
+ɯ͡β	ɯ
+ɱ	ɱ
+ɱ̩	ɱ̩
+ɱ̱	ɱ̩
+ɱ̱̩	ɱ̠̩
+ɲ	ɲ
+ɲ̥	ɲ̊
+ɳ	ɳ
+ɳǫ̱²¹	ɳ o ²¹
+ɸ	ɸ
+ɻ	ɻ
+ɾ	ɾ
+ɿ	ɿ
+ɿ̃	ɿ̃
+ɿ̠	ɿ̠
+ɿ̤	ɿ̤
+ɿ̩	ɿ
+ɿ̰	ɿ̰
+ɿ̱	ɿ̠
+ʂ	ʂ
+ʂʻ	ʂʼ
+ʃ	ʃ
+ʅ	ʅ
+ʅ$	ʅ
+ʅ̃	ʅ̃
+ʅ̠	ʅ̠
+ʅ̥	ʅ̥
+ʈ	ʈ
+ʈh	ʈʰ
+ʈʰ	ʈʰ
+ʉ	ʉ
+ʉ̃	ʉ̃
+ʉ̠	ʉ̠
+ʉ̤	ʉ̤
+ʉ̱̃	ʉ̠̃
+ʊ	ʊ
+ʊ̠	ʊ̠/ʊ
+ʌ	ʌ
+ʌ̠	ʌ̠
+ʐ	ʐ
+ʑ	ʑ
+ʒ	ʒ
+ʔ	ʔ
+ʝ	ʝ
+ʣ	dz
+ʥ	dʑ
+ʦ	ts
+ʦh	tsʰ
+ʦʰ	tsʰ
+ʦʰʴ	tsʰ ʁ
+ʨ	tɕ
+ʨh	tɕʰ
+ʨʰ	tɕʰ
+ʮ	ʮ
+β	β
+χ	χ
+χw	χ w
+ш̱	ɯ
+ә	ə
+ә̱	ə
+ᴀ	ɑ̟
+ᴀi	ɑ̟i
+ᴀ̠	ɑ̠
+ᴇ	ᴇ/e̞
+ᴐ	ɔ
+ᵐb	ⁿb
+ᵐp	ⁿp
+ᵑg	ⁿg
+ᵑk	ⁿk
+ᵑɡ	ⁿg
+ḁ	ḁ/a
+ḛ	ḛ
+ḭ	ḭ
+ḻ	l̩
+ḻ̩	l̩
+ṳ	ṳ
+ṽ	ṽ
+ṽ̩	ṽ̩
+ẽ	ẽ
+ẽ̠	ẽ̠
+ỹ̠	ỹ̠
+⁴	⁴
+⁴²	⁴²
+⁴²$	⁴²
+⁴³	⁴³
+⁴³$	⁴³
+⁴³³$	⁴³³
+⁴¹	⁴¹
+⁴¹$	⁴¹
+⁴̠	⁴̠
+⁴⁴	⁴⁴
+⁴⁴$	⁴⁴
+⁴⁴|	⁴⁴ +
+⁴⁵	⁴⁵
+⁴⁵$	⁴⁵
+⁴⁵²$	⁴⁵²
+⁴⁵³	⁴⁵³
+⁴⁵³$	⁴⁵³
+⁴⁵⁴	⁴⁵⁴
+⁴⁵⁴$	⁴⁵⁴
+⁵	⁵
+⁵$	⁵
+⁵²	⁵²
+⁵²$	⁵²
+⁵²|	⁵² +
+⁵³	⁵³
+⁵³$	⁵³
+⁵³⁵$	⁵³⁵
+⁵¹	⁵¹
+⁵¹$	⁵¹
+⁵̥⁵$	⁵̥⁵
+⁵⁴	⁵⁴
+⁵⁴$	⁵⁴
+⁵⁵	⁵⁵
+⁵⁵$	⁵⁵
+⁵⁵|	⁵⁵ +
+⁵⁵³¹$	⁵⁵
+⁵⁵̟$	⁵⁵̟
+⁶³$	⁵³
+ⁿd	ⁿd
+ⁿt	ⁿt
+ⁿʣ	ⁿdz
+ⁿʥ	ⁿdʑ
+ⁿʦ	ⁿts
+①$	NULL
+②$	NULL
+③	NULL
+③$	NULL
+录$	<?>
+族$	<?>
+是	<?>
+没	<?>
+白	<?>
+	NULL
+：	NULL

@@ -28,7 +28,37 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
-    form_spec = FormSpec(missing_data=("烂饭", "-", "---"), first_form_only=True)
+    form_spec = FormSpec(missing_data=("烂饭", "-", "---", "三只", '他是白族'), 
+            replacements=[
+                ("F1", ""), ("①", ""), ("H4 F8 PV", ""), ("H4 F9 UB", ""),
+                ("；a²²ja³³", ""),
+                ("F2", ""), (" H3 F1 09", ""), ("H4 F4 AZ", ""),
+                (" H3 F6 IK", ""), ("，", ""), ("（无生命）", ""),
+                ("男性称呼弟弟 pʰo²¹mo³³女性称呼弟弟：", ""),
+                (" F3 6G", ""), ("H4 F2 2Z", ""), ("H4 F4 AZ", ""),
+                (" H3 F1 09", ""), ("五天后", ""), ("三只", ""),
+                ("舅母：", ""),
+                ("H3", ""), (" H2 F1", ""), ("他是白族", ""), ("婶婶", ""), 
+                ("④", ""), ("③", ""), ("舅母", ""),
+                (" 2nd syllable sandhi", ""), ("男用", ""), ("\u032a", ""),
+                ("\u0329", ""),
+                ("6G", ""), ("借汉", ""), (" F10 WV", ""), (" 腮帮 po²¹mɯ̠⁵⁵ɣɯ⁵⁵", ""),
+                ("09", ""),
+                (" 2nd syll", ""), ("??", ""),
+                ("男用", ""),
+                ("女用", ""),
+                ("男性称呼弟弟", ""),
+                (" F10 WV", ""),
+                ("H4 F4 AZ", ""),
+                ("，", ""),
+                ("H4 F8 PV", ""),
+                (" *m-b", ""),
+                ("没录", ""),
+                (" H3 F6 IK", ""),
+                ("H4 F2 2Z", ""),
+                (" ", "_"),
+                ],
+            first_form_only=True)
 
     def cmd_makecldf(self, args):
         # read raw data for later addition

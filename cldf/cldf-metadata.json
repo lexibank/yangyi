@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/yangyi",
-            "dc:created": "3b113e1"
+            "dc:created": "2970fe5"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 51844,
+            "dc:extent": 51842,
             "tableSchema": {
                 "columns": [
                     {
