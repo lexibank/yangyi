@@ -1,21 +1,24 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Yang, Cathryn (2021): The phonetic tone change *high > rising: Evidence from the Ngwi dialect laboratory.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Yang-2011-1014"
     ],
+    "dc:identifier": "https://zenodo.org/record/4643782",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
-    "dc:title": "CLDF dataset accompanying Yang's \"\" from 2021",
+    "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset accompanying Yang's \"Phonetic Tone Change\" from 2021",
     "dcat:accessURL": "https://github.com/lexibank/yangyi",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/yangyi",
-            "dc:created": "f84db33"
+            "dc:created": "17a17f0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.2"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",

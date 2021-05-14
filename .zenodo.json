@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset accompanying Yang's \"\" from 2021",
+    "title": "CLDF dataset accompanying Yang's \"Phonetic Tone Change\" from 2021",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -16,14 +16,6 @@
             "type": "DataCollector"
         },
         {
-            "name": "Steve Pepper",
-            "type": "Other"
-        },
-        {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        },
-        {
             "name": "Johann-Mattis List",
             "type": "Other"
         }
@@ -36,5 +28,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yang, Cathryn (2021): The phonetic tone change *high &gt; rising: Evidence from the Ngwi dialect laboratory.</p>\n</blockquote>"
 }

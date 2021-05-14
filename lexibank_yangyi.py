@@ -85,6 +85,8 @@ class Dataset(BaseDataset):
                 row)}]
         args.writer.add_sources()
         languages = args.writer.add_languages(lookup_factory="NameInData")
+        sources = {language["NameInData"]: language["Source"] for language in
+                self.languages}
 
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -107,6 +109,6 @@ class Dataset(BaseDataset):
                             Language_ID=lid,
                             Parameter_ID=concepts[number],
                             Value=entry,
-                            Source=""
+                            Source=sources[language]
                             )
 

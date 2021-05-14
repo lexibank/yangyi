@@ -1,77 +1,77 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Source,SubGroup,NameInData,Number
-HaniLongwei,Hani-Longwei,,,,,23.28989,102.258828,Sino-Tibetan,Yunnan Honghe Honghe,Changfieldnotes,Yi,Hani-Longwei,86
-HaniQiepu,Hani-Qiepu,,,,,23.17492035,102.323801,Sino-Tibetan,Yunnan Honghe Honghe,Qu2020,Yi,Hani-Qiepu,85
-HaniLuchun,Hani- Lvchun,,,,,22.9971543,102.4112667,Sino-Tibetan,Yunnan Honghe Luchun,Sun1991,Yi,Hani-Luchun,84
-Haoni,Haoni,,,,,23.44336047,101.7461037,Sino-Tibetan,Yunnan Pu'er Mojiang,Sun1991,Yi,Haoni,87
-LahuNa,,,,,,,,Sino-Tibetan,,Sun1991,Yi,Lahu Na,
+HaniLongwei,Hani-Longwei,hani1248,Hani,hni,Eurasia,23.28989,102.258828,Sino-Tibetan,Yunnan Honghe Honghe,Changfieldnotes,Yi,Hani-Longwei,86
+HaniQiepu,Hani-Qiepu,hani1248,Hani,hni,Eurasia,23.17492035,102.323801,Sino-Tibetan,Yunnan Honghe Honghe,Qu2020,Yi,Hani-Qiepu,85
+HaniLuchun,Hani- Lvchun,hani1248,Hani,hni,Eurasia,22.9971543,102.4112667,Sino-Tibetan,Yunnan Honghe Luchun,Sun1991,Yi,Hani-Luchun,84
+Haoni,Haoni,honi1244,Honi,how,Eurasia,23.44336047,101.7461037,Sino-Tibetan,Yunnan Pu'er Mojiang,Sun1991,Yi,Haoni,87
+LahuNa,Black Lahu,naaa1244,Na (Lahu),,Eurasia,22.21900429,99.70134153,Sino-Tibetan,Yunnan Pu'er Lancang ,Sun1991,Yi,Lahu Na,
 Ghomozo,Ghomozo,,,,,26.07588114,99.91832807,Sino-Tibetan,Yunnan Dali Eryuan,Yangfieldnotes2008,Yi,Ghomozo,23
-Kuansi,Kuansi,,,,,26.33305556,100.25,Sino-Tibetan,Yunnan Dali Heqing,Castroetal2010,Yi,Kuansi,21
-Lavu,Lavu,,,,,26.67867748,100.7497253,Sino-Tibetan,Yunnan Lijiang Yongsheng,Chen2010,Yi,Lavu,22
-Talu,,,,,,,,Sino-Tibetan,,Chen2010,Yi,Talu,
-Xuzhang,Xuzhang,,,,,25.3277808889014,98.9970677185,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,Xuzhang,7
-WShanglizhuo,W-Shanglizhuo,,,,,25.5235701095129,98.9783729985,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,W-Shanglizhuo,18
-Yangliu,Yangliu,,,,,25.1877608455694,98.9957997747,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,Yangliu,8
-CLeba,C-Leba,,,,,25.0689002786344,99.7199450062,Sino-Tibetan,Yunnan Dali Yongping,Yang2015,Yi,C-Leba,13
-CEYongan,CE-Yong'an,,,,,25.4702511877754,100.2688649899,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,CE-Yong'an,10
-EDiaocao,E-Diaocao,,,,,25.538453,100.2553080000,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Diaocao,1
-EHoushan,E-Houshan,,,,,25.3751828004878,100.4392542886,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Houshan,16
-ETaoshu,E-Taoshu,,,,,25.5683875777243,100.0581570205,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Taoshu,17
-Eka,Eka,,,,,23.4771337655327,99.9422299604,Sino-Tibetan,Yunnan Lincang Shuangjiang,Yang2015,Yi,Eka,6
-SMangdi,S-Mangdi,,,,,23.4690251759836,99.3155123394,Sino-Tibetan,Yunnan Lincang Gengma,Yang2015,Yi,S-Mangdi,19
-CQingsheng,C-Qingsheng,,,,,24.7626241790066,100.6381824686,Sino-Tibetan,Yunnan Pu'er Jingdong,Yang2015,Yi,C-Qingsheng,15
-SEGaoping,SE-Gaoping,,,,,25.2861883382065,100.4230602638,Sino-Tibetan,Yunnan Dali Midu,Yang2015,Yi,SE- Gaoping,9
-CChajiang,C-Chajiang,,,,,24.7221309210054,100.1408171056,Sino-Tibetan,Yunnan Dali Nanjian,Yang2015,Yi,C-Chajiang,14
-CQingyun,C-Qingyun,,,,,25.28985136,100.0455762600,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,C-Qingyun,5
-CLongjie,C-Longjie,,,,,25.2061973057332,100.0334557739,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,C-Longjie,11
-WYilu,W-Yilu,,,,,25.2908485657698,99.6396402988,Sino-Tibetan,Yunnan Dali Yongping,Yang2015,Yi,W- Yilu,2
-WShuizhuping,W-Shuizhuping,,,,,25.3844630607726,99.8436533280,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,W-Shuizhuping,3
-WDutian,W-Dutian,,,,,25.5134482500214,99.8301212214,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,W-Dutian,4
-CWachang,C-Wachang,,,,,25.4166405930704,99.9661329659,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,C-Wachang,12
-Lisu,Lisu,,,,,26.75196842,98.88478072,Sino-Tibetan,Yunnan Nujiang Fugong,Sun1991,Yi,Lisu,29
-LuquanLisu,,,,,,,,Sino-Tibetan,,MuSun2012,Yi,Luquan Lisu,
-TengchongLisu,,,,,,,,Sino-Tibetan,,MuSun2013,Yi,Tengchong Lisu,
-WeixiLisu,,,,,,,,Sino-Tibetan,,MuSun2014,Yi,Weixi Lisu,
-YongshengLisu,,,,,,,,Sino-Tibetan,,MuSun2015,Yi,Yongsheng Lisu,
-CLolo,C Lolo,,,,,25.22012656,100.9674095,Sino-Tibetan,Yunnan Chuxiong Nanhua,YangFlaming2012fieldnotes,Yi,C-Lolo,26
-ELolo,E Lolo,,,,,24.70512501,101.92075,Sino-Tibetan,Yunnan Chuxiong Shuangbai,YangFlaming2012fieldnotes,Yi,E-Lolo,27
-JingguLimi,Jinggu Limi,,,,,23.41161589,100.3939263,Sino-Tibetan,Yunnan Pu'er Jinggu,Zhao2019,Yi,Jinggu Limi,25
-Limi,Limi,,,,,24.2046473,99.70780531,Sino-Tibetan,Yunnan Lincang Yongde,Yang2017,Yi,Limi,24
-Lipo,Lipo,,,,,25.967744,101.469582,Sino-Tibetan,Yunnan Chuxiong Yongren,YangFlaming2012fieldnotes,Yi,Lipo,28
-Maang,Maang,,,,,23.51355699,106.0052758,Sino-Tibetan,Yunnan Wenshan Funing,YYFC1983,Yi,Maang,92
-Mondzi,Mondzi,,,,,23.39918383,105.2343413,Sino-Tibetan,Yunnan Wenshan Malipo,YYFC1983,Yi,Mondzi,93
-Mongi,,,,,,,,Sino-Tibetan,,Chen2010,Yi,Mongi,
-Alo,Alo,,,,,25.937203,102.1064952,Sino-Tibetan,Yunnan Chuxiong Wuding,Chen2010,Yi,Alo,41
-KopoGepo,Kopo (Gepo),,,,,25.51563431,102.4630191,Sino-Tibetan,Yunnan Kunming Luquan,Chen2010,Yi,Kopo (Gepo),49
-Naso,Naso,,,,,26.89835528,102.9271427,Sino-Tibetan,Yunnan Zhaotong Qiaojia,Chen2010,Yi,Naso,43
-Nasu,Nasu,,,,,25.52497193,102.4030928,Sino-Tibetan,Yunnan Kunming Wuding,Chen2010,Yi,Nasu,40
-LuowuNisu,Luowu Nisu,,,,,24.55990379,101.7955965,Sino-Tibetan,Yunnan Chuxiong Shuangbai,Sheninprogress,Yi,Luowu Nisu,45
-Nipu,Nipu,,,,,27.00771251,106.033544,Sino-Tibetan,Guizhou Bijie Qianxi,Chen2010,Yi,Nipu,47
-Nersu,Nersu,,,,,27.141233,104.020331,Sino-Tibetan,Guizhou Bijie Weining,Chen2010,Yi,Nersu,46
+Kuansi,Kuansi,kuan1249,Kua-nsi,ykn,Eurasia,26.33305556,100.25,Sino-Tibetan,Yunnan Dali Heqing,Castroetal2010,Yi,Kuansi,21
+Lavu,Lavu,talu1238,Lavu-Yongsheng-Talu,yta,Eurasia,26.67867748,100.7497253,Sino-Tibetan,Yunnan Lijiang Yongsheng,Chen2010,Yi,Lavu,22
+Talu,Taliu,talu1238,Lavu-Yongsheng-Talu,yta,Eurasia,26.55219217,100.8467043,Sino-Tibetan,Yunnan Lijiang Yongsheng,Chen2010,Yi,Talu,
+Xuzhang,Xuzhang,xuzh1234,Xuzhang Lalo,,Eurasia,25.3277808,98.9970677185,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,Xuzhang,7
+WShanglizhuo,W-Shanglizhuo,west1506,Western Lalu,ywl,Eurasia,25.5235701,98.9783729985,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,W-Shanglizhuo,18
+Yangliu,Yangliu,yang1304,Yangliu,,Eurasia,25.1877608,98.9957997747,Sino-Tibetan,Yunnan Baoshan Longyang,Yang2015,Yi,Yangliu,8
+CLeba,C-Leba,xish1235,Xishanba Lalo,ywt,Eurasia,25.0689002,99.7199450062,Sino-Tibetan,Yunnan Dali Yongping,Yang2015,Yi,C-Leba,13
+CEYongan,CE-Yong'an,dong1286,Dongshanba Lalo,yik,Eurasia,25.470251,100.2688649899,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,CE-Yong'an,10
+EDiaocao,E-Diaocao,,,,,25.538453,100.255308,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Diaocao,1
+EHoushan,E-Houshan,,,,,25.3751828,100.4392542886,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Houshan,16
+ETaoshu,E-Taoshu,,,,,25.568387,100.0581570205,Sino-Tibetan,Yunnan Dali Dali,Yang2015,Yi,E-Taoshu,17
+Eka,Eka,ekaa1234,Eka,,Eurasia,23.4771337,99.9422299604,Sino-Tibetan,Yunnan Lincang Shuangjiang,Yang2015,Yi,Eka,6
+SMangdi,S-Mangdi,sout3210,Southern Lalo,,Eurasia,23.46902517,99.3155123394,Sino-Tibetan,Yunnan Lincang Gengma,Yang2015,Yi,S-Mangdi,19
+CQingsheng,C-Qingsheng,xish1235,Xishanba Lalo,ywt,Eurasia,24.76262417,100.6381824686,Sino-Tibetan,Yunnan Pu'er Jingdong,Yang2015,Yi,C-Qingsheng,15
+SEGaoping,SE-Gaoping,,,,,25.28618833,100.4230602638,Sino-Tibetan,Yunnan Dali Midu,Yang2015,Yi,SE- Gaoping,9
+CChajiang,C-Chajiang,xish1235,Xishanba Lalo,ywt,Eurasia,24.72213,100.1408171056,Sino-Tibetan,Yunnan Dali Nanjian,Yang2015,Yi,C-Chajiang,14
+CQingyun,C-Qingyun,xish1235,Xishanba Lalo,ywt,Eurasia,25.28985136,100.04557626,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,C-Qingyun,5
+CLongjie,C-Longjie,xish1235,Xishanba Lalo,ywt,Eurasia,25.2061973,100.0334557739,Sino-Tibetan,Yunnan Dali Weishan,Yang2015,Yi,C-Longjie,11
+WYilu,W-Yilu,west1506,Western Lalu,ywl,Eurasia,25.2908485,99.6396402988,Sino-Tibetan,Yunnan Dali Yongping,Yang2015,Yi,W- Yilu,2
+WShuizhuping,W-Shuizhuping,west1506,Western Lalu,ywl,Eurasia,25.384463,99.843653328,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,W-Shuizhuping,3
+WDutian,W-Dutian,west1506,Western Lalu,ywl,Eurasia,25.5134482,99.8301212214,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,W-Dutian,4
+CWachang,C-Wachang,xish1235,Xishanba Lalo,ywt,Eurasia,25.41664,99.9661329659,Sino-Tibetan,Yunnan Dali Yangbi,Yang2015,Yi,C-Wachang,12
+Lisu,Lisu,nort3298,Northern Lisu,,Eurasia,26.75196842,98.88478072,Sino-Tibetan,Yunnan Nujiang Fugong,Sun1991,Yi,Lisu,29
+LuquanLisu,,lipo1242,Lipo,lpo,Eurasia,26.0231313,102.52303209,Sino-Tibetan,Yunnan Chuxiong Luquan,MuSun2012,Yi,Luquan Lisu,
+TengchongLisu,,hual1240,Central Lisu,,Eurasia,25.0380779,98.48637722,Sino-Tibetan,Yunnan Baoshan Tengchong,MuSun2012,Yi,Tengchong Lisu,
+WeixiLisu,,nort3298,Northern Lisu,,Eurasia,27.1570718,99.2852265,Sino-Tibetan,Yunnan Diqing Weixi,MuSun2012,Yi,Weixi Lisu,
+YongshengLisu,,hual1240,Central Lisu,,Eurasia,26.6783555,100.74747785,Sino-Tibetan,Yunnan Lijiang Yongsheng,MuSun2012,Yi,Yongsheng Lisu,
+CLolo,C Lolo,nanh1240,Nanhua Lolopho,,Eurasia,25.22012656,100.9674095,Sino-Tibetan,Yunnan Chuxiong Nanhua,YangFlaming2012fieldnotes,Yi,C-Lolo,26
+ELolo,E Lolo,shua1253,Shuangbo Lolopho,,Eurasia,24.70512501,101.92075,Sino-Tibetan,Yunnan Chuxiong Shuangbai,YangFlaming2012fieldnotes,Yi,E-Lolo,27
+JingguLimi,Jinggu Limi,limi1243,Limi,ylm,Eurasia,23.41161589,100.3939263,Sino-Tibetan,Yunnan Pu'er Jinggu,Zhao2019,Yi,Jinggu Limi,25
+Limi,Limi,limi1243,Limi,ylm,Eurasia,24.2046473,99.70780531,Sino-Tibetan,Yunnan Lincang Yongde,Yang2017,Yi,Limi,24
+Lipo,Lipo,lipo1242,Lipo,lpo,Eurasia,25.967744,101.469582,Sino-Tibetan,Yunnan Chuxiong Yongren,YangFlaming2012fieldnotes,Yi,Lipo,28
+Maang,Maang,maan1239,Maang,,Eurasia,23.51355699,106.0052758,Sino-Tibetan,Yunnan Wenshan Funing,YYFC1983,Yi,Maang,92
+Mondzi,Mondzi,mond1267,Mondzi,,Eurasia,23.39918383,105.2343413,Sino-Tibetan,Yunnan Wenshan Malipo,YYFC1983,Yi,Mondzi,93
+Mongi,,mond1267,Mondzi,,Eurasia,23.39918383,105.2343413,Sino-Tibetan,Yunnan Wenshan Malipo,Chen2010,Yi,Mongi,
+Alo,Alo,aluo1235,Aluo,yna,Eurasia,25.937203,102.1064952,Sino-Tibetan,Yunnan Chuxiong Wuding,Chen2010,Yi,Alo,41
+KopoGepo,Kopo (Gepo),gepo1234,Gepo,ygp,Eurasia,25.51563431,102.4630191,Sino-Tibetan,Yunnan Kunming Luquan,Chen2010,Yi,Kopo (Gepo),49
+Naso,Naso,wume1235,Wumeng Nasu,ywu,Eurasia,26.89835528,102.9271427,Sino-Tibetan,Yunnan Zhaotong Qiaojia,Chen2010,Yi,Naso,43
+Nasu,Nasu,luqu1238,Luquan Naso,,Eurasia,25.52497193,102.4030928,Sino-Tibetan,Yunnan Kunming Wuding,Chen2010,Yi,Nasu,40
+LuowuNisu,Luowu Nisu,luqu1238,Luquan Naso,,Eurasia,24.55990379,101.7955965,Sino-Tibetan,Yunnan Chuxiong Shuangbai,Sheninprogress,Yi,Luowu Nisu,45
+Nipu,Nipu,wusa1235,Wusa Nasu,yig,Eurasia,27.00771251,106.033544,Sino-Tibetan,Guizhou Bijie Qianxi,Chen2010,Yi,Nipu,47
+Nersu,Nersu,wein1239,Weining Yi,,Eurasia,27.141233,104.020331,Sino-Tibetan,Guizhou Bijie Weining,Chen2010,Yi,Nersu,46
 Nise,Nise,,,,,24.68802092,103.6001565,Sino-Tibetan,Yunnan Kunming Shilin,Chen2010,Yi,Nise,42
-LaowuNisu,Laowu Nisu,,,,,25.74329166,99.57814539,Sino-Tibetan,Yunnan Dali Yunlong,YangWenjing2018,Yi,Laowu Nisu,44
+LaowuNisu,Laowu Nisu,farn1234,Far Northwestern Nisu,nsf,Eurasia,25.74329166,99.57814539,Sino-Tibetan,Yunnan Dali Yunlong,YangWenjing2018,Yi,Laowu Nisu,44
 Noso,Noso,,,,,25.71000184,104.4715351,Sino-Tibetan,Guizhou Anshun Panxian,Chen2010,Yi,Noso,48
-Narsu,Narsu (NW Nisu),,,,,24.25746171,102.0476517,Sino-Tibetan,Yunnan Yuxi Eshan,Chen2010,Yi,Narsu,59
-Neshu,,,,,,,,Sino-Tibetan,,Chen2010,Yi,Neshu,
-Nesu,,,,,,,,Sino-Tibetan,,Chen2010,Yi,Nesu,
+Narsu,Narsu (NW Nisu),esha1238,Eshan Nasu,,Eurasia,24.25746171,102.0476517,Sino-Tibetan,Yunnan Yuxi Eshan,Chen2010,Yi,Narsu,59
+Neshu,,xinp1238,Xinping Nisu,,Eurasia,24.13820926,101.6461907,Sino-Tibetan,Yunnan Yuxi Xinping,Chen2010,Yi,Neshu,
+Nesu,,xinp1238,Xinping Nisu,,Eurasia,22.623138,101.90012074,Sino-Tibetan,Yunnan Pu'er Jiangcheng,Chen2010,Yi,Nesu,
 LopeAwuChen2010,Lope (Awu),,,,,24.25668563,103.6428899,Sino-Tibetan,Yunnan Honghe Mile,Chen2010,Yi,Lope (Awu) (Chen 2010),61
 LopeAwuYYFC1983,Lope (Awu)2,,,,,24.25668563,103.6428899,Sino-Tibetan,Yunnan Honghe Mile,YYFC1983,Yi,Lope (Awu) (YYFC 1983),62
-NNisu,N Nisu,,,,,24.13820926,101.6461907,Sino-Tibetan,Yunnan Yuxi Xinping,Yang2009,Yi,N. Nisu,57
-SNisu,S Nisu,,,,,23.32715901,102.326438,Sino-Tibetan,Yunnan Honghe Honghe,Yang2009,Yi,S. Nisu,58
+NNisu,N Nisu,xinp1238,Xinping Nisu,,Eurasia,24.13820926,101.6461907,Sino-Tibetan,Yunnan Yuxi Xinping,Yang2009,Yi,N. Nisu,57
+SNisu,S Nisu,sout2723,Southern Nisu,nsd,Eurasia,23.32715901,102.326438,Sino-Tibetan,Yunnan Honghe Honghe,Yang2009,Yi,S. Nisu,58
 Lidim,Lidim (Tianba),,,,,28.96606783,102.7717472,Sino-Tibetan,Sichuan Liangshan Ganluo,Chen2010,Yi,Lidim,38
-NuosuHuangDai1992,,,,,,,,Sino-Tibetan,,HuangDai1992,Yi,Nuosu (Huang & Dai 1992),
-NosuXide,Nosu (Senza),,,,,28.30672651,102.4125175,Sino-Tibetan,Sichuan Liangshan Xide,YYFC1983,Yi,Nosu (Xide),36
-Sodi,Sodi,,,,,26.65502606,102.2446829,Sino-Tibetan,Sichuan Liangshan Huili,Chen2010,Yi,Sodi,39
-Senza,,,,,,,,Sino-Tibetan,,Chen2010,Yi,Senza,
-Yino,Yino,,,,,28.32864,103.1321792,Sino-Tibetan,Sichuan Liangshan Meigu,Chen2010,Yi,Yino,37
-Axi,Axi,,,,,24.441446,103.268645,Sino-Tibetan,Yunnan Honghe Mile,YYFC1983,Yi,Axi,52
-Azhe,Azhe,,,,,24.32964102,103.119097,Sino-Tibetan,Yunnan Honghe Mile,YYFC1983,Yi,Azhe,53
-Sani,Sani,,,,,24.77179693,103.290785,Sino-Tibetan,Yunnan Kunming Shilin,Chen2010,Yi,Sani,51
-AzhaazaPelkey2011,Azha,,,,,23.54166649,104.1861823,Sino-Tibetan,Yunnan Wenshan Wenshan,Pelkey2011,Yi,Azha [aza] Pelkey 2011,54
-SanniSanie,Sanni (Sanie),,,,,25.04887917,102.6362707,Sino-Tibetan,Yunnan Kunming Xishan,Chen2010,Yi,Sanni (Sanie),50
-Pholaypg,Up: Phola,,,,,23.456381,102.286862,Sino-Tibetan,"Yunnan LDC (Phola): Yuanjiang County, Wadie, Luodie Yuanjiang",Pelkey2011,Yi,Phola [ypg],78
-Phuzaypz,Phuza,,,,,23.253698,103.332621,Sino-Tibetan,"Yunnan BJB (Phuza): Mengzi County, Lengquan, Bujibai 蒙自县冷泉镇补鸡白 Mengzi",Pelkey2012,Yi,Phuza [ypz],82
-SouthernMujiymc,S. Muji,,,,,22.895906,103.222074,Sino-Tibetan,"Yunnan PJZ (Muji, Southern): Jinping County, Adebo, Pujiazhai 金平县阿得博乡普家寨 Jinping",Pelkey2013,Yi,Southern Muji [ymc],64
-HlephoPhowayhl,Hlepho,,,,,23.33390151,103.7217585,Sino-Tibetan,"Yunnan FZK (Phowa, Hlepho): Pingbian County, Xinhua, Feizuke Pingbian",Pelkey2014,Yi,Hlepho Phowa [yhl],74
-Kazhuo,,,,,,,,Sino-Tibetan,,HuangDai1992,Yi,Kazhuo,
-LawuXinpingShuitangJiuha,Lawu,,,,,24.1338571,101.4986393,Sino-Tibetan,Yunnan Yuxi Xinping,Yang2012,Yi,Lawu-Xinping Shuitang Jiuha,56
-Toloza,Toloza,,,,,26.62042438,100.0342986,Sino-Tibetan,Yunnan Lijiang Yulong,Chen2010,Yi,Toloza,60
+NuosuHuangDai1992,,yish1238,Yishengzha Yi,,Eurasia,28.30672651,102.4125175,Sino-Tibetan,Sichuan Liangshan Xide,HuangDai1992,Yi,Nuosu (Huang & Dai 1992),
+NosuXide,Nosu (Senza),yish1238,Yishengzha Yi,,Eurasia,28.30672651,102.4125175,Sino-Tibetan,Sichuan Liangshan Xide,YYFC1983,Yi,Nosu (Xide),36
+Sodi,Sodi,huil1243,Huili Yi,,Eurasia,26.65502606,102.2446829,Sino-Tibetan,Sichuan Liangshan Huili,Chen2010,Yi,Sodi,39
+Senza,,yish1238,Yishengzha Yi,,Eurasia,28.30672651,102.4125175,Sino-Tibetan,Sichuan Liangshan Xide,Chen2010,Yi,Senza,
+Yino,Yino,yinu1238,Yinuo Yi,,Eurasia,28.32864,103.1321792,Sino-Tibetan,Sichuan Liangshan Meigu,Chen2010,Yi,Yino,37
+Axi,Axi,axiy1235,Axi Yi,yix,Eurasia,24.441446,103.268645,Sino-Tibetan,Yunnan Honghe Mile,YYFC1983,Yi,Axi,52
+Azhe,Azhe,azhe1235,Azhe,yiz,Eurasia,24.32964102,103.119097,Sino-Tibetan,Yunnan Honghe Mile,YYFC1983,Yi,Azhe,53
+Sani,Sani,sani1269,Sani,ysn,Eurasia,24.77179693,103.290785,Sino-Tibetan,Yunnan Kunming Shilin,Chen2010,Yi,Sani,51
+AzhaazaPelkey2011,Azha,azha1235,Azha,aza,Eurasia,23.54166649,104.1861823,Sino-Tibetan,Yunnan Wenshan Wenshan,Pelkey2011,Yi,Azha [aza] Pelkey 2011,54
+SanniSanie,Sanni (Sanie),sani1265,Sanie,ysy,Eurasia,25.04887917,102.6362707,Sino-Tibetan,Yunnan Kunming Xishan,Chen2010,Yi,Sanni (Sanie),50
+Pholaypg,Up: Phola,phol1237,Phola,ypg,Eurasia,23.456381,102.286862,Sino-Tibetan,"Yunnan Yuanjiang, Wadie, Luodie Yuanjiang",Pelkey2011,Yi,Phola [ypg],78
+Phuzaypz,Phuza,phuz1235,Phuza,ypz,Eurasia,23.253698,103.332621,Sino-Tibetan,"Yunnan Mengzi County, Lengquan, Bujibai",Pelkey2011,Yi,Phuza [ypz],82
+SouthernMujiymc,S. Muji,sout2722,Southern Muji,ymc,Eurasia,22.895906,103.222074,Sino-Tibetan,"Yunnan Jinping County, Adebo, Pujiazhai ",Pelkey2011,Yi,Southern Muji [ymc],64
+HlephoPhowayhl,Hlepho,hlep1236,Hlepho Phowa,yhl,Eurasia,23.33390151,103.7217585,Sino-Tibetan,"Yunnan Pingbian County, Xinhua, Feizuke Pingbian",Pelkey2011,Yi,Hlepho Phowa [yhl],74
+Kazhuo,,kats1235,Katso,kaf,Eurasia,24.1478565,102.6653471,Sino-Tibetan,Yunnan Yuxi Tonghai,HuangDai1992,Yi,Kazhuo,
+LawuXinpingShuitangJiuha,Lawu,lawu1238,Lawu,lwu,Eurasia,24.1338571,101.4986393,Sino-Tibetan,Yunnan Yuxi Xinping,Yang2012,Yi,Lawu-Xinping Shuitang Jiuha,56
+Toloza,Toloza,tang1372,Tanglang-Toloza,ytl,Eurasia,26.62042438,100.0342986,Sino-Tibetan,Yunnan Lijiang Yulong,Chen2010,Yi,Toloza,60
