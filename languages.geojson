@@ -1,0 +1,1665 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.258828,
+          23.28989
+        ]
+      },
+      "properties": {
+        "Name": "Hani-Longwei",
+        "Glottocode": "hani1248",
+        "Glottolog_Name": "Hani",
+        "ISO639P3code": "hni",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Honghe",
+        "Source": "Changfieldnotes",
+        "SubGroup": "Yi",
+        "NameInData": "Hani-Longwei",
+        "Number": "86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.323801,
+          23.17492035
+        ]
+      },
+      "properties": {
+        "Name": "Hani-Qiepu",
+        "Glottocode": "hani1248",
+        "Glottolog_Name": "Hani",
+        "ISO639P3code": "hni",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Honghe",
+        "Source": "Qu2020",
+        "SubGroup": "Yi",
+        "NameInData": "Hani-Qiepu",
+        "Number": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4112667,
+          22.9971543
+        ]
+      },
+      "properties": {
+        "Name": "Hani- Lvchun",
+        "Glottocode": "hani1248",
+        "Glottolog_Name": "Hani",
+        "ISO639P3code": "hni",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Luchun",
+        "Source": "Sun1991",
+        "SubGroup": "Yi",
+        "NameInData": "Hani-Luchun",
+        "Number": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7461037,
+          23.44336047
+        ]
+      },
+      "properties": {
+        "Name": "Haoni",
+        "Glottocode": "honi1244",
+        "Glottolog_Name": "Honi",
+        "ISO639P3code": "how",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pu'er Mojiang",
+        "Source": "Sun1991",
+        "SubGroup": "Yi",
+        "NameInData": "Haoni",
+        "Number": "87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.70134153,
+          22.21900429
+        ]
+      },
+      "properties": {
+        "Name": "Black Lahu",
+        "Glottocode": "naaa1244",
+        "Glottolog_Name": "Na (Lahu)",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pu'er Lancang ",
+        "Source": "Sun1991",
+        "SubGroup": "Yi",
+        "NameInData": "Lahu Na"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.91832807,
+          26.07588114
+        ]
+      },
+      "properties": {
+        "Name": "Ghomozo",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Eryuan",
+        "Source": "Yangfieldnotes2008",
+        "SubGroup": "Yi",
+        "NameInData": "Ghomozo",
+        "Number": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.25,
+          26.33305556
+        ]
+      },
+      "properties": {
+        "Name": "Kuansi",
+        "Glottocode": "kuan1249",
+        "Glottolog_Name": "Kua-nsi",
+        "ISO639P3code": "ykn",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Heqing",
+        "Source": "Castroetal2010",
+        "SubGroup": "Yi",
+        "NameInData": "Kuansi",
+        "Number": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7497253,
+          26.67867748
+        ]
+      },
+      "properties": {
+        "Name": "Lavu",
+        "Glottocode": "talu1238",
+        "Glottolog_Name": "Lavu-Yongsheng-Talu",
+        "ISO639P3code": "yta",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lijiang Yongsheng",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Lavu",
+        "Number": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8467043,
+          26.55219217
+        ]
+      },
+      "properties": {
+        "Name": "Taliu",
+        "Glottocode": "talu1238",
+        "Glottolog_Name": "Lavu-Yongsheng-Talu",
+        "ISO639P3code": "yta",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lijiang Yongsheng",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Talu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9970677185,
+          25.3277808
+        ]
+      },
+      "properties": {
+        "Name": "Xuzhang",
+        "Glottocode": "xuzh1234",
+        "Glottolog_Name": "Xuzhang Lalo",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Baoshan Longyang",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "Xuzhang",
+        "Number": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9783729985,
+          25.5235701
+        ]
+      },
+      "properties": {
+        "Name": "W-Shanglizhuo",
+        "Glottocode": "west1506",
+        "Glottolog_Name": "Western Lalu",
+        "ISO639P3code": "ywl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Baoshan Longyang",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "W-Shanglizhuo",
+        "Number": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9957997747,
+          25.1877608
+        ]
+      },
+      "properties": {
+        "Name": "Yangliu",
+        "Glottocode": "yang1304",
+        "Glottolog_Name": "Yangliu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Baoshan Longyang",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "Yangliu",
+        "Number": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.7199450062,
+          25.0689002
+        ]
+      },
+      "properties": {
+        "Name": "C-Leba",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yongping",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Leba",
+        "Number": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2688649899,
+          25.470251
+        ]
+      },
+      "properties": {
+        "Name": "CE-Yong'an",
+        "Glottocode": "dong1286",
+        "Glottolog_Name": "Dongshanba Lalo",
+        "ISO639P3code": "yik",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Weishan",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "CE-Yong'an",
+        "Number": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.255308,
+          25.538453
+        ]
+      },
+      "properties": {
+        "Name": "E-Diaocao",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Dali",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "E-Diaocao",
+        "Number": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4392542886,
+          25.3751828
+        ]
+      },
+      "properties": {
+        "Name": "E-Houshan",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Dali",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "E-Houshan",
+        "Number": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0581570205,
+          25.568387
+        ]
+      },
+      "properties": {
+        "Name": "E-Taoshu",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Dali",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "E-Taoshu",
+        "Number": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9422299604,
+          23.4771337
+        ]
+      },
+      "properties": {
+        "Name": "Eka",
+        "Glottocode": "ekaa1234",
+        "Glottolog_Name": "Eka",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lincang Shuangjiang",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "Eka",
+        "Number": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3155123394,
+          23.46902517
+        ]
+      },
+      "properties": {
+        "Name": "S-Mangdi",
+        "Glottocode": "sout3210",
+        "Glottolog_Name": "Southern Lalo",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lincang Gengma",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "S-Mangdi",
+        "Number": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6381824686,
+          24.76262417
+        ]
+      },
+      "properties": {
+        "Name": "C-Qingsheng",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pu'er Jingdong",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Qingsheng",
+        "Number": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4230602638,
+          25.28618833
+        ]
+      },
+      "properties": {
+        "Name": "SE-Gaoping",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Midu",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "SE- Gaoping",
+        "Number": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1408171056,
+          24.72213
+        ]
+      },
+      "properties": {
+        "Name": "C-Chajiang",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Nanjian",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Chajiang",
+        "Number": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.04557626,
+          25.28985136
+        ]
+      },
+      "properties": {
+        "Name": "C-Qingyun",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Weishan",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Qingyun",
+        "Number": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0334557739,
+          25.2061973
+        ]
+      },
+      "properties": {
+        "Name": "C-Longjie",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Weishan",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Longjie",
+        "Number": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6396402988,
+          25.2908485
+        ]
+      },
+      "properties": {
+        "Name": "W-Yilu",
+        "Glottocode": "west1506",
+        "Glottolog_Name": "Western Lalu",
+        "ISO639P3code": "ywl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yongping",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "W- Yilu",
+        "Number": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.843653328,
+          25.384463
+        ]
+      },
+      "properties": {
+        "Name": "W-Shuizhuping",
+        "Glottocode": "west1506",
+        "Glottolog_Name": "Western Lalu",
+        "ISO639P3code": "ywl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yangbi",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "W-Shuizhuping",
+        "Number": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8301212214,
+          25.5134482
+        ]
+      },
+      "properties": {
+        "Name": "W-Dutian",
+        "Glottocode": "west1506",
+        "Glottolog_Name": "Western Lalu",
+        "ISO639P3code": "ywl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yangbi",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "W-Dutian",
+        "Number": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9661329659,
+          25.41664
+        ]
+      },
+      "properties": {
+        "Name": "C-Wachang",
+        "Glottocode": "xish1235",
+        "Glottolog_Name": "Xishanba Lalo",
+        "ISO639P3code": "ywt",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yangbi",
+        "Source": "Yang2015",
+        "SubGroup": "Yi",
+        "NameInData": "C-Wachang",
+        "Number": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.88478072,
+          26.75196842
+        ]
+      },
+      "properties": {
+        "Name": "Lisu",
+        "Glottocode": "nort3298",
+        "Glottolog_Name": "Northern Lisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Nujiang Fugong",
+        "Source": "Sun1991",
+        "SubGroup": "Yi",
+        "NameInData": "Lisu",
+        "Number": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.52303209,
+          26.0231313
+        ]
+      },
+      "properties": {
+        "Glottocode": "lipo1242",
+        "Glottolog_Name": "Lipo",
+        "ISO639P3code": "lpo",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Luquan",
+        "Source": "MuSun2012",
+        "SubGroup": "Yi",
+        "NameInData": "Luquan Lisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.48637722,
+          25.0380779
+        ]
+      },
+      "properties": {
+        "Glottocode": "hual1240",
+        "Glottolog_Name": "Central Lisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Baoshan Tengchong",
+        "Source": "MuSun2012",
+        "SubGroup": "Yi",
+        "NameInData": "Tengchong Lisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2852265,
+          27.1570718
+        ]
+      },
+      "properties": {
+        "Glottocode": "nort3298",
+        "Glottolog_Name": "Northern Lisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Diqing Weixi",
+        "Source": "MuSun2012",
+        "SubGroup": "Yi",
+        "NameInData": "Weixi Lisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.74747785,
+          26.6783555
+        ]
+      },
+      "properties": {
+        "Glottocode": "hual1240",
+        "Glottolog_Name": "Central Lisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lijiang Yongsheng",
+        "Source": "MuSun2012",
+        "SubGroup": "Yi",
+        "NameInData": "Yongsheng Lisu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9674095,
+          25.22012656
+        ]
+      },
+      "properties": {
+        "Name": "C Lolo",
+        "Glottocode": "nanh1240",
+        "Glottolog_Name": "Nanhua Lolopho",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Nanhua",
+        "Source": "YangFlaming2012fieldnotes",
+        "SubGroup": "Yi",
+        "NameInData": "C-Lolo",
+        "Number": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.92075,
+          24.70512501
+        ]
+      },
+      "properties": {
+        "Name": "E Lolo",
+        "Glottocode": "shua1253",
+        "Glottolog_Name": "Shuangbo Lolopho",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Shuangbai",
+        "Source": "YangFlaming2012fieldnotes",
+        "SubGroup": "Yi",
+        "NameInData": "E-Lolo",
+        "Number": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3939263,
+          23.41161589
+        ]
+      },
+      "properties": {
+        "Name": "Jinggu Limi",
+        "Glottocode": "limi1243",
+        "Glottolog_Name": "Limi",
+        "ISO639P3code": "ylm",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pu'er Jinggu",
+        "Source": "Zhao2019",
+        "SubGroup": "Yi",
+        "NameInData": "Jinggu Limi",
+        "Number": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.70780531,
+          24.2046473
+        ]
+      },
+      "properties": {
+        "Name": "Limi",
+        "Glottocode": "limi1243",
+        "Glottolog_Name": "Limi",
+        "ISO639P3code": "ylm",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lincang Yongde",
+        "Source": "Yang2017",
+        "SubGroup": "Yi",
+        "NameInData": "Limi",
+        "Number": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.469582,
+          25.967744
+        ]
+      },
+      "properties": {
+        "Name": "Lipo",
+        "Glottocode": "lipo1242",
+        "Glottolog_Name": "Lipo",
+        "ISO639P3code": "lpo",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Yongren",
+        "Source": "YangFlaming2012fieldnotes",
+        "SubGroup": "Yi",
+        "NameInData": "Lipo",
+        "Number": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0052758,
+          23.51355699
+        ]
+      },
+      "properties": {
+        "Name": "Maang",
+        "Glottocode": "maan1239",
+        "Glottolog_Name": "Maang",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Wenshan Funing",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Maang",
+        "Number": "92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2343413,
+          23.39918383
+        ]
+      },
+      "properties": {
+        "Name": "Mondzi",
+        "Glottocode": "mond1267",
+        "Glottolog_Name": "Mondzi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Wenshan Malipo",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Mondzi",
+        "Number": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2343413,
+          23.39918383
+        ]
+      },
+      "properties": {
+        "Glottocode": "mond1267",
+        "Glottolog_Name": "Mondzi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Wenshan Malipo",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Mongi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1064952,
+          25.937203
+        ]
+      },
+      "properties": {
+        "Name": "Alo",
+        "Glottocode": "aluo1235",
+        "Glottolog_Name": "Aluo",
+        "ISO639P3code": "yna",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Wuding",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Alo",
+        "Number": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4630191,
+          25.51563431
+        ]
+      },
+      "properties": {
+        "Name": "Kopo (Gepo)",
+        "Glottocode": "gepo1234",
+        "Glottolog_Name": "Gepo",
+        "ISO639P3code": "ygp",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Kunming Luquan",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Kopo (Gepo)",
+        "Number": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.9271427,
+          26.89835528
+        ]
+      },
+      "properties": {
+        "Name": "Naso",
+        "Glottocode": "wume1235",
+        "Glottolog_Name": "Wumeng Nasu",
+        "ISO639P3code": "ywu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Zhaotong Qiaojia",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Naso",
+        "Number": "43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4030928,
+          25.52497193
+        ]
+      },
+      "properties": {
+        "Name": "Nasu",
+        "Glottocode": "luqu1238",
+        "Glottolog_Name": "Luquan Naso",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Kunming Wuding",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Nasu",
+        "Number": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7955965,
+          24.55990379
+        ]
+      },
+      "properties": {
+        "Name": "Luowu Nisu",
+        "Glottocode": "luqu1238",
+        "Glottolog_Name": "Luquan Naso",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Chuxiong Shuangbai",
+        "Source": "Sheninprogress",
+        "SubGroup": "Yi",
+        "NameInData": "Luowu Nisu",
+        "Number": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.033544,
+          27.00771251
+        ]
+      },
+      "properties": {
+        "Name": "Nipu",
+        "Glottocode": "wusa1235",
+        "Glottolog_Name": "Wusa Nasu",
+        "ISO639P3code": "yig",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Guizhou Bijie Qianxi",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Nipu",
+        "Number": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.020331,
+          27.141233
+        ]
+      },
+      "properties": {
+        "Name": "Nersu",
+        "Glottocode": "wein1239",
+        "Glottolog_Name": "Weining Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Guizhou Bijie Weining",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Nersu",
+        "Number": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6001565,
+          24.68802092
+        ]
+      },
+      "properties": {
+        "Name": "Nise",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Kunming Shilin",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Nise",
+        "Number": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.57814539,
+          25.74329166
+        ]
+      },
+      "properties": {
+        "Name": "Laowu Nisu",
+        "Glottocode": "farn1234",
+        "Glottolog_Name": "Far Northwestern Nisu",
+        "ISO639P3code": "nsf",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Dali Yunlong",
+        "Source": "YangWenjing2018",
+        "SubGroup": "Yi",
+        "NameInData": "Laowu Nisu",
+        "Number": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4715351,
+          25.71000184
+        ]
+      },
+      "properties": {
+        "Name": "Noso",
+        "Family": "Sino-Tibetan",
+        "Location": "Guizhou Anshun Panxian",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Noso",
+        "Number": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0476517,
+          24.25746171
+        ]
+      },
+      "properties": {
+        "Name": "Narsu (NW Nisu)",
+        "Glottocode": "esha1238",
+        "Glottolog_Name": "Eshan Nasu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuxi Eshan",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Narsu",
+        "Number": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6461907,
+          24.13820926
+        ]
+      },
+      "properties": {
+        "Glottocode": "xinp1238",
+        "Glottolog_Name": "Xinping Nisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuxi Xinping",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Neshu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.90012074,
+          22.623138
+        ]
+      },
+      "properties": {
+        "Glottocode": "xinp1238",
+        "Glottolog_Name": "Xinping Nisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pu'er Jiangcheng",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Nesu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6428899,
+          24.25668563
+        ]
+      },
+      "properties": {
+        "Name": "Lope (Awu)",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Mile",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Lope (Awu) (Chen 2010)",
+        "Number": "61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6428899,
+          24.25668563
+        ]
+      },
+      "properties": {
+        "Name": "Lope (Awu)2",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Mile",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Lope (Awu) (YYFC 1983)",
+        "Number": "62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6461907,
+          24.13820926
+        ]
+      },
+      "properties": {
+        "Name": "N Nisu",
+        "Glottocode": "xinp1238",
+        "Glottolog_Name": "Xinping Nisu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuxi Xinping",
+        "Source": "Yang2009",
+        "SubGroup": "Yi",
+        "NameInData": "N. Nisu",
+        "Number": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.326438,
+          23.32715901
+        ]
+      },
+      "properties": {
+        "Name": "S Nisu",
+        "Glottocode": "sout2723",
+        "Glottolog_Name": "Southern Nisu",
+        "ISO639P3code": "nsd",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Honghe",
+        "Source": "Yang2009",
+        "SubGroup": "Yi",
+        "NameInData": "S. Nisu",
+        "Number": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7717472,
+          28.96606783
+        ]
+      },
+      "properties": {
+        "Name": "Lidim (Tianba)",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Ganluo",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Lidim",
+        "Number": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4125175,
+          28.30672651
+        ]
+      },
+      "properties": {
+        "Glottocode": "yish1238",
+        "Glottolog_Name": "Yishengzha Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Xide",
+        "Source": "HuangDai1992",
+        "SubGroup": "Yi",
+        "NameInData": "Nuosu (Huang & Dai 1992)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4125175,
+          28.30672651
+        ]
+      },
+      "properties": {
+        "Name": "Nosu (Senza)",
+        "Glottocode": "yish1238",
+        "Glottolog_Name": "Yishengzha Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Xide",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Nosu (Xide)",
+        "Number": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2446829,
+          26.65502606
+        ]
+      },
+      "properties": {
+        "Name": "Sodi",
+        "Glottocode": "huil1243",
+        "Glottolog_Name": "Huili Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Huili",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Sodi",
+        "Number": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4125175,
+          28.30672651
+        ]
+      },
+      "properties": {
+        "Glottocode": "yish1238",
+        "Glottolog_Name": "Yishengzha Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Xide",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Senza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1321792,
+          28.32864
+        ]
+      },
+      "properties": {
+        "Name": "Yino",
+        "Glottocode": "yinu1238",
+        "Glottolog_Name": "Yinuo Yi",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Sichuan Liangshan Meigu",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Yino",
+        "Number": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.268645,
+          24.441446
+        ]
+      },
+      "properties": {
+        "Name": "Axi",
+        "Glottocode": "axiy1235",
+        "Glottolog_Name": "Axi Yi",
+        "ISO639P3code": "yix",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Mile",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Axi",
+        "Number": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.119097,
+          24.32964102
+        ]
+      },
+      "properties": {
+        "Name": "Azhe",
+        "Glottocode": "azhe1235",
+        "Glottolog_Name": "Azhe",
+        "ISO639P3code": "yiz",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Honghe Mile",
+        "Source": "YYFC1983",
+        "SubGroup": "Yi",
+        "NameInData": "Azhe",
+        "Number": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.290785,
+          24.77179693
+        ]
+      },
+      "properties": {
+        "Name": "Sani",
+        "Glottocode": "sani1269",
+        "Glottolog_Name": "Sani",
+        "ISO639P3code": "ysn",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Kunming Shilin",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Sani",
+        "Number": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1861823,
+          23.54166649
+        ]
+      },
+      "properties": {
+        "Name": "Azha",
+        "Glottocode": "azha1235",
+        "Glottolog_Name": "Azha",
+        "ISO639P3code": "aza",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Wenshan Wenshan",
+        "Source": "Pelkey2011",
+        "SubGroup": "Yi",
+        "NameInData": "Azha [aza] Pelkey 2011",
+        "Number": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6362707,
+          25.04887917
+        ]
+      },
+      "properties": {
+        "Name": "Sanni (Sanie)",
+        "Glottocode": "sani1265",
+        "Glottolog_Name": "Sanie",
+        "ISO639P3code": "ysy",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Kunming Xishan",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Sanni (Sanie)",
+        "Number": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.286862,
+          23.456381
+        ]
+      },
+      "properties": {
+        "Name": "Up: Phola",
+        "Glottocode": "phol1237",
+        "Glottolog_Name": "Phola",
+        "ISO639P3code": "ypg",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuanjiang, Wadie, Luodie Yuanjiang",
+        "Source": "Pelkey2011",
+        "SubGroup": "Yi",
+        "NameInData": "Phola [ypg]",
+        "Number": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.332621,
+          23.253698
+        ]
+      },
+      "properties": {
+        "Name": "Phuza",
+        "Glottocode": "phuz1235",
+        "Glottolog_Name": "Phuza",
+        "ISO639P3code": "ypz",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Mengzi County, Lengquan, Bujibai",
+        "Source": "Pelkey2011",
+        "SubGroup": "Yi",
+        "NameInData": "Phuza [ypz]",
+        "Number": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.222074,
+          22.895906
+        ]
+      },
+      "properties": {
+        "Name": "S. Muji",
+        "Glottocode": "sout2722",
+        "Glottolog_Name": "Southern Muji",
+        "ISO639P3code": "ymc",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Jinping County, Adebo, Pujiazhai ",
+        "Source": "Pelkey2011",
+        "SubGroup": "Yi",
+        "NameInData": "Southern Muji [ymc]",
+        "Number": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7217585,
+          23.33390151
+        ]
+      },
+      "properties": {
+        "Name": "Hlepho",
+        "Glottocode": "hlep1236",
+        "Glottolog_Name": "Hlepho Phowa",
+        "ISO639P3code": "yhl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Pingbian County, Xinhua, Feizuke Pingbian",
+        "Source": "Pelkey2011",
+        "SubGroup": "Yi",
+        "NameInData": "Hlepho Phowa [yhl]",
+        "Number": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6653471,
+          24.1478565
+        ]
+      },
+      "properties": {
+        "Glottocode": "kats1235",
+        "Glottolog_Name": "Katso",
+        "ISO639P3code": "kaf",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuxi Tonghai",
+        "Source": "HuangDai1992",
+        "SubGroup": "Yi",
+        "NameInData": "Kazhuo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4986393,
+          24.1338571
+        ]
+      },
+      "properties": {
+        "Name": "Lawu",
+        "Glottocode": "lawu1238",
+        "Glottolog_Name": "Lawu",
+        "ISO639P3code": "lwu",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Yuxi Xinping",
+        "Source": "Yang2012",
+        "SubGroup": "Yi",
+        "NameInData": "Lawu-Xinping Shuitang Jiuha",
+        "Number": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0342986,
+          26.62042438
+        ]
+      },
+      "properties": {
+        "Name": "Toloza",
+        "Glottocode": "tang1372",
+        "Glottolog_Name": "Tanglang-Toloza",
+        "ISO639P3code": "ytl",
+        "Macroarea": "Eurasia",
+        "Family": "Sino-Tibetan",
+        "Location": "Yunnan Lijiang Yulong",
+        "Source": "Chen2010",
+        "SubGroup": "Yi",
+        "NameInData": "Toloza",
+        "Number": "60"
+      }
+    }
+  ]
+}
