@@ -28,10 +28,10 @@ WShuizhuping	3	W-Shuizhuping	W-Shuizhuping	west1506	Yang2015	25.384463	99.843653
 WDutian	4	W-Dutian	W-Dutian	west1506	Yang2015	25.5134482	99.8301212214	Yunnan Dali Yangbi
 CWachang	12	C-Wachang	C-Wachang	xish1235	Yang2015	25.41664	99.9661329659	Yunnan Dali Yangbi
 Lisu	29	Lisu	Lisu	nort3298	Sun1991	26.75196842	98.88478072	Yunnan Nujiang Fugong
-LuquanLisu			Luquan Lisu	lipo1242	MuSun2012	26.0231313	102.52303209	Yunnan Chuxiong Luquan
-TengchongLisu			Tengchong Lisu	hual1240	MuSun2012	25.0380779	98.48637722	Yunnan Baoshan Tengchong
-WeixiLisu			Weixi Lisu	nort3298	MuSun2012	27.1570718	99.2852265	Yunnan Diqing Weixi
-YongshengLisu			Yongsheng Lisu	hual1240	MuSun2012	26.6783555	100.74747785	Yunnan Lijiang Yongsheng
+LuquanLisu		Luquan Lisu	Luquan Lisu	lipo1242	MuSun2012	26.0231313	102.52303209	Yunnan Chuxiong Luquan
+TengchongLisu		Tengchong Lisu	Tengchong Lisu	hual1240	MuSun2012	25.0380779	98.48637722	Yunnan Baoshan Tengchong
+WeixiLisu		Weixi Lisu	Weixi Lisu	nort3298	MuSun2012	27.1570718	99.2852265	Yunnan Diqing Weixi
+YongshengLisu		Yongsheng Lisu	Yongsheng Lisu	hual1240	MuSun2012	26.6783555	100.74747785	Yunnan Lijiang Yongsheng
 CLolo	26	C Lolo	C-Lolo	nanh1240	YangFlaming2012fieldnotes	25.22012656	100.9674095	Yunnan Chuxiong Nanhua
 ELolo	27	E Lolo	E-Lolo	shua1253	YangFlaming2012fieldnotes	24.70512501	101.92075	Yunnan Chuxiong Shuangbai
 JingguLimi	25	Jinggu Limi	Jinggu Limi	limi1243	Zhao2019	23.41161589	100.3939263	Yunnan Pu'er Jinggu
@@ -39,7 +39,7 @@ Limi	24	Limi	Limi	limi1243	Yang2017	24.2046473	99.70780531	Yunnan Lincang Yongde
 Lipo	28	Lipo	Lipo	lipo1242	YangFlaming2012fieldnotes	25.967744	101.469582	Yunnan Chuxiong Yongren
 Maang	92	Maang	Maang	maan1239	YYFC1983	23.51355699	106.0052758	Yunnan Wenshan Funing
 Mondzi	93	Mondzi	Mondzi	mond1267	YYFC1983	23.39918383	105.2343413	Yunnan Wenshan Malipo
-Mongi			Mongi	mond1267	Chen2010	23.39918383	105.2343413	Yunnan Wenshan Malipo
+Mongi		Mongi	Mongi	mond1267	Chen2010	23.39918383	105.2343413	Yunnan Wenshan Malipo
 Alo	41	Alo	Alo	aluo1235	Chen2010	25.937203	102.1064952	Yunnan Chuxiong Wuding
 KopoGepo	49	Kopo (Gepo)	Kopo (Gepo)	gepo1234	Chen2010	25.51563431	102.4630191	Yunnan Kunming Luquan
 Naso	43	Naso	Naso	wume1235	Chen2010	26.89835528	102.9271427	Yunnan Zhaotong Qiaojia
@@ -51,17 +51,17 @@ Nise	42	Nise	Nise		Chen2010	24.68802092	103.6001565	Yunnan Kunming Shilin
 LaowuNisu	44	Laowu Nisu	Laowu Nisu	farn1234	YangWenjing2018	25.74329166	99.57814539	Yunnan Dali Yunlong
 Noso	48	Noso	Noso		Chen2010	25.71000184	104.4715351	Guizhou Anshun Panxian
 Narsu	59	Narsu (NW Nisu)	Narsu	esha1238	Chen2010	24.25746171	102.0476517	Yunnan Yuxi Eshan
-Neshu			Neshu	xinp1238	Chen2010	24.13820926	101.6461907	Yunnan Yuxi Xinping
-Nesu			Nesu	xinp1238	Chen2010	22.623138	101.90012074	Yunnan Pu'er Jiangcheng
+Neshu		Neshu	Neshu	xinp1238	Chen2010	24.13820926	101.6461907	Yunnan Yuxi Xinping
+Nesu		Nesu	Nesu	xinp1238	Chen2010	22.623138	101.90012074	Yunnan Pu'er Jiangcheng
 LopeAwuChen2010	61	Lope (Awu)	Lope (Awu) (Chen 2010)		Chen2010	24.25668563	103.6428899	Yunnan Honghe Mile
 LopeAwuYYFC1983	62	Lope (Awu)2	Lope (Awu) (YYFC 1983)		YYFC1983	24.25668563	103.6428899	Yunnan Honghe Mile
 NNisu	57	N Nisu	N. Nisu	xinp1238	Yang2009	24.13820926	101.6461907	Yunnan Yuxi Xinping
 SNisu	58	S Nisu	S. Nisu	sout2723	Yang2009	23.32715901	102.326438	Yunnan Honghe Honghe
 Lidim	38	Lidim (Tianba)	Lidim		Chen2010	28.96606783	102.7717472	Sichuan Liangshan Ganluo
-NuosuHuangDai1992			Nuosu (Huang & Dai 1992)	yish1238	HuangDai1992	28.30672651	102.4125175	Sichuan Liangshan Xide
+NuosuHuangDai1992		Nuosu (Huang and Dai)	Nuosu (Huang & Dai 1992)	yish1238	HuangDai1992	28.30672651	102.4125175	Sichuan Liangshan Xide
 NosuXide	36	Nosu (Senza)	Nosu (Xide)	yish1238	YYFC1983	28.30672651	102.4125175	Sichuan Liangshan Xide
 Sodi	39	Sodi	Sodi	huil1243	Chen2010	26.65502606	102.2446829	Sichuan Liangshan Huili
-Senza			Senza	yish1238	Chen2010	28.30672651	102.4125175	Sichuan Liangshan Xide
+Senza		Senza	Senza	yish1238	Chen2010	28.30672651	102.4125175	Sichuan Liangshan Xide
 Yino	37	Yino	Yino	yinu1238	Chen2010	28.32864	103.1321792	Sichuan Liangshan Meigu
 Axi	52	Axi	Axi	axiy1235	YYFC1983	24.441446	103.268645	Yunnan Honghe Mile
 Azhe	53	Azhe	Azhe	azhe1235	YYFC1983	24.32964102	103.119097	Yunnan Honghe Mile
@@ -72,6 +72,6 @@ Pholaypg	78	Up: Phola	Phola [ypg]	phol1237	Pelkey2011	23.456381	102.286862	Yunna
 Phuzaypz	82	Phuza	Phuza [ypz]	phuz1235	Pelkey2011	23.253698	103.332621	Yunnan Mengzi County, Lengquan, Bujibai
 SouthernMujiymc	64	S. Muji	Southern Muji [ymc]	sout2722	Pelkey2011	22.895906	103.222074	Yunnan Jinping County, Adebo, Pujiazhai 
 HlephoPhowayhl	74	Hlepho	Hlepho Phowa [yhl]	hlep1236	Pelkey2011	23.33390151	103.7217585	Yunnan Pingbian County, Xinhua, Feizuke Pingbian
-Kazhuo			Kazhuo	kats1235	HuangDai1992	24.1478565	102.6653471	Yunnan Yuxi Tonghai
+Kazhuo		Kazhuo	Kazhuo	kats1235	HuangDai1992	24.1478565	102.6653471	Yunnan Yuxi Tonghai
 LawuXinpingShuitangJiuha	56	Lawu	Lawu-Xinping Shuitang Jiuha	lawu1238	Yang2012	24.1338571	101.4986393	Yunnan Yuxi Xinping
 Toloza	60	Toloza	Toloza	tang1372	Chen2010	26.62042438	100.0342986	Yunnan Lijiang Yulong
