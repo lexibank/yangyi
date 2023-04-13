@@ -100,15 +100,20 @@ class Dataset(BaseDataset):
             )
             concepts[concept.attributes["number_in_source"]] = idx
 
+        dups = set()
         for row in progressbar(raw_entry_dicts, desc="cldfify", total=len(raw_entries)):
             number = row["Yang 2015 #"]
             for language, lid in languages.items():
                 entry = row[language]
                 if entry.strip():
-                    args.writer.add_forms_from_value(
-                            Language_ID=lid,
-                            Parameter_ID=concepts[number],
-                            Value=entry,
-                            Source=sources[language]
-                            )
+                    if (language, entry) in dups:
+                        pass
+                    else:
+                        args.writer.add_forms_from_value(
+                                Language_ID=lid,
+                                Parameter_ID=concepts[number],
+                                Value=entry,
+                                Source=sources[language]
+                                )
+                        dups.add((language, entry))
 
