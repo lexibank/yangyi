@@ -106,7 +106,7 @@ class Dataset(BaseDataset):
             for language, lid in languages.items():
                 entry = row[language]
                 if entry.strip():
-                    if (language, entry) in dups:
+                    if (language, concepts[number], entry) in dups:
                         pass
                     else:
                         args.writer.add_forms_from_value(
@@ -115,5 +115,5 @@ class Dataset(BaseDataset):
                                 Value=entry,
                                 Source=sources[language]
                                 )
-                        dups.add((language, entry))
+                        dups.add((language, concepts[number], entry))
 
