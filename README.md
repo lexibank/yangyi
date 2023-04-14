@@ -1,4 +1,4 @@
-# CLDF dataset accompanying Yang's "Phonetic Tone Change" from 2021
+# CLDF dataset accompanying Yang's "Phonetic Tone Change" from 2022
 
 [![CLDF validation](https://github.com/lexibank/yangyi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/yangyi/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Yang, Cathryn (2021): The phonetic tone change *high > rising: Evidence from the Ngwi dialect laboratory.
+  > Yang, Cathryn (2022): The phonetic tone change *high > rising: Evidence from the Ngwi dialect laboratory. Diachronica. DOI: https://doi.org/10.1075/dia.19062.yan
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description

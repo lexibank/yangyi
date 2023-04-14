@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset accompanying Yang's \"Phonetic Tone Change\" from 2021",
+    "title": "CLDF dataset accompanying Yang's \"Phonetic Tone Change\" from 2022",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -29,5 +29,5 @@
     "license": {
         "id": "CC-BY-4.0"
     },
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yang, Cathryn (2021): The phonetic tone change *high &gt; rising: Evidence from the Ngwi dialect laboratory.</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yang, Cathryn (2022): The phonetic tone change *high &gt; rising: Evidence from the Ngwi dialect laboratory. Diachronica. DOI: https://doi.org/10.1075/dia.19062.yan</p>\n</blockquote>"
 }
