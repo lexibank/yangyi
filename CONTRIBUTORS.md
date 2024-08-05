@@ -3,6 +3,4 @@
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Cathryn Yang       |             | provided data in digital form | Author, DataCollector
-Johann-Mattis List | @LinguList  | maintainer for CLDF version | Other
-
-
+Johann-Mattis List | @LinguList  | maintainer for CLDF version | Editor

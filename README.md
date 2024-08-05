@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 76
-- **Concepts:** 1,001
+- **Varieties:** 76 (linked to 45 different Glottocodes)
+- **Concepts:** 1,001 (linked to 877 different Concepticon concept sets)
 - **Lexemes:** 50,912
 - **Sources:** 18
 - **Synonymy:** 1.00
@@ -44,9 +44,7 @@ Conceptlists in Concepticon:
 Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Cathryn Yang       |             | provided data in digital form | Author, DataCollector
-Johann-Mattis List | @LinguList  | maintainer for CLDF version | Other
-
-
+Johann-Mattis List | @LinguList  | maintainer for CLDF version | Editor
 
 
 
